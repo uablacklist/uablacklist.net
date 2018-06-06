@@ -73,3 +73,21 @@ body {
     margin-top: 30px;
     text-align: right;
 }
+
+#navbar .github-logo a {
+    padding: 9px 15px;
+}
+
+#navbar .github-logo img {
+    height: 22px;
+}
+
+@media (min-width: 768px) {
+    #navbar .github-logo a {
+        padding: 12px;
+    }
+    
+    #navbar .github-logo img {
+        height: 26px;
+    }
+}
