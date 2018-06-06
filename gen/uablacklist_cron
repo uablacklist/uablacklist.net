@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cd /root/uablacklist/gen
+docker build -t uablacklist_gen .
+docker run --rm -v /root/uablacklist/www:/out --name uablacklist_gen uablacklist_gen

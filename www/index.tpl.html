@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Список и API для получения заблокированных в Украине сайтов">
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#101010">
+
+    <title>Список запрещённых в Украине сайтов</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="css/main.css" rel="stylesheet">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+
+    <script>
+      (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+          }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+          m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+      })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+      ga('create', 'UA-41217225-5', 'auto');
+      ga('send', 'pageview');
+
+
+
+
+    </script>
+</head>
+
+<body>
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
+                    aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Переключить навигацию</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">UABLACKLIST.NET</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li><a href="#">API</a></li>
+                <li><a href="#list">Список</a></li>
+                <li><a href="#disqus" style="color: #fff; background-color: #395443">Обсуждение</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="#">Заблокировано: {{ domains|length }} доменов</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container">
+    <h1 id="api">API</h1>
+    <div class="row title api">
+        <div class="col-md-3 single">
+            <h2>all
+                <small>домены + ips + сроки</small>
+            </h2>
+            <ul>
+                <li><a href="all.json">all.json</a></li>
+            </ul>
+        </div>
+        <div class="col-md-3 single">
+            <h2>domains
+                <small>домены</small>
+            </h2>
+            <ul>
+                <li><a href="domains.json">domains.json</a></li>
+                <li><a href="domains.txt">domains.txt</a></li>
+            </ul>
+        </div>
+        <div class="col-md-3 single">
+            <h2>ips
+                <small>только ip доменов</small>
+            </h2>
+            <ul>
+                <li><a href="ips.json">ips.json</a></li>
+                <li><a href="ips.txt">ips.txt</a></li>
+            </ul>
+        </div>
+        <div class="col-md-3 single">
+            <h2>subnets
+                <small>все подсети</small>
+                <span class="info">🛈</span></h2>
+            <ul>
+                <li><a href="subnets.json">subnets.json</a></li>
+                <li><a href="subnets.txt">subnets.txt</a></li>
+                <li><a href="subnets_mikrotik.txt">subnets_mikrotik.txt</a>
+                    <a href="https://gist.github.com/anonymous/956252984d1d0df2ca5a2efc4e934fdf" class="info">🛈</a></li>
+            </ul>
+            <div class="description">Некоторые провайдеры блокируют полностью подсети принадлежащие юридическим
+                лицам, в таком случае будет недостаточно разблокировать только ip доменов
+            </div>
+        </div>
+    </div>
+    <h1 id="list">Список <small>(обновлено: {{ last_update }})</small></h1>
+    <div class="records">
+        <div class="row title">
+            <div class="col-md-3 link">Домен</div>
+            <div class="col-md-7">IP</div>
+            <div class="col-md-2">Срок</div>
+        </div>
+    {% for domain in domains %}
+        <div class="row">
+            <div class="col-md-3 link">
+                <a href="http://{{ domain }}/">{{ domain }}</a>
+                <div class="urls">Ссылки:
+                    <div class="list">
+                    {% for url in info[domain]['urls'] %}
+                        <div><a href="{{ url }}">{{ url }}</a></div>
+                    {% endfor %}        
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-7">{{ info[domain]['ips']|join(' ')|default('не резолвится', true) }}</div>
+            <div class="col-md-2">{{ info[domain].get('term') }}</div>
+        </div>
+    {% endfor %}
+    </div>
+
+    <h1 id="disqus">Обсуждение</h1>
+    <div id="disqus_thread"></div>
+    <script>
+      var disqus_config = function () {
+        this.page.url = 'https://uablacklist.net/';
+        this.page.identifier = 'main';
+      };
+      (function () {
+        var d = document, s = d.createElement('script');
+        s.src = 'https://uablacklist.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+      })();
+
+
+
+    </script>
+    <noscript>Пожалуйста, включите JavaScript чтобы видеть <a href="https://disqus.com/?ref_noscript">комментарии в
+        системе Disqus.</a></noscript>
+    <footer class="footer">
+        <p><a href="mailto:uablacklist.net@gmail.com">Написать админу</a></p>
+    </footer>
+</div><!-- /.container -->
+
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<script src="js/ie10-viewport-bug-workaround.js"></script>
+</body>

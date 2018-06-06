@@ -1,0 +1,75 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.container .total {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.container .link {
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.api ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.api .description {
+    display: none;
+    margin-bottom: 10px;
+    margin-bottom: 10px;
+    position: absolute;
+    background: #ffffff;
+    padding-bottom: 10px;
+    z-index: 1;
+}
+
+.api .single:hover .description {
+    display: block;
+}
+
+.api span.info {
+    padding-left: 5px;
+    font-size: 19px;
+    color: #337ab7;
+}
+
+.api a.info {
+    text-decoration: none;
+}
+
+.api .single:hover span.info {
+    display: none;
+}
+
+.records .row {
+    padding: 5px 0;
+}
+
+.records .row:not(.title):hover {
+    background-color: #ffffd3;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+.records .row .urls {
+    margin-top: 10px;
+    display: none;
+}
+
+.records .row:hover .urls {
+    display: block;
+}
+
+.footer {
+    padding-top: 20px;
+    color: #777;
+    border-top: 1px solid #e5e5e5;
+    margin-top: 30px;
+    text-align: right;
+}

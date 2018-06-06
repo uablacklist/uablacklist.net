@@ -1,0 +1,11 @@
+.idea
+.vscode
+www/all.json
+www/index.html
+www/ips.json
+www/ips.txt
+www/subnets.json
+www/subnets.txt
+www/subnets_mikrotik.txt
+www/domains.json
+www/domains.txt

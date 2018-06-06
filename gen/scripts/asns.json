@@ -1,0 +1,44 @@
+{
+    "webmoney": {
+        "comment": "https://wiki.wmtransfer.com/projects/webmoney/wiki/WM_IP_addresses",
+        "asns": ["AS43776", "AS25308", "AS56806"]
+    },
+    "vk": {
+        "asns": [
+            "AS47542",
+            "AS47541",
+            "AS28709"
+        ]
+    },
+    "mail.ru": {
+        "asns": [
+            "AS47764",
+            "AS61119",
+            "AS21051",
+            "AS49797",
+            "AS49988",
+            "AS51286",
+            "AS60863"
+        ]
+    },
+    "kaspersky": {
+        "asns": [
+            "AS41983",
+            "AS200107"
+        ]
+    },
+    "drweb": {
+        "asns": [
+            "AS49238",
+            "AS59446"
+        ]
+    },
+    "yandex": {
+        "asns": [
+            "AS43247",
+            "AS207207",
+            "AS202611",
+            "AS13238"
+        ]
+    }
+}

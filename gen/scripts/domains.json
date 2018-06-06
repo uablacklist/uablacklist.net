@@ -1,0 +1,2016 @@
+{
+    "vk.com": {
+        "term": "15.05.2020",
+        "alias": "vk",
+        "urls": [
+            "http://vk.com/"
+        ]
+    },
+    "ok.ru": {
+        "term": "15.05.2020",
+        "alias": "mail.ru",
+        "urls": [
+            "http://ok.ru/"
+        ]
+    },
+    "mail.ru": {
+        "term": "15.05.2020",
+        "alias": "mail.ru",
+        "urls": [
+            "http://mail.ru/"
+        ]
+    },
+    "www.kaspersky.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "http://www.kaspersky.ru"
+        ],
+        "alias": "kaspersky"
+    },
+    "www.drweb.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://www.drweb.ru"
+        ],
+        "alias": "drweb"
+    },
+    "avia.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://avia.yandex.ru/?utm_source=yamain&utm_medium=popup&utm_campaign=allru"
+        ],
+        "alias": "yandex"
+    },
+    "auto.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://auto.ru/?from=all-services"
+        ],
+        "alias": "yandex"
+    },
+    "audience.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://audience.yandex.ru/"
+        ],
+        "alias": "yandex"
+    },
+    "afisha.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://afisha.yandex.ru/?city=moscow"
+        ],
+        "alias": "yandex"
+    },
+    "money.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://money.yandex.ru/new",
+            "https://money.yandex.ru/card2card/?_openstat=c2cw;all;",
+            "https://money.yandex.ru/gibdd-debts/?_openstat=debtsp;y_all;",
+            "https://money.yandex.ru/newcard?_openstat=yacard;all;"
+        ],
+        "alias": "yandex"
+    },
+    "webmaster.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://webmaster.yandex.ru/"
+        ],
+        "alias": "yandex"
+    },
+    "yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://yandex.ru/images/",
+            "https://yandex.ru/maps/213/moscow/?l=trf%2Ctrfe",
+            "https://yandex.ru/internet/",
+            "https://yandex.ru/adv?from=all",
+            "https://yandex.ru/time",
+            "https://yandex.ru/maps",
+            "https://yandex.ru/blogs?redirected=1&lr=213",
+            "https://yandex.ru/suvenirka",
+            "https://yandex.ru/video/",
+            "https://yandex.ru/people?lr=213",
+            "https://yandex.ru/pogoda/moscow",
+            "https://yandex.ru/yaca/",
+            "https://yandex.ru/"
+        ],
+        "alias": "yandex"
+    },
+    "direct.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://direct.yandex.ru/?from=all"
+        ],
+        "alias": "yandex"
+    },
+    "disk.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://disk.yandex.ru/?source=services-main"
+        ],
+        "alias": "yandex"
+    },
+    "delivery.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://delivery.yandex.ru/promo/"
+        ],
+        "alias": "yandex"
+    },
+    "calendar.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://calendar.yandex.ru/"
+        ],
+        "alias": "yandex"
+    },
+    "kassa.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://kassa.yandex.ru/?_openstat=promo;y_all;"
+        ],
+        "alias": "yandex"
+    },
+    "www.kinopoisk.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://www.kinopoisk.ru/?utm_source=yamain&utm_medium=link&utm_campaign=main"
+        ],
+        "alias": "yandex"
+    },
+    "market.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://market.yandex.ru/?clid=505"
+        ],
+        "alias": "yandex"
+    },
+    "metrika.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://metrika.yandex.ru/promo"
+        ],
+        "alias": "yandex"
+    },
+    "metro.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://metro.yandex.ru/moscow"
+        ],
+        "alias": "yandex"
+    },
+    "music.yandex.ua": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://music.yandex.ua/"
+        ],
+        "alias": "yandex"
+    },
+    "n.maps.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://n.maps.yandex.ru/#!/?z=12&ll=30.523541%2C50.450418&l=nk%23sat",
+            "https://n.maps.yandex.ru/"
+        ],
+        "alias": "yandex"
+    },
+    "realty.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://realty.yandex.ru/?from=all"
+        ],
+        "alias": "yandex"
+    },
+    "news.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://news.yandex.ru/"
+        ],
+        "alias": "yandex"
+    },
+    "translate.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://translate.yandex.ru/"
+        ],
+        "alias": "yandex"
+    },
+    "mail.yandex.ua": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://mail.yandex.ua/"
+        ],
+        "alias": "yandex"
+    },
+    "pdd.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://pdd.yandex.ru/domains_add/"
+        ],
+        "alias": "yandex"
+    },
+    "travel.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://travel.yandex.ru/?from=morda&utm_source=yandex_morda_tab&utm_medium=cpm&utm_campaign=yandex&utm_content=tab_exp"
+        ],
+        "alias": "yandex"
+    },
+    "rabota.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://rabota.yandex.ru/?from=morda_all"
+        ],
+        "alias": "yandex"
+    },
+    "radio.yandex.ua": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://radio.yandex.ua/"
+        ],
+        "alias": "yandex"
+    },
+    "rasp.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://rasp.yandex.ru/"
+        ],
+        "alias": "yandex"
+    },
+    "partner.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://partner.yandex.ru/"
+        ],
+        "alias": "yandex"
+    },
+    "sprav.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://sprav.yandex.ru/"
+        ],
+        "alias": "yandex"
+    },
+    "stat.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://stat.yandex.ru/Russia/Portal"
+        ],
+        "alias": "yandex"
+    },
+    "taxi.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://taxi.yandex.ru/#index"
+        ],
+        "alias": "yandex"
+    },
+    "tv.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://tv.yandex.ru/213"
+        ],
+        "alias": "yandex"
+    },
+    "telephony.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://telephony.yandex.ru/"
+        ],
+        "alias": "yandex"
+    },
+    "tech.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://tech.yandex.ru/"
+        ],
+        "alias": "yandex"
+    },
+    "fotki.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://fotki.yandex.ru/next/"
+        ],
+        "alias": "yandex"
+    },
+    "dns.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://dns.yandex.ru/"
+        ],
+        "alias": "yandex"
+    },
+    "browser.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://browser.yandex.ru/desktop/main/?from=prov_all"
+        ],
+        "alias": "yandex"
+    },
+    "speechkit.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://speechkit.yandex.ru/dev"
+        ],
+        "alias": "yandex"
+    },
+    "xml.yandex.ru": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://xml.yandex.ru/"
+        ],
+        "alias": "yandex"
+    },
+    "yandexdatafactory.com": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://yandexdatafactory.com/ru/"
+        ],
+        "alias": "yandex"
+    },
+    "avia.yandex.ua": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://avia.yandex.ua/?utm_source=yamain&utm_medium=popup&utm_campaign=allua"
+        ],
+        "alias": "yandex"
+    },
+    "audience.yandex.ua": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://audience.yandex.ua/"
+        ],
+        "alias": "yandex"
+    },
+    "afisha.yandex.ua": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://afisha.yandex.ua/events?city=kyiv&tag=cinema"
+        ],
+        "alias": "yandex"
+    },
+    "yandex.ua": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://yandex.ua/yaca/",
+            "https://yandex.ua/adv?from=all",
+            "https://yandex.ua/maps/143/kyiv/?l=trf%2Ctrfe",
+            "https://yandex.ua/people?lr=143",
+            "https://yandex.ua/internet",
+            "https://yandex.ua/images/",
+            "https://yandex.ua/video/",
+            "https://yandex.ua/",
+            "https://yandex.ua/maps",
+            "https://yandex.ua/pogoda/kyiv",
+            "https://yandex.ua/blogs?rdrnd=234434&lr=143&redircnt=1475842393.1"
+        ],
+        "alias": "yandex"
+    },
+    "disk.yandex.ua": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://disk.yandex.ua/?source=services-main"
+        ],
+        "alias": "yandex"
+    },
+    "direct.yandex.ua": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://direct.yandex.ua/?from=all&ncrnd=5179"
+        ],
+        "alias": "yandex"
+    },
+    "sprav.yandex.ua": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://sprav.yandex.ua/"
+        ],
+        "alias": "yandex"
+    },
+    "zno.yandex.ua": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://zno.yandex.ua/ru/"
+        ],
+        "alias": "yandex"
+    },
+    "market.yandex.ua": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://market.yandex.ua/?clid=505"
+        ],
+        "alias": "yandex"
+    },
+    "metrika.yandex.ua": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://metrika.yandex.ua/promo"
+        ],
+        "alias": "yandex"
+    },
+    "metro.yandex.ua": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://metro.yandex.ua/kiev"
+        ],
+        "alias": "yandex"
+    },
+    "news.yandex.ua": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://news.yandex.ua/"
+        ],
+        "alias": "yandex"
+    },
+    "translate.yandex.ua": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://translate.yandex.ua/"
+        ],
+        "alias": "yandex"
+    },
+    "site.yandex.ua": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://site.yandex.ua/"
+        ],
+        "alias": "yandex"
+    },
+    "rabota.yandex.ua": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://rabota.yandex.ua/?from=morda_all"
+        ],
+        "alias": "yandex"
+    },
+    "rasp.yandex.ua": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://rasp.yandex.ua/?lang=ru"
+        ],
+        "alias": "yandex"
+    },
+    "partner.yandex.ua": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://partner.yandex.ua/"
+        ],
+        "alias": "yandex"
+    },
+    "passport.yandex.ua": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://passport.yandex.ua/auth/update/?retpath="
+        ],
+        "alias": "yandex"
+    },
+    "stat.yandex.ua": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://stat.yandex.ua/Ukraine/Portal"
+        ],
+        "alias": "yandex"
+    },
+    "tv.yandex.ua": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://tv.yandex.ua/187?grid=main&period=now"
+        ],
+        "alias": "yandex"
+    },
+    "dns.yandex.ua": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://dns.yandex.ua/"
+        ],
+        "alias": "yandex"
+    },
+    "browser.yandex.ua": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://browser.yandex.ua/desktop/?from=prov_all"
+        ],
+        "alias": "yandex"
+    },
+    "xml.yandex.ua": {
+        "term": "15.05.2020",
+        "urls": [
+            "https://xml.yandex.ua/"
+        ],
+        "alias": "yandex"
+    },
+    "ubp.com.ua": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «Український бізнес портал»",
+        "alias": "ubp",
+        "urls": [
+            "http://ubp.com.ua/"
+        ]
+    },
+    "eizvestia.com": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «Медіа інновейшн груп»",
+        "alias": "eizvestia",
+        "urls": [
+            "http://eizvestia.com/"
+        ]
+    },
+    "vgtrk.com": {
+        "term": "02.05.2021",
+        "company": "Федеральне державне унітарне підприємство «Всеросійська державна телевізійна і радіомовна компанія»",
+        "alias": "vgtrk",
+        "urls": [
+            "http://vgtrk.com/"
+        ]
+    },
+    "mobile.vgtrk.com": {
+        "term": "02.05.2021",
+        "company": "Федеральне державне унітарне підприємство «Всеросійська державна телевізійна і радіомовна компанія»",
+        "alias": "vgtrk",
+        "urls": [
+            "http://mobile.vgtrk.com/"
+        ]
+    },
+    "i-mult.tlum.ru": {
+        "term": "02.05.2021",
+        "company": "Федеральне державне унітарне підприємство «Всеросійська державна телевізійна і радіомовна компанія»",
+        "alias": "vgtrk",
+        "urls": [
+            "http://i-mult.tlum.ru/"
+        ]
+    },
+    "multvkino.tlum.ru": {
+        "term": "02.05.2021",
+        "company": "Федеральне державне унітарне підприємство «Всеросійська державна телевізійна і радіомовна компанія»",
+        "alias": "vgtrk",
+        "urls": [
+            "http://multvkino.tlum.ru/"
+        ]
+    },
+    "100kwt.com": {
+        "term": "02.05.2021",
+        "company": "Федеральне державне унітарне підприємство «Всеросійська державна телевізійна і радіомовна компанія»",
+        "alias": "vgtrk",
+        "urls": [
+            "http://100kwt.com/"
+        ]
+    },
+    "nashe.ru": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «Наше Радіо»",
+        "alias": "nashe",
+        "urls": [
+            "http://nashe.ru/"
+        ]
+    },
+    "promedia.ru": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «Промедіа»",
+        "alias": "promedia",
+        "urls": [
+            "http://promedia.ru/"
+        ]
+    },
+    "wbc.com.ru": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «Медіа Контент»",
+        "alias": "wbc",
+        "urls": [
+            "http://wbc.com.ru/"
+        ]
+    },
+    "otr-online.ru": {
+        "term": "02.05.2021",
+        "company": "Автономна некомерційна організація «Суспільне телебачення Росії»",
+        "alias": "otr",
+        "urls": [
+            "http://otr-online.ru/"
+        ]
+    },
+    "ren.tv": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «Акцепт», телевізійний канал «Рен ТВ»",
+        "alias": "ren",
+        "urls": [
+            "http://ren.tv/"
+        ]
+    },
+    "5-tv.ru": {
+        "term": "02.05.2021",
+        "company": "Відкрите акціонерне товариство «Телерадіокомпанія Петербург»",
+        "alias": "5_tv",
+        "urls": [
+            "http://5-tv.ru/"
+        ]
+    },
+    "nm-g.ru": {
+        "term": "02.05.2021",
+        "company": "Закрите акціонерне товариство «Національна медіа група»",
+        "alias": "nm_g",
+        "urls": [
+            "http://nm-g.ru/"
+        ]
+    },
+    "россиясегодня.рф": {
+        "urls": [
+            "http://россиясегодня.рф/"
+        ],
+        "term": "02.05.2021",
+        "company": "Федеральне державне унітарне підприємство «Міжнародне інформаційне агентство «Росія сьогодні»",
+        "alias": "ria_ru"
+    },
+    "sputniknews.com": {
+        "urls": [
+            "http://sputniknews.com/"
+        ],
+        "term": "02.05.2021",
+        "company": "Федеральне державне унітарне підприємство «Міжнародне інформаційне агентство «Росія сьогодні»",
+        "alias": "ria_ru"
+    },
+    "ria.ru": {
+        "urls": [
+            "http://ria.ru/"
+        ],
+        "term": "02.05.2021",
+        "company": "Федеральне державне унітарне підприємство «Міжнародне інформаційне агентство «Росія сьогодні»",
+        "alias": "ria_ru"
+    },
+    "rsport.ria.ru": {
+        "urls": [
+            "http://rsport.ria.ru/"
+        ],
+        "term": "02.05.2021",
+        "company": "Федеральне державне унітарне підприємство «Міжнародне інформаційне агентство «Росія сьогодні»",
+        "alias": "ria_ru"
+    },
+    "1prime.ru": {
+        "urls": [
+            "http://1prime.ru/"
+        ],
+        "term": "02.05.2021",
+        "company": "Федеральне державне унітарне підприємство «Міжнародне інформаційне агентство «Росія сьогодні»",
+        "alias": "ria_ru"
+    },
+    "realty.ria.ru": {
+        "urls": [
+            "http://realty.ria.ru/"
+        ],
+        "term": "02.05.2021",
+        "company": "Федеральне державне унітарне підприємство «Міжнародне інформаційне агентство «Росія сьогодні»",
+        "alias": "ria_ru"
+    },
+    "riarating.ru": {
+        "urls": [
+            "http://riarating.ru/"
+        ],
+        "term": "02.05.2021",
+        "company": "Федеральне державне унітарне підприємство «Міжнародне інформаційне агентство «Росія сьогодні»",
+        "alias": "ria_ru"
+    },
+    "inosmi.ru": {
+        "urls": [
+            "http://inosmi.ru/"
+        ],
+        "term": "02.05.2021",
+        "company": "Федеральне державне унітарне підприємство «Міжнародне інформаційне агентство «Росія сьогодні»",
+        "alias": "ria_ru"
+    },
+    "radiovera.ru": {
+        "term": "02.05.2021",
+        "company": "Автономна некомерційна організація Інформаційний центр радіомовлення, мистецтва і культури «ВІРА, НАДІЯ, ЛЮБОВ»",
+        "alias": "radiovera",
+        "urls": [
+            "http://radiovera.ru/"
+        ]
+    },
+    "tnt-online.ru": {
+        "term": "02.05.2021",
+        "company": "Акціонерне товариство «МОСКВА МЕДІА»",
+        "alias": "tnt",
+        "urls": [
+            "http://tnt-online.ru/"
+        ]
+    },
+    "tvzvezda.ru": {
+        "term": "02.05.2021",
+        "company": "Відкрите акціонерне товариство «Телерадіокомпанія Збройних сил Російської Федерації «ЗІРКА»",
+        "alias": "tvzvezda",
+        "urls": [
+            "http://tvzvezda.ru/"
+        ]
+    },
+    "ntvplus.ru": {
+        "term": "02.05.2021",
+        "company": "Відкрите акціонерне товариство «НТВ-ПЛЮС»",
+        "alias": "ntvplus",
+        "urls": [
+            "http://ntvplus.ru/"
+        ]
+    },
+    "rtr-planeta.com": {
+        "term": "02.05.2021",
+        "company": "Телеканали «РТР-Планета», інформаційний канал «Росія-24», які входять до структури Федерального державного унітарного підприємства «Всеросійська державна телевізійна і радіомовна компанія»",
+        "alias": "rtr",
+        "urls": [
+            "http://rtr-planeta.com/"
+        ]
+    },
+    "russia.tv": {
+        "term": "02.05.2021",
+        "company": "Телеканали «РТР-Планета», інформаційний канал «Росія-24», які входять до структури Федерального державного унітарного підприємства «Всеросійська державна телевізійна і радіомовна компанія»",
+        "alias": "rtr",
+        "urls": [
+            "http://russia.tv/"
+        ]
+    },
+    "vesti.ru": {
+        "term": "02.05.2021",
+        "company": "Телеканали «РТР-Планета», інформаційний канал «Росія-24», які входять до структури Федерального державного унітарного підприємства «Всеросійська державна телевізійна і радіомовна компанія»",
+        "alias": "rtr",
+        "urls": [
+            "http://vesti.ru/"
+        ]
+    },
+    "tvkultura.ru": {
+        "term": "02.05.2021",
+        "company": "Телеканали «РТР-Планета», інформаційний канал «Росія-24», які входять до структури Федерального державного унітарного підприємства «Всеросійська державна телевізійна і радіомовна компанія»",
+        "alias": "rtr",
+        "urls": [
+            "http://tvkultura.ru/"
+        ]
+    },
+    "digitalrussia.tv": {
+        "term": "02.05.2021",
+        "company": "Телеканали «РТР-Планета», інформаційний канал «Росія-24», які входять до структури Федерального державного унітарного підприємства «Всеросійська державна телевізійна і радіомовна компанія»",
+        "alias": "rtr",
+        "urls": [
+            "http://digitalrussia.tv/"
+        ]
+    },
+    "1tv.com": {
+        "term": "02.05.2021",
+        "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
+        "alias": "1tv",
+        "urls": [
+            "http://1tv.com/"
+        ]
+    },
+    "domkino.tv": {
+        "term": "02.05.2021",
+        "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
+        "alias": "1tv",
+        "urls": [
+            "http://domkino.tv/"
+        ]
+    },
+    "domkino-premium.tv": {
+        "term": "02.05.2021",
+        "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
+        "alias": "1tv",
+        "urls": [
+            "http://domkino-premium.tv/"
+        ]
+    },
+    "muz1.tv": {
+        "term": "02.05.2021",
+        "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
+        "alias": "1tv",
+        "urls": [
+            "http://muz1.tv/"
+        ]
+    },
+    "vremya.tv": {
+        "term": "02.05.2021",
+        "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
+        "alias": "1tv",
+        "urls": [
+            "http://vremya.tv/"
+        ]
+    },
+    "telecafe.ru": {
+        "term": "02.05.2021",
+        "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
+        "alias": "1tv",
+        "urls": [
+            "http://telecafe.ru/"
+        ]
+    },
+    "bober-tv.ru": {
+        "term": "02.05.2021",
+        "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
+        "alias": "1tv",
+        "urls": [
+            "http://bober-tv.ru/"
+        ]
+    },
+    "kanal-o.ru": {
+        "term": "02.05.2021",
+        "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
+        "alias": "1tv",
+        "urls": [
+            "http://kanal-o.ru/"
+        ]
+    },
+    "poehali.tv": {
+        "term": "02.05.2021",
+        "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
+        "alias": "1tv",
+        "urls": [
+            "http://poehali.tv/"
+        ]
+    },
+    "katyusha.tv": {
+        "term": "02.05.2021",
+        "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
+        "alias": "1tv",
+        "urls": [
+            "http://katyusha.tv/"
+        ]
+    },
+    "karusel-tv.ru": {
+        "term": "02.05.2021",
+        "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
+        "alias": "1tv",
+        "urls": [
+            "http://karusel-tv.ru/"
+        ]
+    },
+    "ntv.ru": {
+        "term": "02.05.2021",
+        "company": "Відкрите акціонерне товариство «Телекомпанія НТВ»",
+        "alias": "ntv",
+        "urls": [
+            "http://ntv.ru/"
+        ]
+    },
+    "rian.com.ua": {
+        "term": "02.05.2021",
+        "company": "Представництво Федерального державного унітарного підприємства «Российское агентство международной информации «Российское информационное агентство (РИА) «Новости»",
+        "alias": "rian",
+        "urls": [
+            "http://rian.com.ua/"
+        ]
+    },
+    "www.capitaller.ru": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://www.capitaller.ru/"
+        ]
+    },
+    "mini.webmoney.ru": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://mini.webmoney.ru/"
+        ]
+    },
+    "mini.wmtransfer.com": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://mini.wmtransfer.com/"
+        ]
+    },
+    "light.webmoney.ru": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://light.webmoney.ru/"
+        ]
+    },
+    "light.wmtransfer.com": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://light.wmtransfer.com/"
+        ]
+    },
+    "wiki.webmoney.ru": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://wiki.webmoney.ru/"
+        ]
+    },
+    "webmoney.ru": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://webmoney.ru/"
+        ]
+    },
+    "wmtransfer.com": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://wmtransfer.com/"
+        ]
+    },
+    "passport.webmoney.ru": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://passport.webmoney.ru/"
+        ]
+    },
+    "security.webmoney.ru": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://security.webmoney.ru/"
+        ]
+    },
+    "security.wmtransfer.com": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://security.wmtransfer.com/"
+        ]
+    },
+    "exchanger.ru": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://exchanger.ru/"
+        ]
+    },
+    "login.wmtransfer.com": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://login.wmtransfer.com/"
+        ]
+    },
+    "credit.webmoney.ru": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://credit.webmoney.ru/"
+        ]
+    },
+    "debt.wmtransfer.com": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://debt.wmtransfer.com/"
+        ]
+    },
+    "banking.guarantee.ru": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://banking.guarantee.ru/"
+        ]
+    },
+    "banking.gdcert.com": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://banking.gdcert.com/"
+        ]
+    },
+    "banking.wmeuro.eu": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://banking.wmeuro.eu/"
+        ]
+    },
+    "webmoney.ua": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://webmoney.ua/"
+        ]
+    },
+    "banks.webmoney.ru": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://banks.webmoney.ru/"
+        ]
+    },
+    "arbitrage.webmoney.ru": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://arbitrage.webmoney.ru/"
+        ]
+    },
+    "keeper.webmoney.ru": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://keeper.webmoney.ru/"
+        ]
+    },
+    "keeper.wmtransfer.com": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://keeper.wmtransfer.com/"
+        ]
+    },
+    "wmsc1.webmoney.ru": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://wmsc1.webmoney.ru/"
+        ]
+    },
+    "wmsc2.webmoney.ru": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://wmsc2.webmoney.ru/"
+        ]
+    },
+    "wmsc3.webmoney.ru": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://wmsc3.webmoney.ru/"
+        ]
+    },
+    "wmsc4.webmoney.ru": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://wmsc4.webmoney.ru/"
+        ]
+    },
+    "merchant.webmoney.ru": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://merchant.webmoney.ru/"
+        ]
+    },
+    "merchant.wmtransfer.com": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://merchant.wmtransfer.com/"
+        ]
+    },
+    "telepay.webmoney.ru": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://telepay.webmoney.ru/"
+        ]
+    },
+    "telepay.wmtransfer.com": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://telepay.wmtransfer.com/"
+        ]
+    },
+    "wm.exchanger.money": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://wm.exchanger.money/"
+        ]
+    },
+    "events.wmtransfer.com": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://events.wmtransfer.com/"
+        ]
+    },
+    "arbitrage.webmoney.ua": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://arbitrage.webmoney.ua/"
+        ]
+    },
+    "files.wmtransfer.com": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://files.wmtransfer.com/"
+        ]
+    },
+    "mail.wmid.com": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://mail.wmid.com/"
+        ]
+    },
+    "advisor.wmtransfer.com": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://advisor.wmtransfer.com/"
+        ]
+    },
+    "paymaster.ua": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://paymaster.ua/"
+        ]
+    },
+    "elmi.ua": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://elmi.ua/"
+        ]
+    },
+    "wm-factor.com.ua": {
+        "term": "02.05.2021",
+        "company": "Товариство з обмеженою відповідальністю «ВМР»",
+        "alias": "webmoney",
+        "urls": [
+            "http://wm-factor.com.ua/"
+        ]
+    },
+    "news-front.info": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://news-front.info/"
+        ]
+    },
+    "antimaydan.info": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://antimaydan.info/"
+        ]
+    },
+    "novorossia.today": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://novorossia.today/"
+        ]
+    },
+    "dan-news.info": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://dan-news.info/"
+        ]
+    },
+    "mvddnr.ru": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://mvddnr.ru/"
+        ]
+    },
+    "mgb-dnr.ru": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://mgb-dnr.ru/"
+        ]
+    },
+    "dnmchs.ru": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://dnmchs.ru/"
+        ]
+    },
+    "minfindnr.ru": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://minfindnr.ru/"
+        ]
+    },
+    "mintek-dnr.ru": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://mintek-dnr.ru/"
+        ]
+    },
+    "minstroy-dnr.ru": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://minstroy-dnr.ru/"
+        ]
+    },
+    "mtspdnr.ru": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://mtspdnr.ru/"
+        ]
+    },
+    "agroprom.msdnr.ru": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://agroprom.msdnr.ru/"
+        ]
+    },
+    "mondnr.ru": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://mondnr.ru/"
+        ]
+    },
+    "minjust-dnr.ru": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://minjust-dnr.ru/"
+        ]
+    },
+    "dnr-online.ru": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://dnr-online.ru/"
+        ]
+    },
+    "dommintrans.ru": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://dommintrans.ru/"
+        ]
+    },
+    "msdnr.ru": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://msdnr.ru/"
+        ]
+    },
+    "novopressa.ru": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://novopressa.ru/"
+        ]
+    },
+    "tk-union.tv": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://tk-union.tv/"
+        ]
+    },
+    "republic-tv.ru": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://republic-tv.ru/"
+        ]
+    },
+    "novorossiatv.com": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://novorossiatv.com/"
+        ]
+    },
+    "dnr-news.com": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://dnr-news.com/"
+        ]
+    },
+    "tribunal.dnr-online.ru": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://tribunal.dnr-online.ru/"
+        ]
+    },
+    "dnipress.com": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://dnipress.com/"
+        ]
+    },
+    "фридом.su": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://фридом.su/"
+        ]
+    },
+    "dnr-pravda.ru": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://dnr-pravda.ru/"
+        ]
+    },
+    "smdnr.ru": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://smdnr.ru/"
+        ]
+    },
+    "glavstat.govdnr.ru": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://glavstat.govdnr.ru/"
+        ]
+    },
+    "mincult.govdnr.ru": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://mincult.govdnr.ru/"
+        ]
+    },
+    "minzdrav.govdnr.ru": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://minzdrav.govdnr.ru/"
+        ]
+    },
+    "izpp.govdnr.ru": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://izpp.govdnr.ru/"
+        ]
+    },
+    "rst-dnr.ru": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://rst-dnr.ru/"
+        ]
+    },
+    "admin-gorlovka.ru": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://admin-gorlovka.ru/"
+        ]
+    },
+    "gorlovka.today": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://gorlovka.today/"
+        ]
+    },
+    "dnr-hotline.ru": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://dnr-hotline.ru/"
+        ]
+    },
+    "dnr24.su": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://dnr24.su/"
+        ]
+    },
+    "dnr24.com": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://dnr24.com/"
+        ]
+    },
+    "bizdnr.ru": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://bizdnr.ru/"
+        ]
+    },
+    "dnr-live.ru": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://dnr-live.ru/"
+        ]
+    },
+    "dnr-life.ru": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://dnr-life.ru/"
+        ]
+    },
+    "donbass.media": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://donbass.media/"
+        ]
+    },
+    "novorossia-tv.ru": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://novorossia-tv.ru/"
+        ]
+    },
+    "russian.oplot.tv": {
+        "term": "02.05.2021",
+        "company": "Захарченко Олександр Володимирович",
+        "alias": "zakharchenko",
+        "urls": [
+            "http://russian.oplot.tv/"
+        ]
+    },
+    "ruscrimea.ru": {
+        "term": "02.05.2021",
+        "company": "Аксьонов Сергій Валерійович",
+        "alias": "aksonov",
+        "urls": [
+            "http://ruscrimea.ru/"
+        ]
+    },
+    "c-pravda.ru": {
+        "term": "02.05.2021",
+        "company": "Аксьонов Сергій Валерійович",
+        "alias": "aksonov",
+        "urls": [
+            "http://c-pravda.ru/"
+        ]
+    },
+    "reporter-crimea.ru": {
+        "term": "02.05.2021",
+        "company": "Аксьонов Сергій Валерійович",
+        "alias": "aksonov",
+        "urls": [
+            "http://reporter-crimea.ru/"
+        ]
+    },
+    "allcrimea.net": {
+        "term": "02.05.2021",
+        "company": "Аксьонов Сергій Валерійович",
+        "alias": "aksonov",
+        "urls": [
+            "http://allcrimea.net/"
+        ]
+    },
+    "kianews.com.ua": {
+        "term": "02.05.2021",
+        "company": "Аксьонов Сергій Валерійович",
+        "alias": "aksonov",
+        "urls": [
+            "http://kianews.com.ua/"
+        ]
+    },
+    "gazeta.ok-crimea.ru": {
+        "term": "02.05.2021",
+        "company": "Аксьонов Сергій Валерійович",
+        "alias": "aksonov",
+        "urls": [
+            "http://gazeta.ok-crimea.ru/"
+        ]
+    },
+    "sevastopol.press": {
+        "term": "02.05.2021",
+        "company": "Аксьонов Сергій Валерійович",
+        "alias": "aksonov",
+        "urls": [
+            "http://Sevastopol.press/"
+        ]
+    },
+    "rk.gov.ru": {
+        "term": "02.05.2021",
+        "company": "Аксьонов Сергій Валерійович",
+        "alias": "aksonov",
+        "urls": [
+            "http://rk.gov.ru/"
+        ]
+    },
+    "mtur.rk.gov.ru": {
+        "term": "02.05.2021",
+        "company": "Аксьонов Сергій Валерійович",
+        "alias": "aksonov",
+        "urls": [
+            "http://mtur.rk.gov.ru/"
+        ]
+    },
+    "crimea.gov.ru": {
+        "term": "02.05.2021",
+        "company": "Аксьонов Сергій Валерійович",
+        "alias": "aksonov",
+        "urls": [
+            "http://crimea.gov.ru/"
+        ]
+    },
+    "82.fskn.ru": {
+        "term": "02.05.2021",
+        "company": "Аксьонов Сергій Валерійович",
+        "alias": "aksonov",
+        "urls": [
+            "http://82.fskn.ru/"
+        ]
+    },
+    "ikrim.net": {
+        "term": "02.05.2021",
+        "company": "Аксьонов Сергій Валерійович",
+        "alias": "aksonov",
+        "urls": [
+            "http://ikrim.net/"
+        ]
+    },
+    "c-inform.info": {
+        "term": "02.05.2021",
+        "company": "Аксьонов Сергій Валерійович",
+        "alias": "aksonov",
+        "urls": [
+            "http://c-inform.info/"
+        ]
+    },
+    "nts-tv.com": {
+        "term": "02.05.2021",
+        "company": "Аксьонов Сергій Валерійович",
+        "alias": "aksonov",
+        "urls": [
+            "http://nts-tv.com/"
+        ]
+    },
+    "1sev.tv": {
+        "term": "02.05.2021",
+        "company": "Аксьонов Сергій Валерійович",
+        "alias": "aksonov",
+        "urls": [
+            "http://1sev.tv/"
+        ]
+    },
+    "трк-итв.рф": {
+        "term": "02.05.2021",
+        "company": "Аксьонов Сергій Валерійович",
+        "alias": "aksonov",
+        "urls": [
+            "http://трк-итв.рф/"
+        ]
+    },
+    "trkekran.mybb.ru": {
+        "term": "02.05.2021",
+        "company": "Аксьонов Сергій Валерійович",
+        "alias": "aksonov",
+        "urls": [
+            "http://trkekran.mybb.ru/"
+        ]
+    },
+    "crimea-channel.ru": {
+        "term": "02.05.2021",
+        "company": "Аксьонов Сергій Валерійович",
+        "alias": "aksonov",
+        "urls": [
+            "http://crimea-channel.ru/"
+        ]
+    },
+    "trkmillet.ru": {
+        "term": "02.05.2021",
+        "company": "Аксьонов Сергій Валерійович",
+        "alias": "aksonov",
+        "urls": [
+            "http://trkmillet.ru/"
+        ]
+    },
+    "1tvcrimea.ru": {
+        "term": "02.05.2021",
+        "company": "Аксьонов Сергій Валерійович",
+        "alias": "aksonov",
+        "urls": [
+            "http://1tvcrimea.ru/"
+        ]
+    },
+    "ikstv.ru": {
+        "term": "02.05.2021",
+        "company": "Аксьонов Сергій Валерійович",
+        "alias": "aksonov",
+        "urls": [
+            "http://ikstv.ru/"
+        ]
+    },
+    "yalta-tv.ru": {
+        "term": "02.05.2021",
+        "company": "Аксьонов Сергій Валерійович",
+        "alias": "aksonov",
+        "urls": [
+            "http://yalta-tv.ru/"
+        ]
+    },
+    "yaltatv.ru": {
+        "term": "02.05.2021",
+        "company": "Аксьонов Сергій Валерійович",
+        "alias": "aksonov",
+        "urls": [
+            "http://yaltatv.ru/"
+        ]
+    },
+    "brttv.ru": {
+        "term": "02.05.2021",
+        "company": "Аксьонов Сергій Валерійович",
+        "alias": "aksonov",
+        "urls": [
+            "http://brttv.ru/"
+        ]
+    },
+    "kianews24.ru": {
+        "term": "02.05.2021",
+        "company": "Аксьонов Сергій Валерійович",
+        "alias": "aksonov",
+        "urls": [
+            "http://kianews24.ru/"
+        ]
+    },
+    "c-eho.info": {
+        "term": "02.05.2021",
+        "company": "Аксьонов Сергій Валерійович",
+        "alias": "aksonov",
+        "urls": [
+            "http://c-eho.info/"
+        ]
+    },
+    "crimea.ria.ru": {
+        "term": "02.05.2021",
+        "company": "Аксьонов Сергій Валерійович",
+        "alias": "aksonov",
+        "urls": [
+            "http://crimea.ria.ru/"
+        ]
+    },
+    "komtv.org": {
+        "term": "02.05.2021",
+        "company": "Аксьонов Сергій Валерійович",
+        "alias": "aksonov",
+        "urls": [
+            "http://komtv.org/"
+        ]
+    },
+    "gazetacrimea.ru": {
+        "term": "02.05.2021",
+        "company": "Аксьонов Сергій Валерійович",
+        "alias": "aksonov",
+        "urls": [
+            "http://gazetacrimea.ru/"
+        ]
+    },
+    "lug-info.com": {
+        "term": "02.05.2021",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk",
+        "urls": [
+            "http://lug-info.com/"
+        ]
+    },
+    "novoross.info": {
+        "term": "02.05.2021",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk",
+        "urls": [
+            "http://novoross.info/"
+        ]
+    },
+    "sovminlnr.su": {
+        "term": "02.05.2021",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk",
+        "urls": [
+            "http://Sovminlnr.su/"
+        ]
+    },
+    "mslnr.su": {
+        "term": "02.05.2021",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk",
+        "urls": [
+            "http://Mslnr.su/"
+        ]
+    },
+    "mu-lnr.su": {
+        "term": "02.05.2021",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk",
+        "urls": [
+            "http://Mu-lnr.su/"
+        ]
+    },
+    "merlnr.su": {
+        "term": "02.05.2021",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk",
+        "urls": [
+            "http://Merlnr.su/"
+        ]
+    },
+    "minpromlnr.su": {
+        "term": "02.05.2021",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk",
+        "urls": [
+            "http://Minpromlnr.su/"
+        ]
+    },
+    "mintrudlnr.su": {
+        "term": "02.05.2021",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk",
+        "urls": [
+            "http://Mintrudlnr.su/"
+        ]
+    },
+    "minfinlnr.su": {
+        "term": "02.05.2021",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk",
+        "urls": [
+            "http://Minfinlnr.su/"
+        ]
+    },
+    "mshiplnr.su": {
+        "term": "02.05.2021",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk",
+        "urls": [
+            "http://Mshiplnr.su/"
+        ]
+    },
+    "minobr.su": {
+        "term": "02.05.2021",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk",
+        "urls": [
+            "http://Minobr.su/"
+        ]
+    },
+    "minstroylnr.su": {
+        "term": "02.05.2021",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk",
+        "urls": [
+            "http://Minstroylnr.su/"
+        ]
+    },
+    "mintop.su": {
+        "term": "02.05.2021",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk",
+        "urls": [
+            "http://Mintop.su/"
+        ]
+    },
+    "gknslnr.su": {
+        "term": "02.05.2021",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk",
+        "urls": [
+            "http://Gknslnr.su/"
+        ]
+    },
+    "mprlnr.su": {
+        "term": "02.05.2021",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk",
+        "urls": [
+            "http://Mprlnr.su/"
+        ]
+    },
+    "fgi-lnr.su": {
+        "term": "02.05.2021",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk",
+        "urls": [
+            "http://Fgi-lnr.su/"
+        ]
+    },
+    "tsiklnr.su": {
+        "term": "02.05.2021",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk",
+        "urls": [
+            "http://Tsiklnr.su/"
+        ]
+    },
+    "mchs-lnr.su": {
+        "term": "02.05.2021",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk",
+        "urls": [
+            "http://Mchs-lnr.su/"
+        ]
+    },
+    "nslnr.su": {
+        "term": "02.05.2021",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk",
+        "urls": [
+            "http://Nslnr.su/"
+        ]
+    },
+    "mvdlnr.ru": {
+        "term": "02.05.2021",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk",
+        "urls": [
+            "http://Mvdlnr.ru/"
+        ]
+    },
+    "mgblnr.org": {
+        "term": "02.05.2021",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk",
+        "urls": [
+            "http://Mgblnr.org/"
+        ]
+    },
+    "mіаіstоk.su": {
+        "term": "02.05.2021",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk",
+        "urls": [
+            "http://mіаіstоk.su/"
+        ]
+    },
+    "gtklnr.su": {
+        "term": "02.05.2021",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk",
+        "urls": [
+            "http://Gtklnr.su/"
+        ]
+    },
+    "on-line.lg.ua": {
+        "term": "02.05.2021",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk",
+        "urls": [
+            "http://on-line.lg.ua/"
+        ]
+    },
+    "lugansk-online.su": {
+        "term": "02.05.2021",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk",
+        "urls": [
+            "http://lugansk-online.su/"
+        ]
+    },
+    "lug24.ru": {
+        "term": "02.05.2021",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk",
+        "urls": [
+            "http://lug24.ru/"
+        ]
+    },
+    "novosti-tchasa.com": {
+        "term": "02.05.2021",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk",
+        "urls": [
+            "http://novosti-tchasa.com/"
+        ]
+    },
+    "trk-luch.ru": {
+        "term": "02.05.2021",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk",
+        "urls": [
+            "http://trk-luch.ru/"
+        ]
+    },
+    "artv-news.ru": {
+        "term": "02.05.2021",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk",
+        "urls": [
+            "http://artv-news.ru/"
+        ]
+    },
+    "miaistok.su": {
+        "term": "02.05.2021",
+        "company": "Ценценатов Євген Михайлович",
+        "alias": "tsentsenatov",
+        "urls": [
+            "http://miaistok.su/"
+        ]
+    },
+    "lugansk1.info": {
+        "term": "02.05.2021",
+        "company": "Першиков Юрій Олександрович",
+        "alias": "pershykov",
+        "urls": [
+            "http://lugansk1.info/"
+        ]
+    },
+    "okkupatsiya.net": {
+        "term": "02.05.2021",
+        "company": "Першиков Юрій Олександрович",
+        "alias": "pershykov",
+        "urls": [
+            "http://okkupatsiya.net/"
+        ]
+    },
+    "lugansk.site": {
+        "term": "02.05.2021",
+        "company": "Чаленко Максим Михайлович",
+        "alias": "chalenko",
+        "urls": [
+            "http://lugansk.site/"
+        ]
+    }
+}
