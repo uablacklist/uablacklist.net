@@ -82,7 +82,7 @@
                 </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="#">Заблокировано: {{ domains|length }} доменов</a></li>
+                <li><a href="#">Заблокировано: {{ domains|length }} доменов / {{ ips }} IP</a></li>
             </ul>
         </div>
     </div>
@@ -151,7 +151,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-7">{{ info[domain]['ips']|join(' ')|default('не резолвится', true) }}</div>
+            <div class="col-md-7">{{ info[domain]['ips']|join(' | ')|default('не резолвится', true) }}</div>
             <div class="col-md-2">{{ info[domain].get('term') }}</div>
         </div>
     {% endfor %}

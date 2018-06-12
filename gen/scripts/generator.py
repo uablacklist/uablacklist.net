@@ -98,6 +98,10 @@ def run():
             if not is_in:
                 print('add additional ip %s' % ip)
                 subnets[info['alias']].add(str(ipaddress.ip_network(ip)))
+    blocked_ips = 0
+    for key, array in subnets.items():
+        for subnet in array:
+            blocked_ips = blocked_ips + ipaddress.ip_network(subnet).num_addresses
     ips = list(ips)
     ips.sort(key=lambda ip: ipaddress.ip_address(ip))
     plain_subnets = []
@@ -107,7 +111,7 @@ def run():
     with open(out_dir + '/index.tpl.html') as f:
             template = Template(f.read())
             now = datetime.now(pytz.timezone('Europe/Kiev'))
-            file = template.render(last_update=now.strftime('%Y-%m-%d %H:%M:%S'), domains=domains, info=individuals)
+            file = template.render(last_update=now.strftime('%Y-%m-%d %H:%M:%S'), domains=domains, info=individuals, ips=blocked_ips)
     with open(out_dir + '/index.html', 'w') as f:
         f.write(file)
     # Generate APIs
