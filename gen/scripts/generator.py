@@ -69,6 +69,8 @@ def gen_domains():
 def gen_mikrotik(subnets):
     out = []
     for alias in subnets:
+        if not len(subnets[alias]):
+            continue
         out.append('# %s' % alias)
         for subnet in subnets[alias]:
             out.append(subnet)
