@@ -1,5 +1,6 @@
 .idea
 .vscode
+www/uk/*
 www/all.json
 www/index.html
 www/ips.json
@@ -9,3 +10,5 @@ www/subnets.txt
 www/subnets_mikrotik.txt
 www/domains.json
 www/domains.txt
+
+!.gitkeep

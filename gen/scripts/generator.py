@@ -110,12 +110,26 @@ def run():
     [plain_subnets.extend(networks) for networks in subnets.values()]
     plain_subnets.sort(key=lambda s: ipaddress.ip_network(s))
     # Generate index.html
+
     with open(out_dir + '/index.tpl.html') as f:
-            template = Template(f.read())
-            now = datetime.now(pytz.timezone('Europe/Kiev'))
-            file = template.render(last_update=now.strftime('%Y-%m-%d %H:%M:%S'), domains=domains, info=individuals, ips=blocked_ips)
-    with open(out_dir + '/index.html', 'w') as f:
-        f.write(file)
+        template = Template(f.read())
+        now = datetime.now(pytz.timezone('Europe/Kiev'))
+        with open('l18n.json') as l:
+            l18n = json.load(l)
+            for lang in l18n['strings']:
+                file = template.render(
+                    str=l18n['strings'][lang],
+                    lang=lang,
+                    last_update=now.strftime('%Y-%m-%d %H:%M:%S'),
+                    domains=domains,
+                    info=individuals,
+                    ips=blocked_ips,
+                    switch_lang_link=l18n['settings']['switch'][lang]['link'],
+                    switch_lang_title=l18n['settings']['switch'][lang]['title'],
+                    lang_link=l18n['settings']['links'][lang]
+                )
+                with open(out_dir + l18n['settings']['html_out_folder'][lang] + '/index.html', 'w') as o:
+                    o.write(file)
     # Generate APIs
     with open(out_dir + '/all.json', 'w') as outfile:
         json.dump(individuals, outfile)
