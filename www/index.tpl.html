@@ -81,9 +81,9 @@
                     </a>
                 </li>
             </ul>
+            <p class="navbar-text navbar-right">{{ str.nav_blocked|format(domains|length, ips) }}</p>
             <ul class="nav navbar-nav navbar-right">
                 <li><a href="{{ switch_lang_link }}">{{ switch_lang_title }}</a></li>
-                <li><p class="navbar-text">{{ str.nav_blocked|format(domains|length, ips) }}</p></li>
             </ul>
         </div>
     </div>
