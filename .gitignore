@@ -7,7 +7,7 @@ www/ips.json
 www/ips.txt
 www/subnets.json
 www/subnets.txt
-www/subnets_mikrotik.txt
+www/subnets_mikrotik_*
 www/domains.json
 www/domains.txt
 

@@ -67,14 +67,16 @@ def gen_domains():
 
 # Gen mikrotik firewall rules
 def gen_mikrotik(subnets):
-    out = []
+    i = 0
     for alias in subnets:
         if not len(subnets[alias]):
             continue
-        out.append('# %s' % alias)
+        out = ['# %s' % alias]
         for subnet in subnets[alias]:
             out.append(subnet)
-    return out
+        with open('%s/subnets_mikrotik_%s.txt' % (out_dir, i), 'w') as outfile:
+            outfile.write('\n'.join(out)+'\n')
+        i=i+1
 
 def run():
     gen_domains()
@@ -145,9 +147,8 @@ def run():
         json.dump(plain_subnets, outfile)
     with open(out_dir + '/subnets.txt', 'w') as outfile:
         outfile.write('\n'.join(plain_subnets))
-    with open(out_dir + '/subnets_mikrotik.txt', 'w') as outfile:
-        outfile.write('\n'.join(gen_mikrotik(subnets))+'\n')
-
+    gen_mikrotik(subnets)
+    
 args = parser.parse_args()
 out_dir = args.out
 run()

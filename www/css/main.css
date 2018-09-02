@@ -46,6 +46,10 @@ body {
     display: none;
 }
 
+.api .api-mikrotik .glyphicon {
+    color: #333;
+}
+
 .records .row {
     padding: 5px 0;
 }

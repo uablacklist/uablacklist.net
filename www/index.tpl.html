@@ -38,7 +38,8 @@
       (function (i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r;
         i[r] = i[r] || function () {
-            (i[r].q = i[r].q || []).push(arguments)
+            (i[r].q = i[r].q || []).push
+            (arguments)
           }, i[r].l = 1 * new Date();
           a = s.createElement(o),
           m = s.getElementsByTagName(o)[0];
@@ -125,10 +126,14 @@
             <ul>
                 <li><a href="/subnets.json">subnets.json</a></li>
                 <li><a href="/subnets.txt">subnets.txt</a></li>
-                <li><a href="/subnets_mikrotik.txt">subnets_mikrotik.txt</a>
-                    <a href="https://gist.github.com/uablacklist/b0e73deb75f2a1c43f035c59e5401e8c" class="info">🛈</a></li>
             </ul>
             <div class="description">{{ str.api_subnets_info }}</div>
+        </div>
+        <div class="col-md-12 single api-mikrotik">
+            <a href="https://gist.github.com/uablacklist/b0e73deb75f2a1c43f035c59e5401e8c">
+                <span class="glyphicon glyphicon-hdd" aria-hidden="true"></span>
+                {{ str.api_mikrotik }}
+            </a>
         </div>
     </div>
     <h1 id="list">{{ str.nav_list }} <small>({{ str.list_sub|format(last_update) }})</small></h1>
