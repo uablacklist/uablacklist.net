@@ -4,7 +4,7 @@ WORKDIR /usr/src/app
 
 RUN apk update && apk add bind-tools whois
 
-RUN pip install Jinja2 pytz
+RUN pip install Jinja2 pytz transliterate
 
 COPY scripts/ .
 

@@ -8,6 +8,7 @@ import subprocess
 import ipaddress
 import re
 import argparse
+from transliterate import translit, get_available_language_codes
 
 parser = argparse.ArgumentParser(description='Generates files for uablacklist.net.')
 parser.add_argument('out', metavar='output', type=str, help='output directory')
@@ -58,8 +59,12 @@ def gen_domains():
         data = json.load(f)
         for domain, info in data.items():
             print(domain)
+            if 'alias' in info:
+                alias = info['alias']
+            else:
+                alias = translit(info['company'], 'uk', reversed=True)
             individuals[domain] = {
-                'alias': info['alias'] if 'alias' in info else info['company'],
+                'alias': alias,
                 'term': info['term'],
                 'urls': info['urls'] if 'urls' in info else ['http://{}/'.format(domain)],
                 'ips': net_info(domain)
