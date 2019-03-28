@@ -59,9 +59,9 @@ def gen_domains():
         for domain, info in data.items():
             print(domain)
             individuals[domain] = {
-                'alias': info['alias'],
+                'alias': info['alias'] if 'alias' in info else info['company'],
                 'term': info['term'],
-                'urls': info['urls'],
+                'urls': info['urls'] if 'urls' in info else ['http://{}/'.format(domain)],
                 'ips': net_info(domain)
             }
 

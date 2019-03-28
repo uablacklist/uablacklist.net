@@ -1173,21 +1173,53 @@
             "http://wm-factor.com.ua/"
         ]
     },
+    "tass.ru": {
+        "term": "19.03.2022",
+        "company": "Толстой Петро Олегович"
+    },
+    "rusvesna.su": {
+        "term": "19.03.2022",
+        "company": "Толстой Петро Олегович"
+    },
+    "rusnext.ru": {
+        "term": "19.03.2022",
+        "company": "Толстой Петро Олегович"
+    },
+    "freedom.kiev.ua": {
+        "term": "19.03.2022",
+        "company": "Толстой Петро Олегович"
+    },
+    "voloshyna.org.ua": {
+        "term": "19.03.2022",
+        "company": "Толстой Петро Олегович"
+    },
+    "uzhhorod.today": {
+        "term": "19.03.2022",
+        "company": "Толстой Петро Олегович"
+    },
+    "politnavigator.net": {
+        "term": "19.03.2022",
+        "company": "Толстой Петро Олегович"
+    },
+    "ukraine.ru": {
+        "term": "19.03.2022",
+        "company": "Толстой Петро Олегович"
+    },
     "news-front.info": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://news-front.info/"
-        ]
+        "term": "19.03.2022",
+        "company": "Толстой Петро Олегович"
+    },
+    "nahnews.org": {
+        "term": "19.03.2022",
+        "company": "Толстой Петро Олегович"
+    },
+    "odnarodyna.org": {
+        "term": "19.03.2022",
+        "company": "Толстой Петро Олегович"
     },
     "antimaydan.info": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://antimaydan.info/"
-        ]
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
     },
     "novorossia.today": {
         "term": "02.05.2021",
@@ -1198,11 +1230,10 @@
         ]
     },
     "dan-news.info": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
+        "term": "19.03.2022",
+        "company": "Жукова Галина Едуардівна",
         "urls": [
-            "http://dan-news.info/"
+            "https://dan-news.info/"
         ]
     },
     "mvddnr.ru": {
@@ -1310,12 +1341,8 @@
         ]
     },
     "novopressa.ru": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://novopressa.ru/"
-        ]
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
     },
     "tk-union.tv": {
         "term": "02.05.2021",
@@ -1326,12 +1353,8 @@
         ]
     },
     "republic-tv.ru": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://republic-tv.ru/"
-        ]
+        "term": "19.03.2022",
+        "company": "Петренко Віктор Євгенійович"
     },
     "novorossiatv.com": {
         "term": "02.05.2021",
@@ -1510,11 +1533,10 @@
         ]
     },
     "russian.oplot.tv": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
+        "term": "19.03.2022",
+        "company": "Абдуллаєв Ісмаїл Адалятович",
         "urls": [
-            "http://russian.oplot.tv/"
+            "https://russian.oplot.tv/"
         ]
     },
     "ruscrimea.ru": {
@@ -1526,12 +1548,8 @@
         ]
     },
     "c-pravda.ru": {
-        "term": "02.05.2021",
-        "company": "Аксьонов Сергій Валерійович",
-        "alias": "aksonov",
-        "urls": [
-            "http://c-pravda.ru/"
-        ]
+        "term": "19.03.2022",
+        "company": "Аксьонов Сергій Валерійович"
     },
     "reporter-crimea.ru": {
         "term": "02.05.2021",
@@ -1670,12 +1688,8 @@
         ]
     },
     "1tvcrimea.ru": {
-        "term": "02.05.2021",
-        "company": "Аксьонов Сергій Валерійович",
-        "alias": "aksonov",
-        "urls": [
-            "http://1tvcrimea.ru/"
-        ]
+        "term": "19.03.2022",
+        "company": "Аксьонов Сергій Валерійович"
     },
     "ikstv.ru": {
         "term": "02.05.2021",
@@ -1750,7 +1764,7 @@
         ]
     },
     "lug-info.com": {
-        "term": "02.05.2021",
+        "term": "19.03.2022",
         "company": "Пасічник Леонід Іванович",
         "alias": "pasichnyk",
         "urls": [
@@ -1774,123 +1788,96 @@
         ]
     },
     "mslnr.su": {
-        "term": "02.05.2021",
-        "company": "Пасічник Леонід Іванович",
-        "alias": "pasichnyk",
+        "term": "19.03.2022",
+        "company": "Фетісов Олег Васильович",
         "urls": [
-            "http://Mslnr.su/"
+            "https://mslnr.su/"
         ]
     },
     "mu-lnr.su": {
-        "term": "02.05.2021",
-        "company": "Пасічник Леонід Іванович",
-        "alias": "pasichnyk",
-        "urls": [
-            "http://Mu-lnr.su/"
-        ]
+        "term": "19.03.2022",
+        "company": "Козьяков Сергій Юрійович"
     },
     "merlnr.su": {
-        "term": "02.05.2021",
-        "company": "Пасічник Леонід Іванович",
-        "alias": "pasichnyk",
+        "term": "19.03.2022",
+        "company": "Костенко Олена Миколаївна",
         "urls": [
-            "http://Merlnr.su/"
+            "https://merlnr.su/"
         ]
     },
     "minpromlnr.su": {
-        "term": "02.05.2021",
-        "company": "Пасічник Леонід Іванович",
-        "alias": "pasichnyk",
+        "term": "19.03.2022",
+        "company": "Стегленко Катерина Миколаївна",
         "urls": [
-            "http://Minpromlnr.su/"
+            "https://minpromlnr.su/"
         ]
     },
     "mintrudlnr.su": {
-        "term": "02.05.2021",
-        "company": "Пасічник Леонід Іванович",
-        "alias": "pasichnyk",
+        "term": "19.03.2022",
+        "company": "Малахова Світлана Анатоліївна",
         "urls": [
-            "http://Mintrudlnr.su/"
+            "https://mintrudlnr.su/"
         ]
     },
     "minfinlnr.su": {
-        "term": "02.05.2021",
-        "company": "Пасічник Леонід Іванович",
-        "alias": "pasichnyk",
+        "term": "19.03.2022",
+        "company": "Мануйлов Євген Володимирович",
         "urls": [
-            "http://Minfinlnr.su/"
+            "https://minfinlnr.su/"
         ]
     },
     "mshiplnr.su": {
-        "term": "02.05.2021",
-        "company": "Пасічник Леонід Іванович",
-        "alias": "pasichnyk",
+        "term": "19.03.2022",
+        "company": "Сороковенко Руслан Вікторович",
         "urls": [
-            "http://Mshiplnr.su/"
+            "https://mshiplnr.su/"
         ]
     },
     "minobr.su": {
-        "term": "02.05.2021",
-        "company": "Пасічник Леонід Іванович",
-        "alias": "pasichnyk",
+        "term": "19.03.2022",
+        "company": "Цемкало Сергій Олександрович",
         "urls": [
-            "http://Minobr.su/"
+            "https://minobr.su/"
         ]
     },
     "minstroylnr.su": {
-        "term": "02.05.2021",
-        "company": "Пасічник Леонід Іванович",
-        "alias": "pasichnyk",
+        "term": "19.03.2022",
+        "company": "Протасов Максим Олексійович",
         "urls": [
-            "http://Minstroylnr.su/"
+            "https://minstroylnr.su/"
         ]
     },
     "mintop.su": {
-        "term": "02.05.2021",
-        "company": "Пасічник Леонід Іванович",
-        "alias": "pasichnyk",
-        "urls": [
-            "http://Mintop.su/"
-        ]
+        "term": "19.03.2022",
+        "company": "Мальгін Павло Володимирович"
     },
     "gknslnr.su": {
-        "term": "02.05.2021",
-        "company": "Пасічник Леонід Іванович",
-        "alias": "pasichnyk",
+        "term": "19.03.2022",
+        "company": "Бородін Сергій Олексійович",
         "urls": [
-            "http://Gknslnr.su/"
+            "https://gknslnr.su/"
         ]
     },
     "mprlnr.su": {
-        "term": "02.05.2021",
-        "company": "Пасічник Леонід Іванович",
-        "alias": "pasichnyk",
+        "term": "19.03.2022",
+        "company": "Грібачьов Віктор Миколайович",
         "urls": [
-            "http://Mprlnr.su/"
+            "https://mprlnr.su/"
         ]
     },
     "fgi-lnr.su": {
-        "term": "02.05.2021",
-        "company": "Пасічник Леонід Іванович",
-        "alias": "pasichnyk",
-        "urls": [
-            "http://Fgi-lnr.su/"
-        ]
+        "term": "19.03.2022",
+        "company": "Толмачов Олександр Олександрович"
     },
     "tsiklnr.su": {
-        "term": "02.05.2021",
-        "company": "Пасічник Леонід Іванович",
-        "alias": "pasichnyk",
-        "urls": [
-            "http://Tsiklnr.su/"
-        ]
+        "term": "19.03.2022",
+        "company": "Пасічник Леонід Іванович"
     },
     "mchs-lnr.su": {
-        "term": "02.05.2021",
-        "company": "Пасічник Леонід Іванович",
-        "alias": "pasichnyk",
+        "term": "19.03.2022",
+        "company": "Іванушкін Сергій Сергійович",
         "urls": [
-            "http://Mchs-lnr.su/"
+            "https://mchs-lnr.su/"
         ]
     },
     "nslnr.su": {
@@ -1902,19 +1889,15 @@
         ]
     },
     "mvdlnr.ru": {
-        "term": "02.05.2021",
-        "company": "Пасічник Леонід Іванович",
-        "alias": "pasichnyk",
-        "urls": [
-            "http://Mvdlnr.ru/"
-        ]
+        "term": "19.03.2022",
+        "company": "Корнет Ігор Олександрович"
     },
     "mgblnr.org": {
-        "term": "02.05.2021",
+        "term": "19.03.2022",
         "company": "Пасічник Леонід Іванович",
         "alias": "pasichnyk",
         "urls": [
-            "http://Mgblnr.org/"
+            "https://mgblnr.org/"
         ]
     },
     "mіаіstоk.su": {
@@ -1981,6 +1964,64 @@
             "http://artv-news.ru/"
         ]
     },
+    "glava-lnr.su": {
+        "term": "19.03.2022",
+        "company": "Пасічник Леонід Іванович"
+    },
+    "antratsit.su": {
+        "term": "19.03.2022",
+        "company": "Пасічник Леонід Іванович"
+    },
+    "glava-lnr.info": {
+        "term": "19.03.2022",
+        "company": "Пасічник Леонід Іванович"
+    },
+    "gtrlnr.com": {
+        "term": "19.03.2022",
+        "company": "Пасічник Леонід Іванович"
+    },
+    "infovestnik.blogspot.com": {
+        "term": "19.03.2022",
+        "company": "Пасічник Леонід Іванович"
+    },
+    "leonid-pasechnik.info": {
+        "term": "19.03.2022",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk"
+    },
+    "lnr.today": {
+        "term": "19.03.2022",
+        "company": "Пасічник Леонід Іванович"
+    },
+    "lugansk.online": {
+        "term": "19.03.2022",
+        "company": "Пасічник Леонід Іванович"
+    },
+    "nashagazeta.net": {
+        "term": "19.03.2022",
+        "company": "Пасічник Леонід Іванович"
+    },
+    "novorosinform.org": {
+        "term": "19.03.2022",
+        "company": "Пасічник Леонід Іванович",
+        "alias": "pasichnyk"
+    },
+    "nt1941.su": {
+        "term": "19.03.2022",
+        "company": "Пасічник Леонід Іванович"
+    },
+    "rp24.info": {
+        "term": "19.03.2022",
+        "company": "Пасічник Леонід Іванович"
+    },
+    "uoperev.ucoz.org": {
+        "term": "19.03.2022",
+        "company": "Пасічник Леонід Іванович"
+    },
+    "мгблнр.орг": {
+        "term": "19.03.2022",
+        "company": "Пасічник Леонід Іванович"
+    },
     "miaistok.su": {
         "term": "02.05.2021",
         "company": "Ценценатов Євген Михайлович",
@@ -2012,5 +2053,386 @@
         "urls": [
             "http://lugansk.site/"
         ]
+    },
+    "sovminlnr.ru": {
+        "term": "19.03.2022",
+        "company": "Козлов Сергій Іванович",
+        "urls": [
+            "https://sovminlnr.ru/"
+        ]
+    },
+    "gplnr.su": {
+        "term": "19.03.2022",
+        "company": "Горенко Сергій Сергійович"
+    },
+    "www.mklnr.su": {
+        "term": "19.03.2022",
+        "company": "Кокоткіна Оксана Сергіївна",
+        "urls": [
+            "https://www.mklnr.su/"
+        ]
+    },
+    "fplnr.org": {
+        "term": "19.03.2022",
+        "company": "Акімов Олег Костянтинович"
+    },
+    "mintranslnr.su": {
+        "term": "19.03.2022",
+        "company": "Герасимчук Володимир Васильович",
+        "urls": [
+            "https://mintranslnr.su/"
+        ]
+    },
+    "mzlnr.su": {
+        "term": "19.03.2022",
+        "company": "Василенко Ольга Миколаївна"
+    },
+    "pflnr.su": {
+        "term": "19.03.2022",
+        "company": "Васильєва Тетяна Михайлівна",
+        "urls": [
+            "https://pflnr.su/"
+        ]
+    },
+    "gorod-lugansk.com": {
+        "term": "19.03.2022",
+        "company": "Пілавов Маноліс Васильович"
+    },
+    "antr-adm.ru": {
+        "term": "19.03.2022",
+        "company": "Андрєєнко Анатолій Олександрович"
+    },
+    "krasnyluch.su": {
+        "term": "19.03.2022",
+        "company": "Васькевич Алла Вікторівна"
+    },
+    "kga.su": {
+        "term": "19.03.2022",
+        "company": "Карцев Геннадій Олександрович"
+    },
+    "slavlnr.su": {
+        "term": "19.03.2022",
+        "company": "Дейнека Олександр Анатолійович",
+        "urls": [
+            "https://slavlnr.su/"
+        ]
+    },
+    "stakhanov.su": {
+        "term": "19.03.2022",
+        "company": "Жевлаков Сергій Васильович",
+        "urls": [
+            "https://stakhanov.su/"
+        ]
+    },
+    "krasnodon.su": {
+        "term": "19.03.2022",
+        "company": "Козенко Сергій Павлович"
+    },
+    "bryanka.su": {
+        "term": "19.03.2022",
+        "company": "Моргунов Микола Вікторович",
+        "urls": [
+            "https://bryanka.su/"
+        ]
+    },
+    "www.pervomaysklnr.su": {
+        "term": "19.03.2022",
+        "company": "Афанасьєв Сергій Павлович",
+        "urls": [
+            "https://www.pervomaysklnr.su/"
+        ]
+    },
+    "rov-adm.su": {
+        "term": "19.03.2022",
+        "company": "Княжев Сергій Миколайович"
+    },
+    "svk-portal.su": {
+        "term": "19.03.2022",
+        "company": "Сухачов Андрій Валерійович"
+    },
+    "lutugino.su": {
+        "term": "19.03.2022",
+        "company": "Коретников Роман Олександрович та Михайлов Віталій Васильович",
+        "urls": [
+            "https://lutugino.su/"
+        ]
+    },
+    "alchevsk.su": {
+        "term": "19.03.2022",
+        "company": "П’яткова Наталія Петрівна"
+    },
+    "vmakeevke.com": {
+        "term": "19.03.2022",
+        "company": "Холоімов Олександр Олександрович",
+        "urls": [
+            "https://vmakeevke.com/"
+        ]
+    },
+    "novorossia.vision": {
+        "term": "19.03.2022",
+        "company": "Міненкова Анастасія Олександрівна та Черняк Андрій Іванович",
+        "urls": [
+            "https://novorossia.vision/"
+        ]
+    },
+    "achtungpartisanen.ru": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "amvrosievka-gorsovet.umi.ru": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "сikdnr.su": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "debalcevo-dnr.ru": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "denis-pushilin.info": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "denis-pushilin.ru": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "donetsk.kp.ru": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "donbasstoday.ru": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "donmintrans.ru": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "dnrsovet.su": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "enakievo.org": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "gorod-donetsk.com": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "ilovaisk.ugletele.com": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "iskra-dnr.ru": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "khartsyzsk.ugletele.com": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "kirovskoe.ugletele.com": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "makeyevka.ru": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "mcxdnr.ru": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "mdsdnr.ru": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "mer.govdnr.ru": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "mid-dnr.su": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "mptdnr.ru": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "mzdnr.ru": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "newsdnr.ru": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "novorossia.su": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "odsd.ru": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "prodonbass.ru": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "shahtersk.org": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "snezh-dnr.wmsite.ru": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "starobeshevo.ru": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "telmanovo.dnr-online.ru": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "torez24.ru": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "cikdnr.su": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "vsednr.ru": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "voskhodinfo.su": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "yasispolkom.dnr-online.ru": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "zhdanovka.com": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "zugres.ugletele.com": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "минсвязь.рус": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "минспорт.рус": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "antifashist.com": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "comitet.su": {
+        "term": "19.03.2022",
+        "company": "Пушилін Денис Володимирович"
+    },
+    "crimea.izbirkom.ru": {
+        "term": "19.03.2022",
+        "company": "Аксьонов Сергій Валерійович"
+    },
+    "krym.fas.gov.ru": {
+        "term": "19.03.2022",
+        "company": "Аксьонов Сергій Валерійович"
+    },
+    "opcrimea.ru": {
+        "term": "19.03.2022",
+        "company": "Аксьонов Сергій Валерійович"
+    },
+    "ppcrimea.ru": {
+        "term": "19.03.2022",
+        "company": "Аксьонов Сергій Валерійович"
+    },
+    "rkproc.ru": {
+        "term": "19.03.2022",
+        "company": "Аксьонов Сергій Валерійович"
+    },
+    "rusdialog.ru": {
+        "term": "19.03.2022",
+        "company": "Аксьонов Сергій Валерійович"
+    },
+    "sp-rc.ru": {
+        "term": "19.03.2022",
+        "company": "Аксьонов Сергій Валерійович"
+    },
+    "tfomsrk.ru": {
+        "term": "19.03.2022",
+        "company": "Аксьонов Сергій Валерійович"
+    },
+    "voicesevas.ru": {
+        "term": "19.03.2022",
+        "company": "Аксьонов Сергій Валерійович"
+    },
+    "r82.fss.ru": {
+        "term": "19.03.2022",
+        "company": "Аксьонов Сергій Валерійович"
+    },
+    "r82.fssprus.ru": {
+        "term": "19.03.2022",
+        "company": "Аксьонов Сергій Валерійович"
+    },
+    "82.mvd.ru": {
+        "term": "19.03.2022",
+        "company": "Аксьонов Сергій Валерійович"
+    },
+    "82.mchs.gov.ru": {
+        "term": "19.03.2022",
+        "company": "Аксьонов Сергій Валерійович"
+    },
+    "82reg.roszdravnadzor.ru": {
+        "term": "19.03.2022",
+        "company": "Аксьонов Сергій Валерійович"
+    },
+    "82.rospotrebnadzor.ru": {
+        "term": "19.03.2022",
+        "company": "Аксьонов Сергій Валерійович"
+    },
+    "82.rkn.gov.ru": {
+        "term": "19.03.2022",
+        "company": "Аксьонов Сергій Валерійович"
+    },
+    "uscrimea.ru": {
+        "term": "19.03.2022",
+        "company": "Аксьонов Сергій Валерійович"
+    },
+    "golospravdy.com": {
+        "term": "19.03.2022",
+        "company": "Аксьонов Сергій Валерійович"
+    },
+    "керчь-город.рф": {
+        "term": "19.03.2022",
+        "company": "Аксьонов Сергій Валерійович"
+    },
+    "чистенькое-адм.рф": {
+        "term": "19.03.2022",
+        "company": "Аксьонов Сергій Валерійович"
+    },
+    "скворцовский.рф": {
+        "term": "19.03.2022",
+        "company": "Аксьонов Сергій Валерійович"
+    },
+    "rusmatica.org": {
+        "term": "19.03.2022",
+        "company": "Аксьонов Сергій Валерійович"
+    },
+    "asssr.info": {
+        "term": "19.03.2022",
+        "company": "Аксьонов Сергій Валерійович"
     }
 }
