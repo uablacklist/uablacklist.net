@@ -63,6 +63,8 @@ def gen_domains():
                 alias = info['alias']
             else:
                 alias = translit(info['company'], 'uk', reversed=True)
+                alias = alias.replace('«', '"').replace('»', '"')
+                alias = alias.replace('’', "'")
             individuals[domain] = {
                 'alias': alias,
                 'term': info['term'],
