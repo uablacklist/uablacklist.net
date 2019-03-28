@@ -35,35 +35,35 @@
         "alias": "drweb"
     },
     "avia.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://avia.yandex.ru/?utm_source=yamain&utm_medium=popup&utm_campaign=allru"
         ],
         "alias": "yandex"
     },
     "auto.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://auto.ru/?from=all-services"
         ],
         "alias": "yandex"
     },
     "audience.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://audience.yandex.ru/"
         ],
         "alias": "yandex"
     },
     "afisha.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://afisha.yandex.ru/?city=moscow"
         ],
         "alias": "yandex"
     },
     "money.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://money.yandex.ru/new",
             "https://money.yandex.ru/card2card/?_openstat=c2cw;all;",
@@ -73,14 +73,14 @@
         "alias": "yandex"
     },
     "webmaster.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://webmaster.yandex.ru/"
         ],
         "alias": "yandex"
     },
     "yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://yandex.ru/images/",
             "https://yandex.ru/maps/213/moscow/?l=trf%2Ctrfe",
@@ -99,77 +99,78 @@
         "alias": "yandex"
     },
     "direct.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://direct.yandex.ru/?from=all"
         ],
         "alias": "yandex"
     },
     "disk.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://disk.yandex.ru/?source=services-main"
         ],
         "alias": "yandex"
     },
     "delivery.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://delivery.yandex.ru/promo/"
         ],
         "alias": "yandex"
     },
     "calendar.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://calendar.yandex.ru/"
         ],
         "alias": "yandex"
     },
     "kassa.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://kassa.yandex.ru/?_openstat=promo;y_all;"
         ],
         "alias": "yandex"
     },
     "www.kinopoisk.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://www.kinopoisk.ru/?utm_source=yamain&utm_medium=link&utm_campaign=main"
         ],
         "alias": "yandex"
     },
     "market.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://market.yandex.ru/?clid=505"
         ],
         "alias": "yandex"
     },
     "metrika.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
-            "https://metrika.yandex.ru/promo"
+            "https://metrika.yandex.ru/promo",
+            "https://metrika.yandex.ru/promo?"
         ],
         "alias": "yandex"
     },
     "metro.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://metro.yandex.ru/moscow"
         ],
         "alias": "yandex"
     },
     "music.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://music.yandex.ua/"
         ],
         "alias": "yandex"
     },
     "n.maps.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://n.maps.yandex.ru/#!/?z=12&ll=30.523541%2C50.450418&l=nk%23sat",
             "https://n.maps.yandex.ru/"
@@ -177,154 +178,154 @@
         "alias": "yandex"
     },
     "realty.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://realty.yandex.ru/?from=all"
         ],
         "alias": "yandex"
     },
     "news.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://news.yandex.ru/"
         ],
         "alias": "yandex"
     },
     "translate.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://translate.yandex.ru/"
         ],
         "alias": "yandex"
     },
     "mail.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://mail.yandex.ua/"
         ],
         "alias": "yandex"
     },
     "pdd.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://pdd.yandex.ru/domains_add/"
         ],
         "alias": "yandex"
     },
     "travel.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://travel.yandex.ru/?from=morda&utm_source=yandex_morda_tab&utm_medium=cpm&utm_campaign=yandex&utm_content=tab_exp"
         ],
         "alias": "yandex"
     },
     "rabota.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://rabota.yandex.ru/?from=morda_all"
         ],
         "alias": "yandex"
     },
     "radio.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://radio.yandex.ua/"
         ],
         "alias": "yandex"
     },
     "rasp.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://rasp.yandex.ru/"
         ],
         "alias": "yandex"
     },
     "partner.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://partner.yandex.ru/"
         ],
         "alias": "yandex"
     },
     "sprav.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://sprav.yandex.ru/"
         ],
         "alias": "yandex"
     },
     "stat.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://stat.yandex.ru/Russia/Portal"
         ],
         "alias": "yandex"
     },
     "taxi.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://taxi.yandex.ru/#index"
         ],
         "alias": "yandex"
     },
     "tv.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://tv.yandex.ru/213"
         ],
         "alias": "yandex"
     },
     "telephony.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://telephony.yandex.ru/"
         ],
         "alias": "yandex"
     },
     "tech.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://tech.yandex.ru/"
         ],
         "alias": "yandex"
     },
     "fotki.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://fotki.yandex.ru/next/"
         ],
         "alias": "yandex"
     },
     "dns.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://dns.yandex.ru/"
         ],
         "alias": "yandex"
     },
     "browser.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://browser.yandex.ru/desktop/main/?from=prov_all"
         ],
         "alias": "yandex"
     },
     "speechkit.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://speechkit.yandex.ru/dev"
         ],
         "alias": "yandex"
     },
     "xml.yandex.ru": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://xml.yandex.ru/"
         ],
         "alias": "yandex"
     },
     "yandexdatafactory.com": {
-        "term": "15.05.2020",
+        "term": "19.03.2022",
         "urls": [
             "https://yandexdatafactory.com/ru/"
         ],
@@ -499,6 +500,55 @@
         "urls": [
             "https://xml.yandex.ua/"
         ],
+        "alias": "yandex"
+    },
+    "yandex-taxi.com.ua": {
+        "term": "19.03.2022",
+        "urls": [
+            "https://yandex-taxi.com.ua/"
+        ],
+        "alias": "yandex"
+    },
+    "taxi-yandex.com.ua": {
+        "term": "19.03.2022",
+        "urls": [
+            "https://taxi-yandex.com.ua/"
+        ],
+        "alias": "yandex"
+    },
+    "yandextaxi.com.ua": {
+        "term": "19.03.2022",
+        "alias": "yandex"
+    },
+    "taxi-yandex.kiev.ua": {
+        "term": "19.03.2022",
+        "urls": [
+            "https://taxi-yandex.kiev.ua/"
+        ],
+        "alias": "yandex"
+    },
+    "rabotavtaxi.pro": {
+        "term": "19.03.2022",
+        "alias": "yandex"
+    },
+    "yandextaksiua.com.ua": {
+        "term": "19.03.2022",
+        "alias": "yandex"
+    },
+    "yandex.biz.ua": {
+        "term": "19.03.2022",
+        "alias": "yandex"
+    },
+    "yandextaxi.kiev.ua": {
+        "term": "19.03.2022",
+        "alias": "yandex"
+    },
+    "www.yataxi.net": {
+        "term": "19.03.2022",
+        "alias": "yandex"
+    },
+    "yataxi.com.ua": {
+        "term": "19.03.2022",
         "alias": "yandex"
     },
     "ubp.com.ua": {
@@ -2434,5 +2484,34 @@
     "asssr.info": {
         "term": "19.03.2022",
         "company": "Аксьонов Сергій Валерійович"
+    },
+    "www.ozon.ru": {
+        "term": "19.03.2022",
+        "company": "ТОВ «Рексофт»",
+        "urls": [
+            "https://www.ozon.ru/"
+        ]
+    },
+    "www.labirint.ru": {
+        "term": "19.03.2022",
+        "company": "ТОВ «Лабіринт.Ру»",
+        "urls": [
+            "https://www.labirint.ru/"
+        ]
+    },
+    "www.litres.ru": {
+        "term": "19.03.2022",
+        "company": "ТОВ «ЛітРес»",
+        "urls": [
+            "https://www.litres.ru/"
+        ]
+    },
+    "inst.net": {
+        "term": "19.03.2022",
+        "company": "Товариство з обмеженою відповідальністю «Дата Інтернет»"
+    },
+    "rkn.gov.ru": {
+        "term": "19.03.2022",
+        "company": "Федеральна служба з нагляду у сфері зв’язку, інформаційних технологій і масових комунікацій Російської Федерації"
     }
 }
