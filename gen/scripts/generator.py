@@ -115,11 +115,12 @@ def run():
             blocked_ips = blocked_ips + ipaddress.ip_network(subnet).num_addresses
     ips = list(ips)
     ips.sort(key=lambda ip: ipaddress.ip_address(ip))
-    plain_subnets = []
-    [plain_subnets.extend(networks) for networks in subnets.values()]
+    plain_subnets = set()
+    [plain_subnets.update(networks) for networks in subnets.values()]
+    plain_subnets = list(plain_subnets)
     plain_subnets.sort(key=lambda s: ipaddress.ip_network(s))
+    
     # Generate index.html
-
     with open(out_dir + '/index.tpl.html') as f:
         template = Template(f.read())
         now = datetime.now(pytz.timezone('Europe/Kiev'))
@@ -139,6 +140,7 @@ def run():
                 )
                 with open(out_dir + l18n['settings']['html_out_folder'][lang] + '/index.html', 'w') as o:
                     o.write(file)
+    
     # Generate APIs
     with open(out_dir + '/all.json', 'w') as outfile:
         json.dump(individuals, outfile)
