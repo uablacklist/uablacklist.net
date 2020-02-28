@@ -155,7 +155,7 @@
                 </div>
             </div>
             <div class="col-md-7">{{ info[domain]['ips']|join(' | ')|default(str.list_not_resolved, true) }}</div>
-            <div class="col-md-2">{{ info[domain].get('term') }}</div>
+            <div class="col-md-2">{{ info[domain].get('term') or str.no_term }}</div>
         </div>
     {% endfor %}
     </div>

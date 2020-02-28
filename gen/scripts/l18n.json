@@ -41,7 +41,8 @@
             "list_not_resolved": "не резолвится",
             "discussion": "Обсуждение",
             "email_admin": "Написать админу",
-            "enable_js": "Пожалуйста, включите JavaScript чтобы видеть <a href=\"https://disqus.com/?ref_noscript\">комментарии в системе Disqus.</a>"
+            "enable_js": "Пожалуйста, включите JavaScript чтобы видеть <a href=\"https://disqus.com/?ref_noscript\">комментарии в системе Disqus.</a>",
+            "no_term": "Бессрочно"
         },
         "uk": {
             "meta": "Перелік та API для отримання заблокованих в Україні сайтів",
@@ -62,7 +63,8 @@
             "list_links": "Посилання:",
             "list_not_resolved": "не резолвиться",
             "email_admin": "Написати адміну",
-            "enable_js": "Будь ласка, включите JavaScript щоб бачити <a href=\"https://disqus.com/?ref_noscript\">коментарі в системі Disqus.</a>"
+            "enable_js": "Будь ласка, включите JavaScript щоб бачити <a href=\"https://disqus.com/?ref_noscript\">коментарі в системі Disqus.</a>",
+            "no_term": "Безстроково"
         }
     }
 }
