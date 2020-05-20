@@ -1,34 +1,34 @@
 {
     "vk.com": {
-        "term": "15.05.2020",
+        "term": "15.05.2021",
         "alias": "vk",
         "urls": [
             "http://vk.com/"
         ]
     },
     "ok.ru": {
-        "term": "15.05.2020",
+        "term": "15.05.2021",
         "alias": "mail.ru",
         "urls": [
             "http://ok.ru/"
         ]
     },
     "mail.ru": {
-        "term": "15.05.2020",
+        "term": "15.05.2021",
         "alias": "mail.ru",
         "urls": [
             "http://mail.ru/"
         ]
     },
     "www.kaspersky.ru": {
-        "term": "15.05.2020",
+        "term": "15.05.2021",
         "urls": [
             "http://www.kaspersky.ru"
         ],
         "alias": "kaspersky"
     },
     "www.drweb.ru": {
-        "term": "15.05.2020",
+        "term": "15.05.2021",
         "urls": [
             "https://www.drweb.ru"
         ],
@@ -332,28 +332,28 @@
         "alias": "yandex"
     },
     "avia.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "15.05.2021",
         "urls": [
             "https://avia.yandex.ua/?utm_source=yamain&utm_medium=popup&utm_campaign=allua"
         ],
         "alias": "yandex"
     },
     "audience.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "15.05.2021",
         "urls": [
             "https://audience.yandex.ua/"
         ],
         "alias": "yandex"
     },
     "afisha.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "15.05.2021",
         "urls": [
             "https://afisha.yandex.ua/events?city=kyiv&tag=cinema"
         ],
         "alias": "yandex"
     },
     "yandex.ua": {
-        "term": "15.05.2020",
+        "term": "15.05.2021",
         "urls": [
             "https://yandex.ua/yaca/",
             "https://yandex.ua/adv?from=all",
@@ -370,133 +370,133 @@
         "alias": "yandex"
     },
     "disk.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "15.05.2021",
         "urls": [
             "https://disk.yandex.ua/?source=services-main"
         ],
         "alias": "yandex"
     },
     "direct.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "15.05.2021",
         "urls": [
             "https://direct.yandex.ua/?from=all&ncrnd=5179"
         ],
         "alias": "yandex"
     },
     "sprav.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "15.05.2021",
         "urls": [
             "https://sprav.yandex.ua/"
         ],
         "alias": "yandex"
     },
     "zno.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "15.05.2021",
         "urls": [
             "https://zno.yandex.ua/ru/"
         ],
         "alias": "yandex"
     },
     "market.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "15.05.2021",
         "urls": [
             "https://market.yandex.ua/?clid=505"
         ],
         "alias": "yandex"
     },
     "metrika.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "15.05.2021",
         "urls": [
             "https://metrika.yandex.ua/promo"
         ],
         "alias": "yandex"
     },
     "metro.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "15.05.2021",
         "urls": [
             "https://metro.yandex.ua/kiev"
         ],
         "alias": "yandex"
     },
     "news.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "15.05.2021",
         "urls": [
             "https://news.yandex.ua/"
         ],
         "alias": "yandex"
     },
     "translate.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "15.05.2021",
         "urls": [
             "https://translate.yandex.ua/"
         ],
         "alias": "yandex"
     },
     "site.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "15.05.2021",
         "urls": [
             "https://site.yandex.ua/"
         ],
         "alias": "yandex"
     },
     "rabota.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "15.05.2021",
         "urls": [
             "https://rabota.yandex.ua/?from=morda_all"
         ],
         "alias": "yandex"
     },
     "rasp.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "15.05.2021",
         "urls": [
             "https://rasp.yandex.ua/?lang=ru"
         ],
         "alias": "yandex"
     },
     "partner.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "15.05.2021",
         "urls": [
             "https://partner.yandex.ua/"
         ],
         "alias": "yandex"
     },
     "passport.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "15.05.2021",
         "urls": [
             "https://passport.yandex.ua/auth/update/?retpath="
         ],
         "alias": "yandex"
     },
     "stat.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "15.05.2021",
         "urls": [
             "https://stat.yandex.ua/Ukraine/Portal"
         ],
         "alias": "yandex"
     },
     "tv.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "15.05.2021",
         "urls": [
             "https://tv.yandex.ua/187?grid=main&period=now"
         ],
         "alias": "yandex"
     },
     "dns.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "15.05.2021",
         "urls": [
             "https://dns.yandex.ua/"
         ],
         "alias": "yandex"
     },
     "browser.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "15.05.2021",
         "urls": [
             "https://browser.yandex.ua/desktop/?from=prov_all"
         ],
         "alias": "yandex"
     },
     "xml.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "15.05.2021",
         "urls": [
             "https://xml.yandex.ua/"
         ],
