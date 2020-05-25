@@ -1,86 +1,88 @@
 {
     "vk.com": {
-        "term": "15.05.2020",
+        "term": "14.05.2023",
         "alias": "vk",
-        "urls": [
-            "http://vk.com/"
-        ]
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "ok.ru": {
-        "term": "15.05.2020",
+        "term": "14.05.2023",
         "alias": "mail.ru",
-        "urls": [
-            "http://ok.ru/"
-        ]
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "mail.ru": {
-        "term": "15.05.2020",
+        "term": "14.05.2023",
         "alias": "mail.ru",
-        "urls": [
-            "http://mail.ru/"
-        ]
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "www.kaspersky.ru": {
-        "term": "15.05.2020",
+        "term": "14.05.2021",
         "urls": [
             "http://www.kaspersky.ru"
         ],
-        "alias": "kaspersky"
+        "alias": "kaspersky",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "www.drweb.ru": {
-        "term": "15.05.2020",
+        "term": "14.05.2021",
         "urls": [
             "https://www.drweb.ru"
         ],
-        "alias": "drweb"
+        "alias": "drweb",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "avia.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://avia.yandex.ru/?utm_source=yamain&utm_medium=popup&utm_campaign=allru"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "auto.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://auto.ru/?from=all-services"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "audience.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://audience.yandex.ru/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "afisha.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://afisha.yandex.ru/?city=moscow"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "money.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://money.yandex.ru/new",
             "https://money.yandex.ru/card2card/?_openstat=c2cw;all;",
             "https://money.yandex.ru/gibdd-debts/?_openstat=debtsp;y_all;",
             "https://money.yandex.ru/newcard?_openstat=yacard;all;"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "webmaster.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://webmaster.yandex.ru/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://yandex.ru/images/",
             "https://yandex.ru/maps/213/moscow/?l=trf%2Ctrfe",
@@ -96,264 +98,301 @@
             "https://yandex.ru/yaca/",
             "https://yandex.ru/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "direct.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://direct.yandex.ru/?from=all"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "disk.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://disk.yandex.ru/?source=services-main"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "delivery.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://delivery.yandex.ru/promo/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "calendar.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://calendar.yandex.ru/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "kassa.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://kassa.yandex.ru/?_openstat=promo;y_all;"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "www.kinopoisk.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://www.kinopoisk.ru/?utm_source=yamain&utm_medium=link&utm_campaign=main"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "market.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://market.yandex.ru/?clid=505"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "metrika.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://metrika.yandex.ru/promo",
             "https://metrika.yandex.ru/promo?"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "metro.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://metro.yandex.ru/moscow"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "music.yandex.ua": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://music.yandex.ua/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "n.maps.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://n.maps.yandex.ru/#!/?z=12&ll=30.523541%2C50.450418&l=nk%23sat",
             "https://n.maps.yandex.ru/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "realty.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://realty.yandex.ru/?from=all"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "news.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://news.yandex.ru/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "translate.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://translate.yandex.ru/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "mail.yandex.ua": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://mail.yandex.ua/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "pdd.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://pdd.yandex.ru/domains_add/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "travel.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://travel.yandex.ru/?from=morda&utm_source=yandex_morda_tab&utm_medium=cpm&utm_campaign=yandex&utm_content=tab_exp"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "rabota.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://rabota.yandex.ru/?from=morda_all"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "radio.yandex.ua": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://radio.yandex.ua/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "rasp.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://rasp.yandex.ru/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "partner.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://partner.yandex.ru/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "sprav.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://sprav.yandex.ru/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "stat.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://stat.yandex.ru/Russia/Portal"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "taxi.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://taxi.yandex.ru/#index"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "tv.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://tv.yandex.ru/213"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "telephony.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://telephony.yandex.ru/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "tech.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://tech.yandex.ru/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "fotki.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://fotki.yandex.ru/next/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "dns.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://dns.yandex.ru/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "browser.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://browser.yandex.ru/desktop/main/?from=prov_all"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "speechkit.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://speechkit.yandex.ru/dev"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "xml.yandex.ru": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://xml.yandex.ru/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "yandexdatafactory.com": {
-        "term": "19.03.2022",
+        "term": "14.05.2021",
         "urls": [
             "https://yandexdatafactory.com/ru/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "avia.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "14.05.2021",
         "urls": [
             "https://avia.yandex.ua/?utm_source=yamain&utm_medium=popup&utm_campaign=allua"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "audience.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "14.05.2021",
         "urls": [
             "https://audience.yandex.ua/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "afisha.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "14.05.2021",
         "urls": [
             "https://afisha.yandex.ua/events?city=kyiv&tag=cinema"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "yandex.ua": {
-        "term": "15.05.2020",
+        "term": "14.05.2021",
         "urls": [
             "https://yandex.ua/yaca/",
             "https://yandex.ua/adv?from=all",
@@ -367,140 +406,160 @@
             "https://yandex.ua/pogoda/kyiv",
             "https://yandex.ua/blogs?rdrnd=234434&lr=143&redircnt=1475842393.1"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "disk.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "14.05.2021",
         "urls": [
             "https://disk.yandex.ua/?source=services-main"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "direct.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "14.05.2021",
         "urls": [
             "https://direct.yandex.ua/?from=all&ncrnd=5179"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "sprav.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "14.05.2021",
         "urls": [
             "https://sprav.yandex.ua/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "zno.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "14.05.2021",
         "urls": [
             "https://zno.yandex.ua/ru/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "market.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "14.05.2021",
         "urls": [
             "https://market.yandex.ua/?clid=505"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "metrika.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "14.05.2021",
         "urls": [
             "https://metrika.yandex.ua/promo"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "metro.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "14.05.2021",
         "urls": [
             "https://metro.yandex.ua/kiev"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "news.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "14.05.2021",
         "urls": [
             "https://news.yandex.ua/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "translate.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "14.05.2021",
         "urls": [
             "https://translate.yandex.ua/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "site.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "14.05.2021",
         "urls": [
             "https://site.yandex.ua/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "rabota.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "14.05.2021",
         "urls": [
             "https://rabota.yandex.ua/?from=morda_all"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "rasp.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "14.05.2021",
         "urls": [
             "https://rasp.yandex.ua/?lang=ru"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "partner.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "14.05.2021",
         "urls": [
             "https://partner.yandex.ua/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "passport.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "14.05.2021",
         "urls": [
             "https://passport.yandex.ua/auth/update/?retpath="
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "stat.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "14.05.2021",
         "urls": [
             "https://stat.yandex.ua/Ukraine/Portal"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "tv.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "14.05.2021",
         "urls": [
             "https://tv.yandex.ua/187?grid=main&period=now"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "dns.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "14.05.2021",
         "urls": [
             "https://dns.yandex.ua/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "browser.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "14.05.2021",
         "urls": [
             "https://browser.yandex.ua/desktop/?from=prov_all"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "xml.yandex.ua": {
-        "term": "15.05.2020",
+        "term": "14.05.2021",
         "urls": [
             "https://xml.yandex.ua/"
         ],
-        "alias": "yandex"
+        "alias": "yandex",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "yandex-taxi.com.ua": {
         "term": "19.03.2022",
@@ -752,12 +811,19 @@
         ]
     },
     "ntvplus.ru": {
-        "term": "02.05.2021",
-        "company": "Відкрите акціонерне товариство «НТВ-ПЛЮС»",
+        "term": "14.05.2023",
+        "company": "Товариство з обмеженою відповідальністю \"НТВ-ПЛЮС\"",
         "alias": "ntvplus",
         "urls": [
             "http://ntvplus.ru/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+    },
+    "ntvplus.tv": {
+        "term": "14.05.2023",
+        "company": "Товариство з обмеженою відповідальністю \"НТВ-ПЛЮС\"",
+        "alias": "ntvplus",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "rtr-planeta.com": {
         "term": "02.05.2021",
@@ -799,93 +865,65 @@
             "http://digitalrussia.tv/"
         ]
     },
+    "1tv.ru": {
+        "term": "14.05.2023",
+        "company": "Акціонерне товариство \"Перший канал\"",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+    },
     "1tv.com": {
-        "term": "02.05.2021",
+        "term": "14.05.2023",
         "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
-        "alias": "1tv",
-        "urls": [
-            "http://1tv.com/"
-        ]
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "domkino.tv": {
-        "term": "02.05.2021",
+        "term": "14.05.2023",
         "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
-        "alias": "1tv",
-        "urls": [
-            "http://domkino.tv/"
-        ]
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "domkino-premium.tv": {
-        "term": "02.05.2021",
+        "term": "14.05.2023",
         "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
-        "alias": "1tv",
-        "urls": [
-            "http://domkino-premium.tv/"
-        ]
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "muz1.tv": {
-        "term": "02.05.2021",
+        "term": "14.05.2023",
         "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
-        "alias": "1tv",
-        "urls": [
-            "http://muz1.tv/"
-        ]
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "vremya.tv": {
-        "term": "02.05.2021",
+        "term": "14.05.2023",
         "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
-        "alias": "1tv",
-        "urls": [
-            "http://vremya.tv/"
-        ]
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "telecafe.ru": {
-        "term": "02.05.2021",
+        "term": "14.05.2023",
         "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
-        "alias": "1tv",
-        "urls": [
-            "http://telecafe.ru/"
-        ]
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "bober-tv.ru": {
-        "term": "02.05.2021",
+        "term": "14.05.2023",
         "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
-        "alias": "1tv",
-        "urls": [
-            "http://bober-tv.ru/"
-        ]
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "kanal-o.ru": {
-        "term": "02.05.2021",
+        "term": "14.05.2023",
         "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
-        "alias": "1tv",
-        "urls": [
-            "http://kanal-o.ru/"
-        ]
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "poehali.tv": {
-        "term": "02.05.2021",
+        "term": "14.05.2023",
         "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
-        "alias": "1tv",
-        "urls": [
-            "http://poehali.tv/"
-        ]
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "katyusha.tv": {
-        "term": "02.05.2021",
+        "term": "14.05.2023",
         "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
-        "alias": "1tv",
-        "urls": [
-            "http://katyusha.tv/"
-        ]
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "karusel-tv.ru": {
-        "term": "02.05.2021",
+        "term": "14.05.2023",
         "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
-        "alias": "1tv",
-        "urls": [
-            "http://karusel-tv.ru/"
-        ]
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "ntv.ru": {
         "term": "02.05.2021",
@@ -2691,5 +2729,30 @@
         ],
         "term": null,
         "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=1876&language=uk"
+    },
+    "newinform.com": {
+        "term": "14.05.2023",
+        "company": "ТОВ \"Новінфо\"",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+    },
+    "inforeactor.ru": {
+        "term": "14.05.2023",
+        "company": "ТОВ \"Новінфо\"",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+    },
+    "politros.com": {
+        "term": "14.05.2023",
+        "company": "ТОВ \"Новінфо\"",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+    },
+    "riafan.ru": {
+        "term": "14.05.2023",
+        "company": "ТОВ \"Федеральне агентство новин\"",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+    },
+    "jpgazeta.ru": {
+        "term": "14.05.2023",
+        "company": "ТОВ \"Федеральне агентство новин\"",
+        "reason": "https://www.president.gov.ua/documents/1842020-33629"
     }
 }
