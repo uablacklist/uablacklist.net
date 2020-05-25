@@ -61,10 +61,12 @@ def gen_domains():
             print(domain)
             if 'alias' in info:
                 alias = info['alias']
-            else:
+            elif 'company' in info:
                 alias = translit(info['company'], 'uk', reversed=True)
                 alias = alias.replace('«', '"').replace('»', '"')
                 alias = alias.replace('’', "'")
+            else:
+                alias = domain
             individuals[domain] = {
                 'alias': alias,
                 'term': info['term'],
