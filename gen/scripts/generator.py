@@ -87,6 +87,9 @@ def gen_mikrotik(subnets):
             outfile.write('\n'.join(out)+'\n')
         i=i+1
 
+def filter_invalid_ips(ips):
+    return [ip for ip in ips if ip != '127.0.0.1']
+
 def run():
     gen_domains()
     subnets = gen_subnets()
@@ -98,11 +101,12 @@ def run():
         print('Prepare %s' % domain)
         info = individuals[domain]
         info['urls'] = list(info['urls'])
-        ips.update(info['ips'])
+        domain_ips = filter_invalid_ips(info['ips'])
+        ips.update(domain_ips)
         if not subnets.get(info['alias']):
             subnets[info['alias']] = set()
         # Add domain IPs to subnets list
-        for ip in info['ips']:
+        for ip in domain_ips:
             is_in = False
             for subnet in list(subnets[info['alias']])[:]:
                 if ipaddress.ip_address(ip) in ipaddress.ip_network(subnet):
