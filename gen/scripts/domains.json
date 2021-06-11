@@ -15,55 +15,55 @@
         "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "www.kaspersky.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "http://www.kaspersky.ru"
         ],
         "alias": "kaspersky",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "www.drweb.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://www.drweb.ru"
         ],
         "alias": "drweb",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "avia.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://avia.yandex.ru/?utm_source=yamain&utm_medium=popup&utm_campaign=allru"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "auto.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://auto.ru/?from=all-services"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "audience.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://audience.yandex.ru/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "afisha.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://afisha.yandex.ru/?city=moscow"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "money.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://money.yandex.ru/new",
             "https://money.yandex.ru/card2card/?_openstat=c2cw;all;",
@@ -71,18 +71,18 @@
             "https://money.yandex.ru/newcard?_openstat=yacard;all;"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "webmaster.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://webmaster.yandex.ru/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://yandex.ru/images/",
             "https://yandex.ru/maps/213/moscow/?l=trf%2Ctrfe",
@@ -99,300 +99,300 @@
             "https://yandex.ru/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "direct.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://direct.yandex.ru/?from=all"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "disk.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://disk.yandex.ru/?source=services-main"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "delivery.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://delivery.yandex.ru/promo/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "calendar.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://calendar.yandex.ru/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "kassa.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://kassa.yandex.ru/?_openstat=promo;y_all;"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "www.kinopoisk.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://www.kinopoisk.ru/?utm_source=yamain&utm_medium=link&utm_campaign=main"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "market.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://market.yandex.ru/?clid=505"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "metrika.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://metrika.yandex.ru/promo",
             "https://metrika.yandex.ru/promo?"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "metro.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://metro.yandex.ru/moscow"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "music.yandex.ua": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://music.yandex.ua/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "n.maps.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://n.maps.yandex.ru/#!/?z=12&ll=30.523541%2C50.450418&l=nk%23sat",
             "https://n.maps.yandex.ru/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "realty.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://realty.yandex.ru/?from=all"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "news.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://news.yandex.ru/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "translate.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://translate.yandex.ru/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "mail.yandex.ua": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://mail.yandex.ua/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "pdd.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://pdd.yandex.ru/domains_add/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "travel.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://travel.yandex.ru/?from=morda&utm_source=yandex_morda_tab&utm_medium=cpm&utm_campaign=yandex&utm_content=tab_exp"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "rabota.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://rabota.yandex.ru/?from=morda_all"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "radio.yandex.ua": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://radio.yandex.ua/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "rasp.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://rasp.yandex.ru/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "partner.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://partner.yandex.ru/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "sprav.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://sprav.yandex.ru/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "stat.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://stat.yandex.ru/Russia/Portal"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "taxi.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://taxi.yandex.ru/#index"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "tv.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://tv.yandex.ru/213"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "telephony.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://telephony.yandex.ru/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "tech.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://tech.yandex.ru/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "fotki.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://fotki.yandex.ru/next/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "dns.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://dns.yandex.ru/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "browser.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://browser.yandex.ru/desktop/main/?from=prov_all"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "speechkit.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://speechkit.yandex.ru/dev"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "xml.yandex.ru": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://xml.yandex.ru/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "yandexdatafactory.com": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://yandexdatafactory.com/ru/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "avia.yandex.ua": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://avia.yandex.ua/?utm_source=yamain&utm_medium=popup&utm_campaign=allua"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "audience.yandex.ua": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://audience.yandex.ua/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "afisha.yandex.ua": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://afisha.yandex.ua/events?city=kyiv&tag=cinema"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "yandex.ua": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://yandex.ua/yaca/",
             "https://yandex.ua/adv?from=all",
@@ -407,159 +407,159 @@
             "https://yandex.ua/blogs?rdrnd=234434&lr=143&redircnt=1475842393.1"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "disk.yandex.ua": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://disk.yandex.ua/?source=services-main"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "direct.yandex.ua": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://direct.yandex.ua/?from=all&ncrnd=5179"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "sprav.yandex.ua": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://sprav.yandex.ua/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "zno.yandex.ua": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://zno.yandex.ua/ru/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "market.yandex.ua": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://market.yandex.ua/?clid=505"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "metrika.yandex.ua": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://metrika.yandex.ua/promo"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "metro.yandex.ua": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://metro.yandex.ua/kiev"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "news.yandex.ua": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://news.yandex.ua/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "translate.yandex.ua": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://translate.yandex.ua/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "site.yandex.ua": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://site.yandex.ua/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "rabota.yandex.ua": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://rabota.yandex.ua/?from=morda_all"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "rasp.yandex.ua": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://rasp.yandex.ua/?lang=ru"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "partner.yandex.ua": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://partner.yandex.ua/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "passport.yandex.ua": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://passport.yandex.ua/auth/update/?retpath="
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "stat.yandex.ua": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://stat.yandex.ua/Ukraine/Portal"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "tv.yandex.ua": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://tv.yandex.ua/187?grid=main&period=now"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "dns.yandex.ua": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://dns.yandex.ua/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "browser.yandex.ua": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://browser.yandex.ua/desktop/?from=prov_all"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "xml.yandex.ua": {
-        "term": "14.05.2021",
+        "term": "21.05.2024",
         "urls": [
             "https://xml.yandex.ua/"
         ],
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "yandex-taxi.com.ua": {
         "term": "19.03.2022",
@@ -950,316 +950,355 @@
         ]
     },
     "mini.webmoney.ru": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://mini.webmoney.ru/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "mini.wmtransfer.com": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://mini.wmtransfer.com/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "light.webmoney.ru": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://light.webmoney.ru/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "light.wmtransfer.com": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://light.wmtransfer.com/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "wiki.webmoney.ru": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://wiki.webmoney.ru/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "webmoney.ru": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://webmoney.ru/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "wmtransfer.com": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://wmtransfer.com/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "passport.webmoney.ru": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://passport.webmoney.ru/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "security.webmoney.ru": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://security.webmoney.ru/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "security.wmtransfer.com": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://security.wmtransfer.com/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "exchanger.ru": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://exchanger.ru/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "login.wmtransfer.com": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://login.wmtransfer.com/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "credit.webmoney.ru": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://credit.webmoney.ru/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "debt.wmtransfer.com": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://debt.wmtransfer.com/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "banking.guarantee.ru": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://banking.guarantee.ru/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "banking.gdcert.com": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://banking.gdcert.com/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "banking.wmeuro.eu": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://banking.wmeuro.eu/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "webmoney.ua": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://webmoney.ua/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "banks.webmoney.ru": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://banks.webmoney.ru/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "arbitrage.webmoney.ru": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://arbitrage.webmoney.ru/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "keeper.webmoney.ru": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://keeper.webmoney.ru/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "keeper.wmtransfer.com": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://keeper.wmtransfer.com/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "wmsc1.webmoney.ru": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://wmsc1.webmoney.ru/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "wmsc2.webmoney.ru": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://wmsc2.webmoney.ru/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "wmsc3.webmoney.ru": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://wmsc3.webmoney.ru/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "wmsc4.webmoney.ru": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://wmsc4.webmoney.ru/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "merchant.webmoney.ru": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://merchant.webmoney.ru/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "merchant.wmtransfer.com": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://merchant.wmtransfer.com/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "telepay.webmoney.ru": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://telepay.webmoney.ru/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "telepay.wmtransfer.com": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://telepay.wmtransfer.com/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "wm.exchanger.money": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://wm.exchanger.money/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "events.wmtransfer.com": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://events.wmtransfer.com/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "arbitrage.webmoney.ua": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://arbitrage.webmoney.ua/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "files.wmtransfer.com": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://files.wmtransfer.com/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "mail.wmid.com": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://mail.wmid.com/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "advisor.wmtransfer.com": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://advisor.wmtransfer.com/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "paymaster.ua": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://paymaster.ua/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "elmi.ua": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://elmi.ua/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "wm-factor.com.ua": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «ВМР»",
         "alias": "webmoney",
         "urls": [
             "http://wm-factor.com.ua/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "tass.ru": {
         "term": "19.03.2022",
