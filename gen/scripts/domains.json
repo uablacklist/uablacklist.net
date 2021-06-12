@@ -610,295 +610,149 @@
         "term": "19.03.2022",
         "alias": "yandex"
     },
-    "ubp.com.ua": {
-        "term": "02.05.2021",
-        "company": "Товариство з обмеженою відповідальністю «Український бізнес портал»",
-        "alias": "ubp",
-        "urls": [
-            "http://ubp.com.ua/"
-        ]
-    },
-    "eizvestia.com": {
-        "term": "02.05.2021",
-        "company": "Товариство з обмеженою відповідальністю «Медіа інновейшн груп»",
-        "alias": "eizvestia",
-        "urls": [
-            "http://eizvestia.com/"
-        ]
-    },
     "vgtrk.com": {
-        "term": "02.05.2021",
         "company": "Федеральне державне унітарне підприємство «Всеросійська державна телевізійна і радіомовна компанія»",
-        "alias": "vgtrk",
-        "urls": [
-            "http://vgtrk.com/"
-        ]
-    },
-    "mobile.vgtrk.com": {
-        "term": "02.05.2021",
-        "company": "Федеральне державне унітарне підприємство «Всеросійська державна телевізійна і радіомовна компанія»",
-        "alias": "vgtrk",
-        "urls": [
-            "http://mobile.vgtrk.com/"
-        ]
-    },
-    "i-mult.tlum.ru": {
-        "term": "02.05.2021",
-        "company": "Федеральне державне унітарне підприємство «Всеросійська державна телевізійна і радіомовна компанія»",
-        "alias": "vgtrk",
-        "urls": [
-            "http://i-mult.tlum.ru/"
-        ]
-    },
-    "multvkino.tlum.ru": {
-        "term": "02.05.2021",
-        "company": "Федеральне державне унітарне підприємство «Всеросійська державна телевізійна і радіомовна компанія»",
-        "alias": "vgtrk",
-        "urls": [
-            "http://multvkino.tlum.ru/"
-        ]
-    },
-    "100kwt.com": {
-        "term": "02.05.2021",
-        "company": "Федеральне державне унітарне підприємство «Всеросійська державна телевізійна і радіомовна компанія»",
-        "alias": "vgtrk",
-        "urls": [
-            "http://100kwt.com/"
-        ]
-    },
-    "nashe.ru": {
-        "term": "02.05.2021",
-        "company": "Товариство з обмеженою відповідальністю «Наше Радіо»",
-        "alias": "nashe",
-        "urls": [
-            "http://nashe.ru/"
-        ]
-    },
-    "promedia.ru": {
-        "term": "02.05.2021",
-        "company": "Товариство з обмеженою відповідальністю «Промедіа»",
-        "alias": "promedia",
-        "urls": [
-            "http://promedia.ru/"
-        ]
-    },
-    "wbc.com.ru": {
-        "term": "02.05.2021",
-        "company": "Товариство з обмеженою відповідальністю «Медіа Контент»",
-        "alias": "wbc",
-        "urls": [
-            "http://wbc.com.ru/"
-        ]
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "otr-online.ru": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Автономна некомерційна організація «Суспільне телебачення Росії»",
         "alias": "otr",
         "urls": [
             "http://otr-online.ru/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "ren.tv": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю «Акцепт», телевізійний канал «Рен ТВ»",
         "alias": "ren",
         "urls": [
             "http://ren.tv/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "5-tv.ru": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Відкрите акціонерне товариство «Телерадіокомпанія Петербург»",
         "alias": "5_tv",
         "urls": [
             "http://5-tv.ru/"
-        ]
-    },
-    "nm-g.ru": {
-        "term": "02.05.2021",
-        "company": "Закрите акціонерне товариство «Національна медіа група»",
-        "alias": "nm_g",
-        "urls": [
-            "http://nm-g.ru/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "россиясегодня.рф": {
-        "urls": [
-            "http://россиясегодня.рф/"
-        ],
-        "term": "02.05.2021",
         "company": "Федеральне державне унітарне підприємство «Міжнародне інформаційне агентство «Росія сьогодні»",
-        "alias": "ria_ru"
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "sputniknews.com": {
-        "urls": [
-            "http://sputniknews.com/"
-        ],
-        "term": "02.05.2021",
         "company": "Федеральне державне унітарне підприємство «Міжнародне інформаційне агентство «Росія сьогодні»",
-        "alias": "ria_ru"
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "ria.ru": {
-        "urls": [
-            "http://ria.ru/"
-        ],
-        "term": "02.05.2021",
         "company": "Федеральне державне унітарне підприємство «Міжнародне інформаційне агентство «Росія сьогодні»",
-        "alias": "ria_ru"
-    },
-    "rsport.ria.ru": {
-        "urls": [
-            "http://rsport.ria.ru/"
-        ],
-        "term": "02.05.2021",
-        "company": "Федеральне державне унітарне підприємство «Міжнародне інформаційне агентство «Росія сьогодні»",
-        "alias": "ria_ru"
-    },
-    "1prime.ru": {
-        "urls": [
-            "http://1prime.ru/"
-        ],
-        "term": "02.05.2021",
-        "company": "Федеральне державне унітарне підприємство «Міжнародне інформаційне агентство «Росія сьогодні»",
-        "alias": "ria_ru"
-    },
-    "realty.ria.ru": {
-        "urls": [
-            "http://realty.ria.ru/"
-        ],
-        "term": "02.05.2021",
-        "company": "Федеральне державне унітарне підприємство «Міжнародне інформаційне агентство «Росія сьогодні»",
-        "alias": "ria_ru"
-    },
-    "riarating.ru": {
-        "urls": [
-            "http://riarating.ru/"
-        ],
-        "term": "02.05.2021",
-        "company": "Федеральне державне унітарне підприємство «Міжнародне інформаційне агентство «Росія сьогодні»",
-        "alias": "ria_ru"
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "inosmi.ru": {
-        "urls": [
-            "http://inosmi.ru/"
-        ],
-        "term": "02.05.2021",
         "company": "Федеральне державне унітарне підприємство «Міжнародне інформаційне агентство «Росія сьогодні»",
-        "alias": "ria_ru"
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "radiovera.ru": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Автономна некомерційна організація Інформаційний центр радіомовлення, мистецтва і культури «ВІРА, НАДІЯ, ЛЮБОВ»",
         "alias": "radiovera",
         "urls": [
             "http://radiovera.ru/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "tnt-online.ru": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Акціонерне товариство «МОСКВА МЕДІА»",
         "alias": "tnt",
         "urls": [
             "http://tnt-online.ru/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "tvzvezda.ru": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Відкрите акціонерне товариство «Телерадіокомпанія Збройних сил Російської Федерації «ЗІРКА»",
         "alias": "tvzvezda",
         "urls": [
             "http://tvzvezda.ru/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "ntvplus.ru": {
-        "term": "14.05.2023",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю \"НТВ-ПЛЮС\"",
         "alias": "ntvplus",
         "urls": [
             "http://ntvplus.ru/"
         ],
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "ntvplus.tv": {
-        "term": "14.05.2023",
+        "term": "21.05.2024",
         "company": "Товариство з обмеженою відповідальністю \"НТВ-ПЛЮС\"",
         "alias": "ntvplus",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "rtr-planeta.com": {
-        "term": "02.05.2021",
-        "company": "Телеканали «РТР-Планета», інформаційний канал «Росія-24», які входять до структури Федерального державного унітарного підприємства «Всеросійська державна телевізійна і радіомовна компанія»",
-        "alias": "rtr",
-        "urls": [
-            "http://rtr-planeta.com/"
-        ]
-    },
-    "russia.tv": {
-        "term": "02.05.2021",
-        "company": "Телеканали «РТР-Планета», інформаційний канал «Росія-24», які входять до структури Федерального державного унітарного підприємства «Всеросійська державна телевізійна і радіомовна компанія»",
-        "alias": "rtr",
-        "urls": [
-            "http://russia.tv/"
-        ]
+        "company": "Федеральне державне унітарне підприємство «Всеросійська державна телевізійна і радіомовна компанія»",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "vesti.ru": {
-        "term": "02.05.2021",
-        "company": "Телеканали «РТР-Планета», інформаційний канал «Росія-24», які входять до структури Федерального державного унітарного підприємства «Всеросійська державна телевізійна і радіомовна компанія»",
-        "alias": "rtr",
-        "urls": [
-            "http://vesti.ru/"
-        ]
-    },
-    "tvkultura.ru": {
-        "term": "02.05.2021",
-        "company": "Телеканали «РТР-Планета», інформаційний канал «Росія-24», які входять до структури Федерального державного унітарного підприємства «Всеросійська державна телевізійна і радіомовна компанія»",
-        "alias": "rtr",
-        "urls": [
-            "http://tvkultura.ru/"
-        ]
-    },
-    "digitalrussia.tv": {
-        "term": "02.05.2021",
-        "company": "Телеканали «РТР-Планета», інформаційний канал «Росія-24», які входять до структури Федерального державного унітарного підприємства «Всеросійська державна телевізійна і радіомовна компанія»",
-        "alias": "rtr",
-        "urls": [
-            "http://digitalrussia.tv/"
-        ]
+        "company": "Федеральне державне унітарне підприємство «Всеросійська державна телевізійна і радіомовна компанія»",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "1tv.ru": {
-        "term": "14.05.2023",
+        "term": "21.05.2024",
         "company": "Акціонерне товариство \"Перший канал\"",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "1tv.com": {
-        "term": "14.05.2023",
+        "term": "21.05.2024",
         "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "domkino.tv": {
-        "term": "14.05.2023",
+        "term": "21.05.2024",
         "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "domkino-premium.tv": {
-        "term": "14.05.2023",
+        "term": "21.05.2024",
         "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "muz1.tv": {
-        "term": "14.05.2023",
+        "term": "21.05.2024",
         "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "vremya.tv": {
-        "term": "14.05.2023",
+        "term": "21.05.2024",
         "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "pobeda.tv": {
+        "term": "21.05.2024",
+        "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "telecafe.ru": {
-        "term": "14.05.2023",
+        "term": "21.05.2024",
         "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "bober-tv.ru": {
         "term": "14.05.2023",
@@ -926,226 +780,151 @@
         "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "ntv.ru": {
-        "term": "02.05.2021",
+        "term": "21.05.2024",
         "company": "Відкрите акціонерне товариство «Телекомпанія НТВ»",
         "alias": "ntv",
         "urls": [
             "http://ntv.ru/"
-        ]
-    },
-    "rian.com.ua": {
-        "term": "02.05.2021",
-        "company": "Представництво Федерального державного унітарного підприємства «Российское агентство международной информации «Российское информационное агентство (РИА) «Новости»",
-        "alias": "rian",
-        "urls": [
-            "http://rian.com.ua/"
-        ]
+        ],
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "www.capitaller.ru": {
-        "term": "02.05.2021",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://www.capitaller.ru/"
-        ]
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "mini.webmoney.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://mini.webmoney.ru/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "mini.wmtransfer.com": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://mini.wmtransfer.com/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "light.webmoney.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://light.webmoney.ru/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "light.wmtransfer.com": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://light.wmtransfer.com/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "wiki.webmoney.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://wiki.webmoney.ru/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "webmoney.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://webmoney.ru/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "wmtransfer.com": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://wmtransfer.com/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "passport.webmoney.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://passport.webmoney.ru/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "security.webmoney.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://security.webmoney.ru/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "security.wmtransfer.com": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://security.wmtransfer.com/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "exchanger.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://exchanger.ru/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "login.wmtransfer.com": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://login.wmtransfer.com/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "credit.webmoney.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://credit.webmoney.ru/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "debt.wmtransfer.com": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://debt.wmtransfer.com/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "banking.guarantee.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://banking.guarantee.ru/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "banking.gdcert.com": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://banking.gdcert.com/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "banking.wmeuro.eu": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://banking.wmeuro.eu/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "webmoney.ua": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://webmoney.ua/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "banks.webmoney.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://banks.webmoney.ru/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "arbitrage.webmoney.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://arbitrage.webmoney.ru/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "keeper.webmoney.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://keeper.webmoney.ru/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "keeper.wmtransfer.com": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://keeper.wmtransfer.com/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "wmsc1.webmoney.ru": {
         "term": "21.05.2024",
@@ -1157,130 +936,88 @@
         "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "wmsc2.webmoney.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://wmsc2.webmoney.ru/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "wmsc3.webmoney.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://wmsc3.webmoney.ru/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "wmsc4.webmoney.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://wmsc4.webmoney.ru/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "merchant.webmoney.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://merchant.webmoney.ru/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "merchant.wmtransfer.com": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://merchant.wmtransfer.com/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "telepay.webmoney.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://telepay.webmoney.ru/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "telepay.wmtransfer.com": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://telepay.wmtransfer.com/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "wm.exchanger.money": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://wm.exchanger.money/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "events.wmtransfer.com": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://events.wmtransfer.com/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "arbitrage.webmoney.ua": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://arbitrage.webmoney.ua/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "files.wmtransfer.com": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://files.wmtransfer.com/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "mail.wmid.com": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://mail.wmid.com/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "advisor.wmtransfer.com": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://advisor.wmtransfer.com/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "paymaster.ua": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://paymaster.ua/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "elmi.ua": {
         "term": "21.05.2024",
@@ -1292,13 +1029,10 @@
         "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "wm-factor.com.ua": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
         "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «ВМР»",
-        "alias": "webmoney",
-        "urls": [
-            "http://wm-factor.com.ua/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
     },
     "tass.ru": {
         "term": "19.03.2022",
@@ -1333,8 +1067,9 @@
         "company": "Толстой Петро Олегович"
     },
     "news-front.info": {
-        "term": "19.03.2022",
-        "company": "Толстой Петро Олегович"
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "nahnews.org": {
         "term": "19.03.2022",
@@ -1345,319 +1080,129 @@
         "company": "Толстой Петро Олегович"
     },
     "antimaydan.info": {
-        "term": "19.03.2022",
-        "company": "Пушилін Денис Володимирович"
-    },
-    "novorossia.today": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://novorossia.today/"
-        ]
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "dan-news.info": {
-        "term": "19.03.2022",
-        "company": "Жукова Галина Едуардівна",
-        "urls": [
-            "https://dan-news.info/"
-        ]
-    },
-    "mvddnr.ru": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://mvddnr.ru/"
-        ]
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "mgb-dnr.ru": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://mgb-dnr.ru/"
-        ]
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "dnmchs.ru": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://dnmchs.ru/"
-        ]
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "minfindnr.ru": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://minfindnr.ru/"
-        ]
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "mintek-dnr.ru": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://mintek-dnr.ru/"
-        ]
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "minstroy-dnr.ru": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://minstroy-dnr.ru/"
-        ]
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "mtspdnr.ru": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://mtspdnr.ru/"
-        ]
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "agroprom.msdnr.ru": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://agroprom.msdnr.ru/"
-        ]
-    },
-    "mondnr.ru": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://mondnr.ru/"
-        ]
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "minjust-dnr.ru": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://minjust-dnr.ru/"
-        ]
-    },
-    "dnr-online.ru": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://dnr-online.ru/"
-        ]
-    },
-    "dommintrans.ru": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://dommintrans.ru/"
-        ]
-    },
-    "msdnr.ru": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://msdnr.ru/"
-        ]
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "novopressa.ru": {
-        "term": "19.03.2022",
-        "company": "Пушилін Денис Володимирович"
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "tk-union.tv": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://tk-union.tv/"
-        ]
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "republic-tv.ru": {
-        "term": "19.03.2022",
-        "company": "Петренко Віктор Євгенійович"
-    },
-    "novorossiatv.com": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://novorossiatv.com/"
-        ]
-    },
-    "dnr-news.com": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://dnr-news.com/"
-        ]
-    },
-    "tribunal.dnr-online.ru": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://tribunal.dnr-online.ru/"
-        ]
-    },
-    "dnipress.com": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://dnipress.com/"
-        ]
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "фридом.su": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://фридом.su/"
-        ]
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "dnr-pravda.ru": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://dnr-pravda.ru/"
-        ]
-    },
-    "smdnr.ru": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://smdnr.ru/"
-        ]
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "glavstat.govdnr.ru": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://glavstat.govdnr.ru/"
-        ]
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "mincult.govdnr.ru": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://mincult.govdnr.ru/"
-        ]
-    },
-    "minzdrav.govdnr.ru": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://minzdrav.govdnr.ru/"
-        ]
-    },
-    "izpp.govdnr.ru": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://izpp.govdnr.ru/"
-        ]
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "rst-dnr.ru": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://rst-dnr.ru/"
-        ]
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "admin-gorlovka.ru": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://admin-gorlovka.ru/"
-        ]
-    },
-    "gorlovka.today": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://gorlovka.today/"
-        ]
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "dnr-hotline.ru": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://dnr-hotline.ru/"
-        ]
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "dnr24.su": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://dnr24.su/"
-        ]
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "dnr24.com": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://dnr24.com/"
-        ]
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "bizdnr.ru": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://bizdnr.ru/"
-        ]
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "dnr-live.ru": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://dnr-live.ru/"
-        ]
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "dnr-life.ru": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://dnr-life.ru/"
-        ]
-    },
-    "donbass.media": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://donbass.media/"
-        ]
-    },
-    "novorossia-tv.ru": {
-        "term": "02.05.2021",
-        "company": "Захарченко Олександр Володимирович",
-        "alias": "zakharchenko",
-        "urls": [
-            "http://novorossia-tv.ru/"
-        ]
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "russian.oplot.tv": {
         "term": "19.03.2022",
@@ -1667,433 +1212,281 @@
         ]
     },
     "ruscrimea.ru": {
-        "term": "02.05.2021",
         "company": "Аксьонов Сергій Валерійович",
-        "urls": [
-            "http://ruscrimea.ru/"
-        ]
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "c-pravda.ru": {
-        "term": "19.03.2022",
-        "company": "Аксьонов Сергій Валерійович"
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "reporter-crimea.ru": {
-        "term": "02.05.2021",
         "company": "Аксьонов Сергій Валерійович",
-        "urls": [
-            "http://reporter-crimea.ru/"
-        ]
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "allcrimea.net": {
-        "term": "02.05.2021",
         "company": "Аксьонов Сергій Валерійович",
-        "urls": [
-            "http://allcrimea.net/"
-        ]
-    },
-    "kianews.com.ua": {
-        "term": "02.05.2021",
-        "company": "Аксьонов Сергій Валерійович",
-        "urls": [
-            "http://kianews.com.ua/"
-        ]
-    },
-    "gazeta.ok-crimea.ru": {
-        "term": "02.05.2021",
-        "company": "Аксьонов Сергій Валерійович",
-        "urls": [
-            "http://gazeta.ok-crimea.ru/"
-        ]
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "sevastopol.press": {
-        "term": "02.05.2021",
         "company": "Аксьонов Сергій Валерійович",
-        "urls": [
-            "http://Sevastopol.press/"
-        ]
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "rk.gov.ru": {
-        "term": "02.05.2021",
         "company": "Аксьонов Сергій Валерійович",
-        "urls": [
-            "http://rk.gov.ru/"
-        ]
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "mtur.rk.gov.ru": {
-        "term": "02.05.2021",
         "company": "Аксьонов Сергій Валерійович",
-        "urls": [
-            "http://mtur.rk.gov.ru/"
-        ]
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "crimea.gov.ru": {
-        "term": "02.05.2021",
         "company": "Аксьонов Сергій Валерійович",
-        "urls": [
-            "http://crimea.gov.ru/"
-        ]
-    },
-    "82.fskn.ru": {
-        "term": "02.05.2021",
-        "company": "Аксьонов Сергій Валерійович",
-        "urls": [
-            "http://82.fskn.ru/"
-        ]
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "ikrim.net": {
-        "term": "02.05.2021",
         "company": "Аксьонов Сергій Валерійович",
-        "urls": [
-            "http://ikrim.net/"
-        ]
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "c-inform.info": {
-        "term": "02.05.2021",
         "company": "Аксьонов Сергій Валерійович",
-        "urls": [
-            "http://c-inform.info/"
-        ]
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "nts-tv.com": {
-        "term": "02.05.2021",
         "company": "Аксьонов Сергій Валерійович",
-        "urls": [
-            "http://nts-tv.com/"
-        ]
-    },
-    "1sev.tv": {
-        "term": "02.05.2021",
-        "company": "Аксьонов Сергій Валерійович",
-        "urls": [
-            "http://1sev.tv/"
-        ]
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "трк-итв.рф": {
-        "term": "02.05.2021",
-        "company": "Аксьонов Сергій Валерійович",
-        "urls": [
-            "http://трк-итв.рф/"
-        ]
-    },
-    "trkekran.mybb.ru": {
-        "term": "02.05.2021",
-        "company": "Аксьонов Сергій Валерійович",
-        "urls": [
-            "http://trkekran.mybb.ru/"
-        ]
-    },
-    "crimea-channel.ru": {
-        "term": "02.05.2021",
-        "company": "Аксьонов Сергій Валерійович",
-        "urls": [
-            "http://crimea-channel.ru/"
-        ]
+        "term": "21.05.2024",
+        "company": "Товариство з обмеженою відповідальністю \"Телерадіокомпанія ІТВ\"",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "trkmillet.ru": {
-        "term": "02.05.2021",
         "company": "Аксьонов Сергій Валерійович",
-        "urls": [
-            "http://trkmillet.ru/"
-        ]
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "1tvcrimea.ru": {
-        "term": "19.03.2022",
-        "company": "Аксьонов Сергій Валерійович"
+        "company": "Автономна некомерційна організація \"Телерадіокомпанія \"Крим\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "ikstv.ru": {
-        "term": "02.05.2021",
-        "company": "Аксьонов Сергій Валерійович",
-        "urls": [
-            "http://ikstv.ru/"
-        ]
+        "company": "Державна автономна установа міста Севастополя \"Севастопольская телерадиокомпания\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "yalta-tv.ru": {
-        "term": "02.05.2021",
-        "company": "Аксьонов Сергій Валерійович",
-        "urls": [
-            "http://yalta-tv.ru/"
-        ]
+        "company": "Товариство з обмеженою відповідальністю \"Студія \"Ялта ТВ\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "yaltatv.ru": {
-        "term": "02.05.2021",
-        "company": "Аксьонов Сергій Валерійович",
-        "urls": [
-            "http://yaltatv.ru/"
-        ]
-    },
-    "brttv.ru": {
-        "term": "02.05.2021",
-        "company": "Аксьонов Сергій Валерійович",
-        "urls": [
-            "http://brttv.ru/"
-        ]
+        "company": "Товариство з обмеженою відповідальністю \"Телерадіокомпанія \"Ялта\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "kianews24.ru": {
-        "term": "02.05.2021",
         "company": "Аксьонов Сергій Валерійович",
-        "urls": [
-            "http://kianews24.ru/"
-        ]
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "c-eho.info": {
-        "term": "02.05.2021",
         "company": "Аксьонов Сергій Валерійович",
-        "urls": [
-            "http://c-eho.info/"
-        ]
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "crimea.ria.ru": {
-        "term": "02.05.2021",
-        "company": "Аксьонов Сергій Валерійович",
-        "urls": [
-            "http://crimea.ria.ru/"
-        ]
-    },
-    "komtv.org": {
-        "term": "02.05.2021",
-        "company": "Аксьонов Сергій Валерійович",
-        "urls": [
-            "http://komtv.org/"
-        ]
+        "company": "Федеральне державне унітарне підприємство «Міжнародне інформаційне агентство «Росія сьогодні»",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "gazetacrimea.ru": {
-        "term": "02.05.2021",
-        "company": "Аксьонов Сергій Валерійович",
-        "urls": [
-            "http://gazetacrimea.ru/"
-        ]
+        "company": "Товариство з обмеженою відповідальністю \"Телерадіокомпанія ІТВ\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "lug-info.com": {
-        "term": "19.03.2022",
         "company": "Пасічник Леонід Іванович",
-        "urls": [
-            "http://lug-info.com/"
-        ]
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "novoross.info": {
-        "term": "02.05.2021",
         "company": "Пасічник Леонід Іванович",
-        "urls": [
-            "http://novoross.info/"
-        ]
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "sovminlnr.su": {
-        "term": "02.05.2021",
         "company": "Пасічник Леонід Іванович",
-        "urls": [
-            "http://Sovminlnr.su/"
-        ]
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "mslnr.su": {
-        "term": "19.03.2022",
-        "company": "Фетісов Олег Васильович",
-        "urls": [
-            "https://mslnr.su/"
-        ]
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "mu-lnr.su": {
-        "term": "19.03.2022",
-        "company": "Козьяков Сергій Юрійович"
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "merlnr.su": {
-        "term": "19.03.2022",
-        "company": "Костенко Олена Миколаївна",
-        "urls": [
-            "https://merlnr.su/"
-        ]
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "minpromlnr.su": {
-        "term": "19.03.2022",
-        "company": "Стегленко Катерина Миколаївна",
-        "urls": [
-            "https://minpromlnr.su/"
-        ]
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "mintrudlnr.su": {
-        "term": "19.03.2022",
-        "company": "Малахова Світлана Анатоліївна",
-        "urls": [
-            "https://mintrudlnr.su/"
-        ]
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "minfinlnr.su": {
-        "term": "19.03.2022",
-        "company": "Мануйлов Євген Володимирович",
-        "urls": [
-            "https://minfinlnr.su/"
-        ]
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "mshiplnr.su": {
-        "term": "19.03.2022",
-        "company": "Сороковенко Руслан Вікторович",
-        "urls": [
-            "https://mshiplnr.su/"
-        ]
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "minobr.su": {
-        "term": "19.03.2022",
-        "company": "Цемкало Сергій Олександрович",
-        "urls": [
-            "https://minobr.su/"
-        ]
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "minstroylnr.su": {
-        "term": "19.03.2022",
-        "company": "Протасов Максим Олексійович",
-        "urls": [
-            "https://minstroylnr.su/"
-        ]
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "mintop.su": {
-        "term": "19.03.2022",
-        "company": "Мальгін Павло Володимирович"
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "gknslnr.su": {
-        "term": "19.03.2022",
-        "company": "Бородін Сергій Олексійович",
-        "urls": [
-            "https://gknslnr.su/"
-        ]
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "mprlnr.su": {
-        "term": "19.03.2022",
-        "company": "Грібачьов Віктор Миколайович",
-        "urls": [
-            "https://mprlnr.su/"
-        ]
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "fgi-lnr.su": {
-        "term": "19.03.2022",
-        "company": "Толмачов Олександр Олександрович"
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "tsiklnr.su": {
-        "term": "19.03.2022",
-        "company": "Пасічник Леонід Іванович"
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "mchs-lnr.su": {
-        "term": "19.03.2022",
-        "company": "Іванушкін Сергій Сергійович",
-        "urls": [
-            "https://mchs-lnr.su/"
-        ]
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "nslnr.su": {
-        "term": "02.05.2021",
         "company": "Пасічник Леонід Іванович",
-        "urls": [
-            "http://Nslnr.su/"
-        ]
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "mvdlnr.ru": {
-        "term": "19.03.2022",
-        "company": "Корнет Ігор Олександрович"
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "mgblnr.org": {
-        "term": "19.03.2022",
         "company": "Пасічник Леонід Іванович",
-        "urls": [
-            "https://mgblnr.org/"
-        ]
-    },
-    "mіаіstоk.su": {
-        "term": "02.05.2021",
-        "company": "Пасічник Леонід Іванович",
-        "urls": [
-            "http://mіаіstоk.su/"
-        ]
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "gtklnr.su": {
-        "term": "02.05.2021",
         "company": "Пасічник Леонід Іванович",
-        "urls": [
-            "http://Gtklnr.su/"
-        ]
-    },
-    "on-line.lg.ua": {
-        "term": "02.05.2021",
-        "company": "Пасічник Леонід Іванович",
-        "urls": [
-            "http://on-line.lg.ua/"
-        ]
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "lugansk-online.su": {
-        "term": "02.05.2021",
         "company": "Пасічник Леонід Іванович",
-        "urls": [
-            "http://lugansk-online.su/"
-        ]
-    },
-    "lug24.ru": {
-        "term": "02.05.2021",
-        "company": "Пасічник Леонід Іванович",
-        "urls": [
-            "http://lug24.ru/"
-        ]
-    },
-    "novosti-tchasa.com": {
-        "term": "02.05.2021",
-        "company": "Пасічник Леонід Іванович",
-        "urls": [
-            "http://novosti-tchasa.com/"
-        ]
-    },
-    "trk-luch.ru": {
-        "term": "02.05.2021",
-        "company": "Пасічник Леонід Іванович",
-        "urls": [
-            "http://trk-luch.ru/"
-        ]
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "artv-news.ru": {
-        "term": "02.05.2021",
         "company": "Пасічник Леонід Іванович",
-        "urls": [
-            "http://artv-news.ru/"
-        ]
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "glava-lnr.su": {
         "term": "19.03.2022",
         "company": "Пасічник Леонід Іванович"
     },
     "antratsit.su": {
-        "term": "19.03.2022",
-        "company": "Пасічник Леонід Іванович"
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "glava-lnr.info": {
-        "term": "19.03.2022",
-        "company": "Пасічник Леонід Іванович"
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "gtrlnr.com": {
         "term": "19.03.2022",
         "company": "Пасічник Леонід Іванович"
     },
     "infovestnik.blogspot.com": {
-        "term": "19.03.2022",
-        "company": "Пасічник Леонід Іванович"
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "leonid-pasechnik.info": {
         "term": "19.03.2022",
         "company": "Пасічник Леонід Іванович"
     },
     "lnr.today": {
-        "term": "19.03.2022",
-        "company": "Пасічник Леонід Іванович"
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "lugansk.online": {
-        "term": "19.03.2022",
-        "company": "Пасічник Леонід Іванович"
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "nashagazeta.net": {
-        "term": "19.03.2022",
-        "company": "Пасічник Леонід Іванович"
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "novorosinform.org": {
-        "term": "19.03.2022",
-        "company": "Пасічник Леонід Іванович"
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "nt1941.su": {
-        "term": "19.03.2022",
-        "company": "Пасічник Леонід Іванович"
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "rp24.info": {
         "term": "19.03.2022",
@@ -2104,40 +1497,19 @@
         "company": "Пасічник Леонід Іванович"
     },
     "мгблнр.орг": {
-        "term": "19.03.2022",
-        "company": "Пасічник Леонід Іванович"
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "miaistok.su": {
-        "term": "02.05.2021",
-        "company": "Ценценатов Євген Михайлович",
-        "alias": "tsentsenatov",
-        "urls": [
-            "http://miaistok.su/"
-        ]
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "lugansk1.info": {
-        "term": "02.05.2021",
-        "company": "Першиков Юрій Олександрович",
-        "alias": "pershykov",
-        "urls": [
-            "http://lugansk1.info/"
-        ]
-    },
-    "okkupatsiya.net": {
-        "term": "02.05.2021",
-        "company": "Першиков Юрій Олександрович",
-        "alias": "pershykov",
-        "urls": [
-            "http://okkupatsiya.net/"
-        ]
-    },
-    "lugansk.site": {
-        "term": "02.05.2021",
-        "company": "Чаленко Максим Михайлович",
-        "alias": "chalenko",
-        "urls": [
-            "http://lugansk.site/"
-        ]
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "sovminlnr.ru": {
         "term": "19.03.2022",
@@ -2147,8 +1519,9 @@
         ]
     },
     "gplnr.su": {
-        "term": "19.03.2022",
-        "company": "Горенко Сергій Сергійович"
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "www.mklnr.su": {
         "term": "19.03.2022",
@@ -2162,63 +1535,57 @@
         "company": "Акімов Олег Костянтинович"
     },
     "mintranslnr.su": {
-        "term": "19.03.2022",
-        "company": "Герасимчук Володимир Васильович",
-        "urls": [
-            "https://mintranslnr.su/"
-        ]
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "mzlnr.su": {
-        "term": "19.03.2022",
-        "company": "Василенко Ольга Миколаївна"
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "pflnr.su": {
-        "term": "19.03.2022",
-        "company": "Васильєва Тетяна Михайлівна",
-        "urls": [
-            "https://pflnr.su/"
-        ]
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "gorod-lugansk.com": {
-        "term": "19.03.2022",
-        "company": "Пілавов Маноліс Васильович"
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "antr-adm.ru": {
         "term": "19.03.2022",
         "company": "Андрєєнко Анатолій Олександрович"
     },
     "krasnyluch.su": {
-        "term": "19.03.2022",
-        "company": "Васькевич Алла Вікторівна"
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "kga.su": {
         "term": "19.03.2022",
         "company": "Карцев Геннадій Олександрович"
     },
     "slavlnr.su": {
-        "term": "19.03.2022",
-        "company": "Дейнека Олександр Анатолійович",
-        "urls": [
-            "https://slavlnr.su/"
-        ]
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "stakhanov.su": {
-        "term": "19.03.2022",
-        "company": "Жевлаков Сергій Васильович",
-        "urls": [
-            "https://stakhanov.su/"
-        ]
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "krasnodon.su": {
-        "term": "19.03.2022",
-        "company": "Козенко Сергій Павлович"
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "bryanka.su": {
-        "term": "19.03.2022",
-        "company": "Моргунов Микола Вікторович",
-        "urls": [
-            "https://bryanka.su/"
-        ]
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "www.pervomaysklnr.su": {
         "term": "19.03.2022",
@@ -2228,23 +1595,24 @@
         ]
     },
     "rov-adm.su": {
-        "term": "19.03.2022",
-        "company": "Княжев Сергій Миколайович"
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "svk-portal.su": {
-        "term": "19.03.2022",
-        "company": "Сухачов Андрій Валерійович"
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "lutugino.su": {
-        "term": "19.03.2022",
-        "company": "Коретников Роман Олександрович та Михайлов Віталій Васильович",
-        "urls": [
-            "https://lutugino.su/"
-        ]
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "alchevsk.su": {
-        "term": "19.03.2022",
-        "company": "П’яткова Наталія Петрівна"
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "vmakeevke.com": {
         "term": "19.03.2022",
@@ -2425,68 +1793,83 @@
         "company": "Пушилін Денис Володимирович"
     },
     "crimea.izbirkom.ru": {
-        "term": "19.03.2022",
-        "company": "Аксьонов Сергій Валерійович"
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "krym.fas.gov.ru": {
-        "term": "19.03.2022",
-        "company": "Аксьонов Сергій Валерійович"
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "opcrimea.ru": {
-        "term": "19.03.2022",
-        "company": "Аксьонов Сергій Валерійович"
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "ppcrimea.ru": {
-        "term": "19.03.2022",
-        "company": "Аксьонов Сергій Валерійович"
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "rkproc.ru": {
-        "term": "19.03.2022",
-        "company": "Аксьонов Сергій Валерійович"
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "rusdialog.ru": {
         "term": "19.03.2022",
         "company": "Аксьонов Сергій Валерійович"
     },
     "sp-rc.ru": {
-        "term": "19.03.2022",
-        "company": "Аксьонов Сергій Валерійович"
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "tfomsrk.ru": {
-        "term": "19.03.2022",
-        "company": "Аксьонов Сергій Валерійович"
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "voicesevas.ru": {
-        "term": "19.03.2022",
-        "company": "Аксьонов Сергій Валерійович"
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "r82.fss.ru": {
-        "term": "19.03.2022",
-        "company": "Аксьонов Сергій Валерійович"
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "r82.fssprus.ru": {
-        "term": "19.03.2022",
-        "company": "Аксьонов Сергій Валерійович"
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "82.mvd.ru": {
-        "term": "19.03.2022",
-        "company": "Аксьонов Сергій Валерійович"
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "82.mchs.gov.ru": {
-        "term": "19.03.2022",
-        "company": "Аксьонов Сергій Валерійович"
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "82reg.roszdravnadzor.ru": {
-        "term": "19.03.2022",
-        "company": "Аксьонов Сергій Валерійович"
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "82.rospotrebnadzor.ru": {
-        "term": "19.03.2022",
-        "company": "Аксьонов Сергій Валерійович"
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "82.rkn.gov.ru": {
-        "term": "19.03.2022",
-        "company": "Аксьонов Сергій Валерійович"
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "uscrimea.ru": {
         "term": "19.03.2022",
@@ -2497,8 +1880,9 @@
         "company": "Аксьонов Сергій Валерійович"
     },
     "керчь-город.рф": {
-        "term": "19.03.2022",
-        "company": "Аксьонов Сергій Валерійович"
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "чистенькое-адм.рф": {
         "term": "19.03.2022",
@@ -2797,5 +2181,963 @@
     "finbet.bet": {
         "term": null,
         "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=1870"
+    },
+    "82.мвд.рф": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "armgov.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "djankoiadm.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "dzhankoy.rk.gov.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "epp.genproc.gov.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "urls": [
+            "http://epp.genproc.gov.ru/web/proc_91"
+        ]
+    },
+    "evp.rk.gov.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "feo.rk.gov.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "intrud.rk.gov.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "mchs.rk.gov.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "meco.rk.gov.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "mgsn.rk.gov.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "minek.rk.gov.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "minfin.rk.gov.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "minfo.rk.gov.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "mkult.rk.gov.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "monm.rk.gov.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "mprom.rk.gov.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "msh.rk.gov.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "msport.rk.gov.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "mstroy.rk.gov.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "mtop.rk.gov.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "mtrans.rk.gov.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "mtrud.rk.gov.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "must.rk.gov.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "mzdrav.rk.gov.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "mzem.rk.gov.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "mzhkh.rk.gov.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "narodnoeopolchenie.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "sev.gov.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "simadm.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "usd.krm.sudrf.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "vs.krm.sudrf.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "yalta.rk.gov.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "crimea-news.com": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "journalcrimea.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "ok-crimea.ru": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "sev.tv": {
+        "company": "Аксьонов Сергій Валерійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "amvrosievka-gorsovet.1c-umi.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "crb-dnr.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "dnrailway.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "dokuchaevskga.ucoz.org": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "doncsm.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "donmarkets.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "econri.org": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "fpdnr.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "giapkdnr.msdnr.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "gisnpa-dnr.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "gkecopoldnr.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "gkgtn.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "goskomzemdnr.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "gosstat-dnr.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "gostrud-dnr.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "govdnr.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "gpdnr.su": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "gsdsd-dnr.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "gum-centr.su": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "guprec.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "mgbdnr.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "mininfodnr.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "mpt-dnr.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "novoaz-adm.3dn.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "ombudsmandnr.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "phoenix-dnr.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "postdonbass.com": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "pravdnr.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "rcz-dnr.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "ritualdnr.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "supcourt-dpr.su": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "telmanovo-dnr.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "tppdnr.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "vodadonbassa.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "yasispolkom.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "zhdanovka.ugletele.com": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "мвдднр.рус": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "bg14.org": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "bmpvsu.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "dnr-news.com": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "donnu.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "dontimes.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "e-news.su": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "gazeta-dnr.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "gb-dnr.com": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "gorlovka-tv.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "lostarmour.info": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "mozaika.dn.ua": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "mrespublika.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "newsua.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "oddr.info": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "russian-center.ru": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "telekanal-oplot.tv": {
+        "company": "Пушилін Денис Володимирович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "agklnr.su": {
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "aprlnr.su": {
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "fsnslnr.su": {
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "gkslnr.su": {
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "gktrlnr.su": {
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "goskomzemlnr.su": {
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "gosnadzorlnr.ru": {
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "gosrezervlnr.su": {
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "gtrklnr.su": {
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "kaznalnr.ru": {
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "mil-lnr.info": {
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "mklnr.su": {
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "pervomaysklnr.su": {
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "asketlnr.su": {
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "doneast.su": {
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "lgt.su": {
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "lifelug.su": {
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "lnr.media": {
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "redray-lnr-news.su": {
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "skgazeta.su": {
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "slavvesti.su": {
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "szstakhanov.su": {
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "trudgor.su": {
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "trudslava.su": {
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "vperedlnr.su": {
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "xxiveklnr.su": {
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "антрацитовский-вестник.рф": {
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "нашпервомайск.рф": {
+        "company": "Пасічник Леонід Іванович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "vesti-k.ru": {
+        "company": "Федеральне державне унітарне підприємство «Всеросійська державна телевізійна і радіомовна компанія»",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "smotrim.ru": {
+        "company": "Федеральне державне унітарне підприємство «Всеросійська державна телевізійна і радіомовна компанія»",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "moscowmedia.net": {
+        "company": "Акціонерне товариство \"МОСКВА МЕДІА\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "m24.ru": {
+        "company": "Акціонерне товариство \"МОСКВА МЕДІА\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "mskagency.ru": {
+        "company": "Акціонерне товариство \"МОСКВА МЕДІА\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "iz.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Мультимедійний інформаційний центр \"Ізвєстія\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "nashe.ru": {
+        "company": "Закрите акціонерне товариство \"Мультимедіа холдинг\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "tvc.ru": {
+        "company": "Акціонерне товариство \"ТВ Центр\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "telesputnik.ru": {
+        "company": "Акціонерне товариство \"ТВ Центр\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "rbc.ru": {
+        "company": "Акціонерне товариство \"Росбізнесконсалтинг\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "tv.rbc.ru": {
+        "company": "Акціонерне товариство \"Росбізнесконсалтинг\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "crimea.mk.ru": {
+        "company": "Закрите акціонерне товариство \"Редакція газети \"Московський комсомолець\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "crimea24.tv": {
+        "company": "Автономна некомерційна організація \"Телерадіокомпанія \"Крим\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "crimea-radio.ru": {
+        "company": "Автономна некомерційна організація \"Телерадіокомпанія \"Крим\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "crimeapress.info": {
+        "company": "Товариство з обмеженою відповідальністю \"Інформаційна платформа Кримпрес\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "stv92.ru": {
+        "company": "Державна автономна установа міста Севастополя \"Севастопольская телерадиокомпания\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "wmscl.webmoney.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
+    },
+    "info.paymaster.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
+    },
+    "web-moneta.com": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
+    },
+    "webmoney-keeper.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
+    },
+    "wiki.web-money.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
+    },
+    "wiki.web.money.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
+    },
+    "wiki.wmtransfer.com": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
+    },
+    "exchanger.money.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
+    },
+    "wmchanger.com": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
+    },
+    "webmoney.com.ua": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
+    },
+    "webmoney.by": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
+    },
+    "owebmoney.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
+    },
+    "wmx.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
+    },
+    "webmoneydealer.narod.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
+    },
+    "www.smartwm.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "alias": "webmoney"
+    },
+    "www.nateks.ru": {
+        "company": "Акціонерне товариство \"Група компаній Натекс\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "nateks-dv.ru": {
+        "company": "Акціонерне товариство \"Група компаній Натекс\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "nateks-ural.ru": {
+        "company": "Акціонерне товариство \"Група компаній Натекс\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "nateks-don.ru": {
+        "company": "Акціонерне товариство \"Група компаній Натекс\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "megatransov.net": {
+        "company": "Акціонерне товариство \"Група компаній Натекс\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "nateks-volga.ru": {
+        "company": "Акціонерне товариство \"Група компаній Натекс\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "nateks.telecomsite.ru": {
+        "company": "Акціонерне товариство \"Група компаній Натекс\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "nateks.by": {
+        "company": "Акціонерне товариство \"Група компаній Натекс\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "www.inlinegroup.ru": {
+        "company": "Акціонерне товариство \"Інлайн груп\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "inlinegroup-c.ru": {
+        "company": "Акціонерне товариство \"Інлайн груп\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "www.inlinegroup.ua": {
+        "company": "Акціонерне товариство \"Інлайн груп\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "megasoft-ltd.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Мегасофт\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "www.qiwi.ua": {
+        "company": "Акціонерне товариство \"КІВІ\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "www.qiwi.com": {
+        "company": "Акціонерне товариство \"КІВІ\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "qiwi.gcs": {
+        "company": "Акціонерне товариство \"КІВІ\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "web.com": {
+        "company": "Акціонерне товариство \"КІВІ\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "p2p.qiwi.com": {
+        "company": "Акціонерне товариство \"КІВІ\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "jobs.qiwi.com": {
+        "company": "Акціонерне товариство \"КІВІ\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "corp.qiwi.com": {
+        "company": "Акціонерне товариство \"КІВІ\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "qiwitrue.dev": {
+        "company": "Акціонерне товариство \"КІВІ\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "universe.qiwi.com": {
+        "company": "Акціонерне товариство \"КІВІ\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "static.qiwi.com": {
+        "company": "Акціонерне товариство \"КІВІ\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "qiwiguide.ru": {
+        "company": "Акціонерне товариство \"КІВІ\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "qiwi.me": {
+        "company": "Акціонерне товариство \"КІВІ\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "bonus.qiwi.com": {
+        "company": "Акціонерне товариство \"КІВІ\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "travel.qiwi.com": {
+        "company": "Акціонерне товариство \"КІВІ\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "donate.qiwi.com": {
+        "company": "Акціонерне товариство \"КІВІ\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "teamplay.qiwi.com": {
+        "company": "Акціонерне товариство \"КІВІ\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "investor.qiwi.com": {
+        "company": "Акціонерне товариство \"КІВІ\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "qiwi.kz": {
+        "company": "Акціонерне товариство \"КІВІ\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "developer.qiwi.com": {
+        "company": "Акціонерне товариство \"КІВІ\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "tochka.com": {
+        "company": "Акціонерне товариство \"КІВІ\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "www.yoomoney.ru": {
+        "company": "Товариство з обмеженою відповідальністю Небанківська кредитна організація \"ЮМані\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "promo.yoomoney.ru": {
+        "company": "Товариство з обмеженою відповідальністю Небанківська кредитна організація \"ЮМані\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "yoomoney.website": {
+        "company": "Товариство з обмеженою відповідальністю Небанківська кредитна організація \"ЮМані\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "new.yoomoney.ru": {
+        "company": "Товариство з обмеженою відповідальністю Небанківська кредитна організація \"ЮМані\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "jobs.yoomoney.ru": {
+        "company": "Товариство з обмеженою відповідальністю Небанківська кредитна організація \"ЮМані\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "yookassa.ru": {
+        "company": "Товариство з обмеженою відповідальністю Небанківська кредитна організація \"ЮМані\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+    },
+    "yumoney.ru": {
+        "company": "Товариство з обмеженою відповідальністю Небанківська кредитна організація \"ЮМані\"",
+        "term": "21.05.2024",
+        "reason": "https://www.president.gov.ua/documents/2032021-38949"
     }
 }
