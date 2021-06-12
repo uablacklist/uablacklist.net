@@ -10,5 +10,6 @@ www/subnets.txt
 www/subnets_mikrotik_*
 www/domains.json
 www/domains.txt
+tools/in.txt
 
 !.gitkeep
