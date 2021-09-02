@@ -3254,5 +3254,71 @@
         "company": "Товариство з обмеженою відповідальністю \"Промедіа\"",
         "term": "24.06.2024",
         "reason": "https://www.president.gov.ua/documents/2662021-39265"
+    },
+    "www.wildberries.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Вайлдберріз\"",
+        "term": "23.07.2024",
+        "reason": "https://www.president.gov.ua/documents/3042021-39449"
+    },
+    "www.wildberries.eu": {
+        "company": "Товариство з обмеженою відповідальністю \"Wildberries\"",
+        "term": "23.07.2024",
+        "reason": "https://www.president.gov.ua/documents/3042021-39449"
+    },
+    "www.wildberries.am": {
+        "company": "Товариство з обмеженою відповідальністю \"Вайлдберріз\"",
+        "term": "23.07.2024",
+        "reason": "https://www.president.gov.ua/documents/3042021-39449"
+    },
+    "www.wildberries.by": {
+        "company": "Товариство з обмеженою відповідальністю \"Вайлдберріз\"",
+        "term": "23.07.2024",
+        "reason": "https://www.president.gov.ua/documents/3042021-39449"
+    },
+    "www.wildberries.kg": {
+        "company": "Товариство з обмеженою відповідальністю \"Вайлдберріз\"",
+        "term": "23.07.2024",
+        "reason": "https://www.president.gov.ua/documents/3042021-39449"
+    },
+    "www.wildberries.kz": {
+        "company": "Товариство з обмеженою відповідальністю \"Вайлдберріз\"",
+        "term": "23.07.2024",
+        "reason": "https://www.president.gov.ua/documents/3042021-39449"
+    },
+    "www.wildberries.ua": {
+        "company": "Товариство з обмеженою відповідальністю \"Вайлдберріз\"",
+        "term": "23.07.2024",
+        "reason": "https://www.president.gov.ua/documents/3042021-39449"
+    },
+    "www.donetsk-france.org": {
+        "company": "Неприбуткова організація \"Офіційний репрезентаційний центр Донецької народної республіки у Франції\"",
+        "term": "23.07.2024",
+        "reason": "https://www.president.gov.ua/documents/3042021-39449"
+    },
+    "www.agoravox.tv": {
+        "company": "Неприбуткова організація \"Офіційний репрезентаційний центр Донецької народної республіки у Франції\"",
+        "term": "23.07.2024",
+        "reason": "https://www.president.gov.ua/documents/3042021-39449"
+    },
+    "thomaldrin.worldpress.com": {
+        "company": "Неприбуткова організація \"Офіційний репрезентаційний центр Донецької народної республіки у Франції\"",
+        "term": "23.07.2024",
+        "reason": "https://www.president.gov.ua/documents/3042021-39449"
+    },
+    "www.donbass-insider.com": {
+        "company": "Неприбуткова організація \"Офіційний репрезентаційний центр Донецької народної республіки у Франції\"",
+        "term": "23.07.2024",
+        "reason": "https://www.president.gov.ua/documents/3042021-39449",
+        "urls": [
+            "http://www.donbass-insider.com/fr/accueil"
+        ]
+    },
+    "www.patreon.com": {
+        "company": "Неприбуткова організація \"Офіційний репрезентаційний центр Донецької народної республіки у Франції\"",
+        "term": "23.07.2024",
+        "reason": "https://www.president.gov.ua/documents/3042021-39449",
+        "urls": [
+            "http://www.patreon.com/donbassinder"
+        ]
     }
 }
