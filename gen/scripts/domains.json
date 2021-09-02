@@ -1032,8 +1032,9 @@
         "alias": "webmoney"
     },
     "tass.ru": {
-        "term": "19.03.2022",
-        "company": "Толстой Петро Олегович"
+        "company": "Федеральне державне унітарне підприємство \"Інформаційне телеграфне агентство Росії (ІТАР-ТАСС)\"",
+        "term": "23.03.2024",
+        "reason": "https://www.president.gov.ua/documents/1092021-37481"
     },
     "rusvesna.su": {
         "term": "19.03.2022",
@@ -2169,9 +2170,9 @@
         "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "jpgazeta.ru": {
-        "term": "14.05.2023",
-        "company": "ТОВ \"Федеральне агентство новин\"",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "company": "Товариство з обмеженою відповідальністю \"Федеральне агентство новин\"",
+        "term": "23.03.2024",
+        "reason": "https://www.president.gov.ua/documents/1092021-37481"
     },
     "finbet.bet": {
         "term": null,
@@ -3445,5 +3446,85 @@
         "company": "Публічне акціонерне товариство \"Ростелеком\"",
         "term": "21.08.2024",
         "reason": "https://www.president.gov.ua/documents/3792021-39757"
+    },
+    "svpressa.ru": {
+        "company": "Автономна некомерційна організація  \"Інтернет-Преса\"",
+        "term": "23.03.2024",
+        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+    },
+    "gazeta.ru": {
+        "company": "Акціонерне товариство \"Газета.Ру\"",
+        "term": "23.03.2024",
+        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+    },
+    "utro.ru": {
+        "company": "Товариство з обмеженою відповідальністю  \"Утро.Ру\"",
+        "term": "23.03.2024",
+        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+    },
+    "ruxpert.ru": {
+        "company": "Автономна некомерційна організація \"Вільна електронна енциклопедія \"Довідник Патріота\"",
+        "term": "23.03.2024",
+        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+    },
+    "ukraina.ru": {
+        "company": "Федеральне державне унітарне підприємство \"Міжнародне інформаційне агентство \"Росія сьогодні\"",
+        "term": "23.03.2024",
+        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+    },
+    "lenta.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Лента.Ру\"",
+        "term": "23.03.2024",
+        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+    },
+    "smi2.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"ЗМІ2\"",
+        "term": "23.03.2024",
+        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+    },
+    "rt.com": {
+        "company": "Автономна некомерційна організація \"ТВ-Новини\"",
+        "term": "23.03.2024",
+        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+    },
+    "asd.news": {
+        "company": "Товариство з обмеженою відповідальністю \"Федеральне агентство новин\"",
+        "term": "23.03.2024",
+        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+    },
+    "pikinform.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Федеральне агентство новин\"",
+        "term": "23.03.2024",
+        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+    },
+    "dnronlane.su": {
+        "company": "Товариство з обмеженою відповідальністю \"Федеральне агентство новин\"",
+        "term": "23.03.2024",
+        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+    },
+    "i-don.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Федеральне агентство новин\"",
+        "term": "23.03.2024",
+        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+    },
+    "rumedia24.com": {
+        "company": "Товариство з обмеженою відповідальністю \"Федеральне агентство новин\"",
+        "term": "23.03.2024",
+        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+    },
+    "rmnews.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Федеральне агентство новин\"",
+        "term": "23.03.2024",
+        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+    },
+    "howto-news.info": {
+        "company": "Товариство з обмеженою відповідальністю \"Федеральне агентство новин\"",
+        "term": "23.03.2024",
+        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+    },
+    "novosti.icu": {
+        "company": "Товариство з обмеженою відповідальністю \"Федеральне агентство новин\"",
+        "term": "23.03.2024",
+        "reason": "https://www.president.gov.ua/documents/1092021-37481"
     }
 }
