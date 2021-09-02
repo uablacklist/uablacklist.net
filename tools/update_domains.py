@@ -66,7 +66,12 @@ def parse_incoming_data(in_file):
 def merge_domains(current_domains, new_domains):
     merged_domains = {}
     merged_domains.update(current_domains)
-    merged_domains.update(new_domains)
+    for domain, data in new_domains.items():
+        if merged_domains.get(domain) and merged_domains[domain]['term'] is None and data['term'] is not None:
+            print('[WARNING] domain had infinite term, but changed to finite, ignoring the change completely')
+            print(domain, data)
+        else:
+            merged_domains[domain] = data
 
     return merged_domains
 
