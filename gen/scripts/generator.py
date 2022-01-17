@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import glob, os
 from urllib.parse import urlparse
 from jinja2 import Template
 import pytz
@@ -76,6 +77,9 @@ def gen_domains():
 
 # Gen mikrotik firewall rules
 def gen_mikrotik(subnets):
+    # There can be a case when amount of subnets decreased, that's why we remove all old files
+    for f in glob.glob('%s/subnets_mikrotik_*.txt' % (out_dir)):
+        os.remove(f)
     i = 0
     for alias in subnets:
         if not len(subnets[alias]):
