@@ -3323,19 +3323,19 @@
         ]
     },
     "sharij.net": {
-        "company": "Шарій Анатолій Анатолійович",
-        "term": "20.08.2024",
-        "reason": "https://www.president.gov.ua/documents/3752021-39741"
+        "company": "Бондаренко Алла Іванівна",
+        "term": "16.02.2025",
+        "reason": "https://www.president.gov.ua/documents/572022-41373"
     },
     "sharij.com.ua": {
-        "company": "Шарій Анатолій Анатолійович",
-        "term": "20.08.2024",
-        "reason": "https://www.president.gov.ua/documents/3752021-39741"
+        "company": "Бондаренко Алла Іванівна",
+        "term": "16.02.2025",
+        "reason": "https://www.president.gov.ua/documents/572022-41373"
     },
     "strana.ua": {
-        "company": "Товариство з обмеженою відповідальністю \"Ласмак\"",
-        "term": "20.08.2024",
-        "reason": "https://www.president.gov.ua/documents/3762021-39745"
+        "company": "Гужва Ігор Анатолійович",
+        "term": "16.02.2025",
+        "reason": "https://www.president.gov.ua/documents/572022-41373"
     },
     "eramedia.com.ua": {
         "company": "Товариство з обмеженою відповідальністю \"ЕРА-МЕДІА\"",
@@ -3531,5 +3531,205 @@
         "company": "Товариство з обмеженою відповідальністю \"Група АйБі Сервіс\"",
         "term": "30.10.2024",
         "reason": "https://www.president.gov.ua/documents/5562021-40497"
+    },
+    "vitrina.tv": {
+        "company": "Товариство з обмеженою відповідальністю \"Вітрина ТВ\"",
+        "term": "11.02.2027",
+        "reason": "https://www.president.gov.ua/documents/512022-41349"
+    },
+    "strana.news": {
+        "company": "Гужва Ігор Анатолійович",
+        "term": "16.02.2025",
+        "reason": "https://www.president.gov.ua/documents/572022-41373"
+    },
+    "strana.one": {
+        "company": "Гужва Ігор Анатолійович",
+        "term": "16.02.2025",
+        "reason": "https://www.president.gov.ua/documents/572022-41373"
+    },
+    "strana.digital": {
+        "company": "Гужва Ігор Анатолійович",
+        "term": "16.02.2025",
+        "reason": "https://www.president.gov.ua/documents/572022-41373"
+    },
+    "strana.today": {
+        "company": "Гужва Ігор Анатолійович",
+        "term": "16.02.2025",
+        "reason": "https://www.president.gov.ua/documents/572022-41373"
+    },
+    "sharij.online": {
+        "company": "Бондаренко Алла Іванівна",
+        "term": "16.02.2025",
+        "reason": "https://www.president.gov.ua/documents/572022-41373"
+    },
+    "edem.tv": {
+        "company": "EdemTV",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "ilook.tv": {
+        "company": "EdemTV",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "edemtv.me": {
+        "company": "EdemTV",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "iedem.tv": {
+        "company": "EdemTV",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "i-edem.tv": {
+        "company": "EdemTV",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "jinopro.net": {
+        "company": "EdemTV",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "iseetv.net": {
+        "company": "EdemTV",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "vipdrive.net": {
+        "company": "EdemTV",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "tvlider.net": {
+        "company": "EdemTV",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "melord.net": {
+        "company": "EdemTV",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "zedom.net": {
+        "company": "EdemTV",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "cbilling.in": {
+        "company": "Cbiling",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "cbilling.biz": {
+        "company": "Cbiling",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "iptv-ru.com": {
+        "company": "Cbiling",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "cardsharingserver.tv": {
+        "company": "Cbiling",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "gomel-sat.bz": {
+        "company": "Cbiling",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "billingtv.net": {
+        "company": "Cbiling",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "ottplay.com": {
+        "company": "Cbiling",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "cbillingtv.net": {
+        "company": "Cbiling",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "cbilling.pw": {
+        "company": "Cbiling",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "ottglanz.tv": {
+        "company": "Glanz (OTTG)",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "ottg.tv": {
+        "company": "Glanz (OTTG)",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "tvoetv.in.ua": {
+        "company": "TvoeTV",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "1cent.in": {
+        "company": "1cent",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "1cent.tv": {
+        "company": "1cent",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "antifriz.tv": {
+        "company": "Antifriz",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "lightiptv.me": {
+        "company": "LightIPTV",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "ip-tv.club": {
+        "company": "IPTV CLUB",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "info.fox-tv.fun": {
+        "company": "FOX-TV",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "fox-tv.fun": {
+        "company": "FOX-TV",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "pa.fox-tv.fun": {
+        "company": "FOX-TV",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "shop.fox-tv.fun": {
+        "company": "FOX-TV",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "epg.fox-tv.fun": {
+        "company": "FOX-TV",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "topiptv.info": {
+        "company": "TOPIPTV.INFO",
+        "term": null,
+        "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
     }
 }
