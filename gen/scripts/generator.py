@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import glob, os
-from urllib.parse import urlparse
+import urllib.request
+from urllib.parse import urlparse, urlencode
 from jinja2 import Template
 import pytz
 from datetime import datetime
@@ -9,6 +10,7 @@ import subprocess
 import ipaddress
 import re
 import argparse
+import logging
 from transliterate import translit, get_available_language_codes
 
 parser = argparse.ArgumentParser(description='Generates files for uablacklist.net.')
@@ -33,9 +35,21 @@ def gen_subnets():
             subnets = set()
             print(alias)
             for asn in info['asns']:
-                result = subprocess.run(['whois', '-h', 'whois.radb.net', '--', "-i origin %s" % asn],
-                                        stdout=subprocess.PIPE)
-                subnets.update(re.findall('(?:[0-9.]+){4}/[0-9]+', result.stdout.decode('utf-8')))
+                print(asn)
+                try:
+                    request = urllib.request.Request(
+                        'https://www.ididb.ru/ip-json/',
+                        data=urlencode({
+                            'dmn': asn,
+                            'tp': 'autnum_rating',
+                            'src': '8000'
+                        }).encode()
+                    )
+                    result = json.load(urllib.request.urlopen(request))
+                    subnets.update([r['rt'] for r in result['route']])
+                except Exception as e:
+                    logging.exception(e)
+                    pass
             for subnet_check in list(subnets):
                 network_check = ipaddress.ip_network(subnet_check)
                 for subnet in subnets:
