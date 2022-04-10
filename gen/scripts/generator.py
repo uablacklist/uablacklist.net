@@ -51,7 +51,7 @@ def gen_subnets():
                 except Exception as e:
                     logging.exception(e)
                     pass
-            merged_subnets = list(map(str, netaddr.cidr_merge(subnets)))
+            merged_subnets = set(map(str, netaddr.cidr_merge(subnets)))
             all_subnets[alias] = merged_subnets
             print('Result:', ', '.join(merged_subnets), '\n\n')
     return all_subnets
