@@ -8,6 +8,7 @@ from datetime import datetime
 import json
 import subprocess
 import ipaddress
+import netaddr
 import re
 import argparse
 import logging
@@ -46,22 +47,11 @@ def gen_subnets():
                         }).encode()
                     )
                     result = json.load(urllib.request.urlopen(request))
-                    subnets.update([r['rt'] for r in result['route']])
+                    subnets.update([netaddr.IPNetwork(r['rt']) for r in result['route']])
                 except Exception as e:
                     logging.exception(e)
                     pass
-            for subnet_check in list(subnets):
-                network_check = ipaddress.ip_network(subnet_check)
-                for subnet in subnets:
-                    if subnet_check == subnet:
-                        continue
-                    network = ipaddress.ip_network(subnet)
-                    if int(network_check.network_address) >= int(network.network_address) and int(
-                            network_check.broadcast_address) <= int(network.broadcast_address):
-                        print('remove %s included in %s' % (subnet_check, subnet))
-                        subnets.remove(subnet_check)
-                        break
-            all_subnets[alias] = subnets
+            all_subnets[alias] = list(map(str, netaddr.cidr_merge(subnets)))
             print('Result: ', subnets, '\n\n')
     return all_subnets
 
@@ -91,19 +81,27 @@ def gen_domains():
 
 # Gen mikrotik firewall rules
 def gen_mikrotik(subnets):
+    def gen_chunk(alias, subnets, max_size=4000):
+        out = ['# %s' % alias]
+        for subnet in subnets:
+            if len('\n'.join(out + [subnet]) + '\n') > max_size:
+                yield '\n'.join(out) + '\n'
+                out = ['# %s' % alias]
+            out.append(subnet)
+        yield '\n'.join(out) + '\n'
+
     # There can be a case when amount of subnets decreased, that's why we remove all old files
     for f in glob.glob('%s/subnets_mikrotik_*.txt' % (out_dir)):
         os.remove(f)
+
     i = 0
     for alias in subnets:
         if not len(subnets[alias]):
             continue
-        out = ['# %s' % alias]
-        for subnet in subnets[alias]:
-            out.append(subnet)
-        with open('%s/subnets_mikrotik_%s.txt' % (out_dir, i), 'w') as outfile:
-            outfile.write('\n'.join(out)+'\n')
-        i=i+1
+        for chunk in gen_chunk(alias, subnets[alias]):
+            with open('%s/subnets_mikrotik_%s.txt' % (out_dir, i), 'w') as outfile:
+                outfile.write(chunk)
+            i=i+1
 
 def filter_invalid_ips(ips):
     return [ip for ip in ips if ip != '127.0.0.1']
@@ -143,7 +141,7 @@ def run():
     [plain_subnets.update(networks) for networks in subnets.values()]
     plain_subnets = list(plain_subnets)
     plain_subnets.sort(key=lambda s: ipaddress.ip_network(s))
-    
+
     # Generate index.html
     with open(out_dir + '/index.tpl.html') as f:
         template = Template(f.read())
@@ -164,7 +162,7 @@ def run():
                 )
                 with open(out_dir + l18n['settings']['html_out_folder'][lang] + '/index.html', 'w') as o:
                     o.write(file)
-    
+
     # Generate APIs
     with open(out_dir + '/all.json', 'w') as outfile:
         json.dump(individuals, outfile)
@@ -181,7 +179,7 @@ def run():
     with open(out_dir + '/subnets.txt', 'w') as outfile:
         outfile.write('\n'.join(plain_subnets))
     gen_mikrotik(subnets)
-    
+
 args = parser.parse_args()
 out_dir = args.out
 run()
