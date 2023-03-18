@@ -1141,9 +1141,9 @@
         "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "dnr24.su": {
-        "company": "Пушилін Денис Володимирович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"ФАН\"",
+        "term": "26.02.2033",
+        "reason": "https://www.president.gov.ua/documents/1162023-45965"
     },
     "dnr24.com": {
         "company": "Пушилін Денис Володимирович",
@@ -2127,9 +2127,9 @@
         "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "jpgazeta.ru": {
-        "company": "Товариство з обмеженою відповідальністю \"Федеральне агентство новин\"",
-        "term": "23.03.2024",
-        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+        "company": "Товариство з обмеженою відповідальністю \"ФАН\"",
+        "term": "26.02.2033",
+        "reason": "https://www.president.gov.ua/documents/1162023-45965"
     },
     "finbet.bet": {
         "term": null,
@@ -3452,34 +3452,34 @@
         "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "asd.news": {
-        "company": "Товариство з обмеженою відповідальністю \"Федеральне агентство новин\"",
-        "term": "23.03.2024",
-        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+        "company": "Товариство з обмеженою відповідальністю \"ФАН\"",
+        "term": "26.02.2033",
+        "reason": "https://www.president.gov.ua/documents/1162023-45965"
     },
     "pikinform.ru": {
-        "company": "Товариство з обмеженою відповідальністю \"Федеральне агентство новин\"",
-        "term": "23.03.2024",
-        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+        "company": "Товариство з обмеженою відповідальністю \"ФАН\"",
+        "term": "26.02.2033",
+        "reason": "https://www.president.gov.ua/documents/1162023-45965"
     },
     "dnronlane.su": {
-        "company": "Товариство з обмеженою відповідальністю \"Федеральне агентство новин\"",
-        "term": "23.03.2024",
-        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+        "company": "Товариство з обмеженою відповідальністю \"ФАН\"",
+        "term": "26.02.2033",
+        "reason": "https://www.president.gov.ua/documents/1162023-45965"
     },
     "i-don.ru": {
-        "company": "Товариство з обмеженою відповідальністю \"Федеральне агентство новин\"",
-        "term": "23.03.2024",
-        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+        "company": "Товариство з обмеженою відповідальністю \"ФАН\"",
+        "term": "26.02.2033",
+        "reason": "https://www.president.gov.ua/documents/1162023-45965"
     },
     "rumedia24.com": {
-        "company": "Товариство з обмеженою відповідальністю \"Федеральне агентство новин\"",
-        "term": "23.03.2024",
-        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+        "company": "Товариство з обмеженою відповідальністю \"ФАН\"",
+        "term": "26.02.2033",
+        "reason": "https://www.president.gov.ua/documents/1162023-45965"
     },
     "rmnews.ru": {
-        "company": "Товариство з обмеженою відповідальністю \"Федеральне агентство новин\"",
-        "term": "23.03.2024",
-        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+        "company": "Товариство з обмеженою відповідальністю \"ФАН\"",
+        "term": "26.02.2033",
+        "reason": "https://www.president.gov.ua/documents/1162023-45965"
     },
     "howto-news.info": {
         "company": "Товариство з обмеженою відповідальністю \"Федеральне агентство новин\"",
@@ -3487,9 +3487,9 @@
         "reason": "https://www.president.gov.ua/documents/1092021-37481"
     },
     "novosti.icu": {
-        "company": "Товариство з обмеженою відповідальністю \"Федеральне агентство новин\"",
-        "term": "23.03.2024",
-        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+        "company": "Товариство з обмеженою відповідальністю \"ФАН\"",
+        "term": "26.02.2033",
+        "reason": "https://www.president.gov.ua/documents/1162023-45965"
     },
     "www.group-ib.ru": {
         "company": "Товариство з обмеженою відповідальністю \"Група АйБі Сервіс\"",
@@ -3740,5 +3740,10 @@
         "company": "Дугін Олександр Гелійович",
         "term": "07.01.2033",
         "reason": "https://www.president.gov.ua/documents/42023-45517"
+    },
+    "howtonews.info": {
+        "company": "Товариство з обмеженою відповідальністю \"ФАН\"",
+        "term": "26.02.2033",
+        "reason": "https://www.president.gov.ua/documents/1162023-45965"
     }
 }
