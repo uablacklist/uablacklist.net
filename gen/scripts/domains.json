@@ -4226,5 +4226,15 @@
         "term": "12.05.2033",
         "reason": "https://www.president.gov.ua/documents/2802023-46761",
         "alias": "vk"
+    },
+    "2gis.ua": {
+        "company": "Товариство з обмеженою відповідальністю \"ДубльГІС\"",
+        "term": "27.05.2033",
+        "reason": "https://www.president.gov.ua/documents/3072023-46917"
+    },
+    "2gis.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"ДубльГІС\"",
+        "term": "27.05.2033",
+        "reason": "https://www.president.gov.ua/documents/3072023-46917"
     }
 }
