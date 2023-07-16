@@ -2082,19 +2082,19 @@
         "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=1876"
     },
     "newinform.com": {
-        "term": "14.05.2023",
-        "company": "ТОВ \"Новінфо\"",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "company": "Товариство з обмеженою відповідальністю \"Новінфо\"",
+        "term": "12.05.2033",
+        "reason": "https://www.president.gov.ua/documents/2802023-46761"
     },
     "inforeactor.ru": {
-        "term": "14.05.2023",
-        "company": "ТОВ \"Новінфо\"",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "company": "Товариство з обмеженою відповідальністю \"Новінфо\"",
+        "term": "12.05.2033",
+        "reason": "https://www.president.gov.ua/documents/2802023-46761"
     },
     "politros.com": {
-        "term": "14.05.2023",
-        "company": "ТОВ \"Новінфо\"",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "company": "Товариство з обмеженою відповідальністю \"Новінфо\"",
+        "term": "12.05.2033",
+        "reason": "https://www.president.gov.ua/documents/2802023-46761"
     },
     "riafan.ru": {
         "term": "14.05.2023",
@@ -3373,8 +3373,8 @@
     },
     "politexpert.net": {
         "company": "Товариство з обмеженою відповідальністю \"Новінфо\"",
-        "term": "21.08.2024",
-        "reason": "https://www.president.gov.ua/documents/3792021-39757"
+        "term": "12.05.2033",
+        "reason": "https://www.president.gov.ua/documents/2802023-46761"
     },
     "mk.ru": {
         "company": "Закрите акціонерне товариство \"Редакція газети \"Московський комсомолець\"",
@@ -4203,5 +4203,28 @@
         "company": "Товариство з обмеженою відповідальністю \"Рамблер Груп\"",
         "term": "15.04.2033",
         "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "slovodel.com": {
+        "company": "Товариство з обмеженою відповідальністю \"Новінфо\"",
+        "term": "12.05.2033",
+        "reason": "https://www.president.gov.ua/documents/2802023-46761"
+    },
+    "www.mail.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"В Контакте\"",
+        "term": "12.05.2033",
+        "reason": "https://www.president.gov.ua/documents/2802023-46761",
+        "alias": "vk"
+    },
+    "www.vk.com": {
+        "company": "Товариство з обмеженою відповідальністю \"В Контакте\"",
+        "term": "12.05.2033",
+        "reason": "https://www.president.gov.ua/documents/2802023-46761",
+        "alias": "vk"
+    },
+    "www.ok.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"В Контакте\"",
+        "term": "12.05.2033",
+        "reason": "https://www.president.gov.ua/documents/2802023-46761",
+        "alias": "vk"
     }
 }
