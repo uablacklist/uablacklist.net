@@ -68,10 +68,9 @@ def merge_domains(current_domains, new_domains):
     merged_domains.update(current_domains)
     for domain, data in new_domains.items():
         if merged_domains.get(domain) and merged_domains[domain]['term'] is None and data['term'] is not None:
-            print('[WARNING] domain had infinite term, but changed to finite, ignoring the change completely')
+            print('[WARNING] domain had infinite term, but changed to finite')
             print(domain, data)
-        else:
-            merged_domains[domain] = data
+        merged_domains[domain] = data
 
     return merged_domains
 
