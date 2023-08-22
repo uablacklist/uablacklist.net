@@ -5,9 +5,16 @@
 ## Основания
 | Дата       | Основание                                                                                 |
 | ---------- | ----------------------------------------------------------------------------------------- |
-| 26.02.2022 | [НКРЗІ](https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249) |
-| 16.02.2022 | [УКАЗ ПРЕЗИДЕНТА УКРАЇНИ №57/2022](https://www.president.gov.ua/documents/572022-41373) |
-| 11.02.2022 | [УКАЗ ПРЕЗИДЕНТА УКРАЇНИ №51/2022](https://www.president.gov.ua/documents/512022-41349) |
+| 27.05.2023 | [УКАЗ ПРЕЗИДЕНТА УКРАЇНИ №307/2023](https://www.president.gov.ua/documents/3072023-46917) |
+| 12.05.2023 | [УКАЗ ПРЕЗИДЕНТА УКРАЇНИ №280/2023](https://www.president.gov.ua/documents/2802023-46761) |
+| 15.04.2023 | [УКАЗ ПРЕЗИДЕНТА УКРАЇНИ №227/2023](https://www.president.gov.ua/documents/2272023-46525) |
+| 10.03.2023 | [УКАЗ ПРЕЗИДЕНТА УКРАЇНИ №145/2023](https://www.president.gov.ua/documents/1452023-46085) |
+| 26.02.2023 | [УКАЗ ПРЕЗИДЕНТА УКРАЇНИ №116/2023](https://www.president.gov.ua/documents/1162023-45965) |
+| 07.01.2023 | [УКАЗ ПРЕЗИДЕНТА УКРАЇНИ №4/2023](https://www.president.gov.ua/documents/42023-45517)     |
+| 19.10.2022 | [УКАЗ ПРЕЗИДЕНТА УКРАЇНИ №726/2022](https://www.president.gov.ua/documents/7262022-44481) |
+| 26.02.2022 | [НКРЗІ](https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249)                        |
+| 16.02.2022 | [УКАЗ ПРЕЗИДЕНТА УКРАЇНИ №57/2022](https://www.president.gov.ua/documents/572022-41373)   |
+| 11.02.2022 | [УКАЗ ПРЕЗИДЕНТА УКРАЇНИ №51/2022](https://www.president.gov.ua/documents/512022-41349)   |
 | 30.10.2021 | [УКАЗ ПРЕЗИДЕНТА УКРАЇНИ №556/2021](https://www.president.gov.ua/documents/5562021-40497) |
 | 21.08.2021 | [УКАЗ ПРЕЗИДЕНТА УКРАЇНИ №379/2021](https://www.president.gov.ua/documents/3792021-39757) |
 | 21.08.2021 | [УКАЗ ПРЕЗИДЕНТА УКРАЇНИ №378/2021](https://www.president.gov.ua/documents/3782021-39753) |

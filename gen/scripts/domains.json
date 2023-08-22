@@ -1,16 +1,16 @@
 {
     "vk.com": {
-        "term": "14.05.2023",
+        "term": "15.04.2033",
         "alias": "vk",
         "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "ok.ru": {
-        "term": "14.05.2023",
+        "term": "15.04.2033",
         "alias": "mail.ru",
         "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "mail.ru": {
-        "term": "14.05.2023",
+        "term": "15.04.2033",
         "alias": "mail.ru",
         "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
@@ -31,589 +31,527 @@
         "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "avia.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://avia.yandex.ru/?utm_source=yamain&utm_medium=popup&utm_campaign=allru"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "auto.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://auto.ru/?from=all-services"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "audience.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://audience.yandex.ru/"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "afisha.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://afisha.yandex.ru/?city=moscow"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "money.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://money.yandex.ru/new",
-            "https://money.yandex.ru/card2card/?_openstat=c2cw;all;",
-            "https://money.yandex.ru/gibdd-debts/?_openstat=debtsp;y_all;",
-            "https://money.yandex.ru/newcard?_openstat=yacard;all;"
-        ],
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "urls": [
+            "http://money.yandex.ru/newcard",
+            "http://money.yandex.ru/gibdd",
+            "http://money.yandex.ru/card2card",
+            "http://money.yandex.ru/new"
+        ]
     },
     "webmaster.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://webmaster.yandex.ru/"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://yandex.ru/images/",
-            "https://yandex.ru/maps/213/moscow/?l=trf%2Ctrfe",
-            "https://yandex.ru/internet/",
-            "https://yandex.ru/adv?from=all",
-            "https://yandex.ru/time",
-            "https://yandex.ru/maps",
-            "https://yandex.ru/blogs?redirected=1&lr=213",
-            "https://yandex.ru/suvenirka",
-            "https://yandex.ru/video/",
-            "https://yandex.ru/people?lr=213",
-            "https://yandex.ru/pogoda/moscow",
-            "https://yandex.ru/yaca/",
-            "https://yandex.ru/"
-        ],
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "urls": [
+            "http://yandex.ru/people",
+            "http://yandex.ru/maps",
+            "http://yandex.ru/internet",
+            "http://yandex.ru/pogoda/moscow",
+            "http://yandex.ru/time",
+            "http://yandex.ru/blogs",
+            "http://yandex.ru/maps/213/moscow",
+            "http://yandex.ru/suvenirka",
+            "http://yandex.ru/adv",
+            "http://yandex.ru/yaca",
+            "http://yandex.ru/images",
+            "http://yandex.ru/video"
+        ]
     },
     "direct.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://direct.yandex.ru/?from=all"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "disk.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://disk.yandex.ru/?source=services-main"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "delivery.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://delivery.yandex.ru/promo/"
-        ],
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "urls": [
+            "http://delivery.yandex.ru/promo"
+        ]
     },
     "calendar.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://calendar.yandex.ru/"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "kassa.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://kassa.yandex.ru/?_openstat=promo;y_all;"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "www.kinopoisk.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://www.kinopoisk.ru/?utm_source=yamain&utm_medium=link&utm_campaign=main"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "market.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://market.yandex.ru/?clid=505"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "metrika.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://metrika.yandex.ru/promo",
-            "https://metrika.yandex.ru/promo?"
-        ],
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "urls": [
+            "http://metrika.yandex.ru/promo"
+        ]
     },
     "metro.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://metro.yandex.ru/moscow"
-        ],
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "urls": [
+            "http://metro.yandex.ru/moscow"
+        ]
     },
     "music.yandex.ua": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://music.yandex.ua/"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "n.maps.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://n.maps.yandex.ru/#!/?z=12&ll=30.523541%2C50.450418&l=nk%23sat",
-            "https://n.maps.yandex.ru/"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "realty.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://realty.yandex.ru/?from=all"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "news.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://news.yandex.ru/"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "translate.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://translate.yandex.ru/"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "mail.yandex.ua": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://mail.yandex.ua/"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "pdd.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://pdd.yandex.ru/domains_add/"
-        ],
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "urls": [
+            "http://pdd.yandex.ru/domains_add"
+        ]
     },
     "travel.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://travel.yandex.ru/?from=morda&utm_source=yandex_morda_tab&utm_medium=cpm&utm_campaign=yandex&utm_content=tab_exp"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "rabota.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://rabota.yandex.ru/?from=morda_all"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "radio.yandex.ua": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://radio.yandex.ua/"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "rasp.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://rasp.yandex.ru/"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "partner.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://partner.yandex.ru/"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "sprav.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://sprav.yandex.ru/"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "stat.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://stat.yandex.ru/Russia/Portal"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "taxi.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://taxi.yandex.ru/#index"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "tv.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://tv.yandex.ru/213"
-        ],
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "urls": [
+            "http://tv.yandex.ru/213"
+        ]
     },
     "telephony.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://telephony.yandex.ru/"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "tech.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://tech.yandex.ru/"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "fotki.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://fotki.yandex.ru/next/"
-        ],
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "urls": [
+            "http://fotki.yandex.ru/next"
+        ]
     },
     "dns.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://dns.yandex.ru/"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "browser.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://browser.yandex.ru/desktop/main/?from=prov_all"
-        ],
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "urls": [
+            "http://browser.yandex.ru/desktop/main"
+        ]
     },
     "speechkit.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://speechkit.yandex.ru/dev"
-        ],
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "urls": [
+            "http://speechkit.yandex.ru/dev"
+        ]
     },
     "xml.yandex.ru": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://xml.yandex.ru/"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "yandexdatafactory.com": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://yandexdatafactory.com/ru/"
-        ],
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "urls": [
+            "http://yandexdatafactory.com/ru"
+        ]
     },
     "avia.yandex.ua": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://avia.yandex.ua/?utm_source=yamain&utm_medium=popup&utm_campaign=allua"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "audience.yandex.ua": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://audience.yandex.ua/"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "afisha.yandex.ua": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://afisha.yandex.ua/events?city=kyiv&tag=cinema"
-        ],
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "urls": [
+            "http://afisha.yandex.ua/events"
+        ]
     },
     "yandex.ua": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://yandex.ua/yaca/",
-            "https://yandex.ua/adv?from=all",
-            "https://yandex.ua/maps/143/kyiv/?l=trf%2Ctrfe",
-            "https://yandex.ua/people?lr=143",
-            "https://yandex.ua/internet",
-            "https://yandex.ua/images/",
-            "https://yandex.ua/video/",
-            "https://yandex.ua/",
-            "https://yandex.ua/maps",
-            "https://yandex.ua/pogoda/kyiv",
-            "https://yandex.ua/blogs?rdrnd=234434&lr=143&redircnt=1475842393.1"
-        ],
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "urls": [
+            "http://yandex.ua/pogoda/kyiv",
+            "http://yandex.ua/internet",
+            "http://yandex.ua/people",
+            "http://yandex.ua/yaca",
+            "http://yandex.ua/images",
+            "http://yandex.ua/maps/143/kyiv",
+            "http://yandex.ua/maps",
+            "http://yandex.ua/video",
+            "http://yandex.ua/blogs",
+            "http://yandex.ua/adv"
+        ]
     },
     "disk.yandex.ua": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://disk.yandex.ua/?source=services-main"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "direct.yandex.ua": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://direct.yandex.ua/?from=all&ncrnd=5179"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "sprav.yandex.ua": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://sprav.yandex.ua/"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "zno.yandex.ua": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://zno.yandex.ua/ru/"
-        ],
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "urls": [
+            "http://zno.yandex.ua/ru"
+        ]
     },
     "market.yandex.ua": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://market.yandex.ua/?clid=505"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "metrika.yandex.ua": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://metrika.yandex.ua/promo"
-        ],
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "urls": [
+            "http://metrika.yandex.ua/promo"
+        ]
     },
     "metro.yandex.ua": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://metro.yandex.ua/kiev"
-        ],
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "urls": [
+            "http://metro.yandex.ua/kiev"
+        ]
     },
     "news.yandex.ua": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://news.yandex.ua/"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "translate.yandex.ua": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://translate.yandex.ua/"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "site.yandex.ua": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://site.yandex.ua/"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "rabota.yandex.ua": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://rabota.yandex.ua/?from=morda_all"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "rasp.yandex.ua": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://rasp.yandex.ua/?lang=ru"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "partner.yandex.ua": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://partner.yandex.ua/"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "passport.yandex.ua": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://passport.yandex.ua/auth/update/?retpath="
-        ],
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "urls": [
+            "http://passport.yandex.ua/auth/update"
+        ]
     },
     "stat.yandex.ua": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://stat.yandex.ua/Ukraine/Portal"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "tv.yandex.ua": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://tv.yandex.ua/187?grid=main&period=now"
-        ],
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "urls": [
+            "http://tv.yandex.ua/187"
+        ]
     },
     "dns.yandex.ua": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://dns.yandex.ua/"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "browser.yandex.ua": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://browser.yandex.ua/desktop/?from=prov_all"
-        ],
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
         "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "urls": [
+            "http://browser.yandex.ua/desktop"
+        ]
     },
     "xml.yandex.ua": {
-        "term": "21.05.2024",
-        "urls": [
-            "https://xml.yandex.ua/"
-        ],
-        "alias": "yandex",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
     },
     "yandex-taxi.com.ua": {
-        "term": "19.03.2022",
-        "urls": [
-            "https://yandex-taxi.com.ua/"
-        ],
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
         "alias": "yandex"
     },
     "taxi-yandex.com.ua": {
-        "term": "19.03.2022",
-        "urls": [
-            "https://taxi-yandex.com.ua/"
-        ],
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
         "alias": "yandex"
     },
     "yandextaxi.com.ua": {
-        "term": "19.03.2022",
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
         "alias": "yandex"
     },
     "taxi-yandex.kiev.ua": {
-        "term": "19.03.2022",
-        "urls": [
-            "https://taxi-yandex.kiev.ua/"
-        ],
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
         "alias": "yandex"
     },
     "rabotavtaxi.pro": {
-        "term": "19.03.2022",
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
         "alias": "yandex"
     },
     "yandextaksiua.com.ua": {
-        "term": "19.03.2022",
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
         "alias": "yandex"
     },
     "yandex.biz.ua": {
-        "term": "19.03.2022",
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
         "alias": "yandex"
     },
     "yandextaxi.kiev.ua": {
-        "term": "19.03.2022",
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
         "alias": "yandex"
     },
     "www.yataxi.net": {
-        "term": "19.03.2022",
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
         "alias": "yandex"
     },
     "yataxi.com.ua": {
-        "term": "19.03.2022",
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
         "alias": "yandex"
     },
     "vgtrk.com": {
-        "company": "Федеральне державне унітарне підприємство «Всеросійська державна телевізійна і радіомовна компанія»",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Федеральне державне унітарне підприємство \"Всеросійська державна телевізійна і радіомовна компанія\"",
+        "term": "19.10.2032",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "otr-online.ru": {
         "term": "21.05.2024",
@@ -643,24 +581,24 @@
         "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "россиясегодня.рф": {
-        "company": "Федеральне державне унітарне підприємство «Міжнародне інформаційне агентство «Росія сьогодні»",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Федеральне державне унітарне підприємство \"Міжнародне інформаційне агентство \"Росія сьогодні\"",
+        "term": "19.10.2032",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "sputniknews.com": {
-        "company": "Федеральне державне унітарне підприємство «Міжнародне інформаційне агентство «Росія сьогодні»",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Федеральне державне унітарне підприємство \"Міжнародне інформаційне агентство \"Росія сьогодні\"",
+        "term": "19.10.2032",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "ria.ru": {
-        "company": "Федеральне державне унітарне підприємство «Міжнародне інформаційне агентство «Росія сьогодні»",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Федеральне державне унітарне підприємство \"Міжнародне інформаційне агентство \"Росія сьогодні\"",
+        "term": "19.10.2032",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "inosmi.ru": {
-        "company": "Федеральне державне унітарне підприємство «Міжнародне інформаційне агентство «Росія сьогодні»",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Федеральне державне унітарне підприємство \"Міжнародне інформаційне агентство \"Росія сьогодні\"",
+        "term": "19.10.2032",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "radiovera.ru": {
         "term": "21.05.2024",
@@ -705,19 +643,19 @@
         "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "rtr-planeta.com": {
-        "company": "Федеральне державне унітарне підприємство «Всеросійська державна телевізійна і радіомовна компанія»",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Федеральне державне унітарне підприємство \"Всеросійська державна телевізійна і радіомовна компанія\"",
+        "term": "19.10.2032",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "vesti.ru": {
-        "company": "Телеканали \"РТР-Планета\", інформаційний канал \"Росія-24\", які входять до структури Федерального державного унітарного підприємства \"Всеросійська державна телевізійна і радіомовна компанія\"",
-        "term": "24.06.2024",
-        "reason": "https://www.president.gov.ua/documents/2652021-39261"
+        "company": "Федеральне державне унітарне підприємство \"Всеросійська державна телевізійна і радіомовна компанія\"",
+        "term": "19.10.2032",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "1tv.ru": {
-        "term": "21.05.2024",
         "company": "Акціонерне товариство \"Перший канал\"",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "term": "19.10.2032",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "1tv.com": {
         "term": "21.05.2024",
@@ -780,9 +718,9 @@
         "reason": "https://www.president.gov.ua/documents/2652021-39261"
     },
     "ntv.ru": {
-        "company": "Відкрите акціонерне товариство \"Телекомпанія НТВ\"",
-        "term": "24.06.2024",
-        "reason": "https://www.president.gov.ua/documents/2652021-39261",
+        "company": "Акціонерне товариство \"Телекомпанія НТВ\"",
+        "term": "19.10.2032",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481",
         "alias": "ntv"
     },
     "www.capitaller.ru": {
@@ -1032,9 +970,9 @@
         "alias": "webmoney"
     },
     "tass.ru": {
-        "company": "Федеральне державне унітарне підприємство \"Інформаційне телеграфне агентство Росії (ІТАР-ТАСС)\"",
-        "term": "23.03.2024",
-        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+        "company": "Інформаційне телеграфне агентство Росії",
+        "term": "19.10.2032",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "rusvesna.su": {
         "term": "19.03.2022",
@@ -1083,9 +1021,9 @@
         "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "dan-news.info": {
-        "company": "Пушилін Денис Володимирович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Жукова Галина Едуардівна",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "mgb-dnr.ru": {
         "company": "Пушилін Денис Володимирович",
@@ -1138,9 +1076,9 @@
         "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "republic-tv.ru": {
-        "company": "Пушилін Денис Володимирович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Петренко Віктор Євгенійович",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "фридом.su": {
         "company": "Пушилін Денис Володимирович",
@@ -1178,9 +1116,9 @@
         "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "dnr24.su": {
-        "company": "Пушилін Денис Володимирович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"ФАН\"",
+        "term": "26.02.2033",
+        "reason": "https://www.president.gov.ua/documents/1162023-45965"
     },
     "dnr24.com": {
         "company": "Пушилін Денис Володимирович",
@@ -1203,9 +1141,9 @@
         "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "russian.oplot.tv": {
-        "company": "Захарченко Олександр Володимирович",
-        "term": "24.06.2024",
-        "reason": "https://www.president.gov.ua/documents/2662021-39265"
+        "company": "Абдуллаєв Ісмаїл Адалятович",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "ruscrimea.ru": {
         "company": "Аксьонов Сергій Валерійович",
@@ -1303,9 +1241,9 @@
         "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "crimea.ria.ru": {
-        "company": "Федеральне державне унітарне підприємство «Міжнародне інформаційне агентство «Росія сьогодні»",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Федеральне державне унітарне підприємство \"Міжнародне інформаційне агентство \"Росія сьогодні\"",
+        "term": "19.10.2032",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "gazetacrimea.ru": {
         "company": "Товариство з обмеженою відповідальністю \"Телерадіокомпанія ІТВ\"",
@@ -1328,19 +1266,19 @@
         "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "mslnr.su": {
-        "company": "Пасічник Леонід Іванович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Фетісов Олег Васильович",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "mu-lnr.su": {
-        "company": "Пасічник Леонід Іванович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Козьяков Сергій Юрійович",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "merlnr.su": {
-        "company": "Пасічник Леонід Іванович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Костенко Олена Миколаївна",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "minpromlnr.su": {
         "company": "Пасічник Леонід Іванович",
@@ -1348,49 +1286,49 @@
         "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "mintrudlnr.su": {
-        "company": "Пасічник Леонід Іванович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Малахова Світлана Анатоліївна",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "minfinlnr.su": {
-        "company": "Пасічник Леонід Іванович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Мануйлов Євген Володимирович",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "mshiplnr.su": {
-        "company": "Пасічник Леонід Іванович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Сороковенко Руслан Вікторович",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "minobr.su": {
-        "company": "Пасічник Леонід Іванович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Цемкало Сергій Олександрович",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "minstroylnr.su": {
-        "company": "Пасічник Леонід Іванович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Протасов Максим Олексійович",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "mintop.su": {
-        "company": "Пасічник Леонід Іванович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Мальгін Павло Володимирович",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "gknslnr.su": {
-        "company": "Пасічник Леонід Іванович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Бородін Сергій Олексійович",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "mprlnr.su": {
-        "company": "Пасічник Леонід Іванович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Грібачов Віктор Миколайович",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "fgi-lnr.su": {
-        "company": "Пасічник Леонід Іванович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Толмачов Олександр Олександрович",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "tsiklnr.su": {
         "company": "Пасічник Леонід Іванович",
@@ -1398,9 +1336,9 @@
         "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "mchs-lnr.su": {
-        "company": "Пасічник Леонід Іванович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Іванушкін Сергій Сергійович",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "nslnr.su": {
         "company": "Пасічник Леонід Іванович",
@@ -1408,9 +1346,9 @@
         "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "mvdlnr.ru": {
-        "company": "Пасічник Леонід Іванович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Корнет Ігор Олександрович",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "mgblnr.org": {
         "company": "Пасічник Леонід Іванович",
@@ -1508,11 +1446,9 @@
         "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "sovminlnr.ru": {
-        "term": "19.03.2022",
         "company": "Козлов Сергій Іванович",
-        "urls": [
-            "https://sovminlnr.ru/"
-        ]
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "gplnr.su": {
         "company": "Пасічник Леонід Іванович",
@@ -1520,109 +1456,104 @@
         "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "www.mklnr.su": {
-        "term": "19.03.2022",
         "company": "Кокоткіна Оксана Сергіївна",
-        "urls": [
-            "https://www.mklnr.su/"
-        ]
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "fplnr.org": {
-        "term": "19.03.2022",
-        "company": "Акімов Олег Костянтинович"
+        "company": "Акімов Олег Костянтинович",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "mintranslnr.su": {
-        "company": "Пасічник Леонід Іванович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Герасимчук Володимир Васильович",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "mzlnr.su": {
-        "company": "Пасічник Леонід Іванович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Василенко Ольга Миколаївна",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "pflnr.su": {
-        "company": "Пасічник Леонід Іванович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Васильєва Тетяна Михайлівна",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "gorod-lugansk.com": {
-        "company": "Пасічник Леонід Іванович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Пілавов Маноліс Васильович",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "antr-adm.ru": {
-        "term": "19.03.2022",
-        "company": "Андрєєнко Анатолій Олександрович"
+        "company": "Андрєєнко Анатолій Олександрович",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "krasnyluch.su": {
-        "company": "Пасічник Леонід Іванович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Васькевич Алла Вікторівна",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "kga.su": {
-        "term": "19.03.2022",
-        "company": "Карцев Геннадій Олександрович"
+        "company": "Карцев Геннадій Олександрович",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "slavlnr.su": {
-        "company": "Пасічник Леонід Іванович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Дейнека Олександр Анатолійович",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "stakhanov.su": {
-        "company": "Пасічник Леонід Іванович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Жевлаков Сергій Васильович",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "krasnodon.su": {
-        "company": "Пасічник Леонід Іванович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Козенко Сергій Павлович",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "bryanka.su": {
-        "company": "Пасічник Леонід Іванович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Моргунов Микола Вікторович",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "www.pervomaysklnr.su": {
-        "term": "19.03.2022",
         "company": "Афанасьєв Сергій Павлович",
-        "urls": [
-            "https://www.pervomaysklnr.su/"
-        ]
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "rov-adm.su": {
-        "company": "Пасічник Леонід Іванович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Княжев Сергій Миколайович",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "svk-portal.su": {
-        "company": "Пасічник Леонід Іванович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Сухачов Андрій Валерійович",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "lutugino.su": {
-        "company": "Пасічник Леонід Іванович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Михайлов Віталій Васильович",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "alchevsk.su": {
-        "company": "Пасічник Леонід Іванович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "П'яткова (Пяткова) Наталія Петрівна",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "vmakeevke.com": {
-        "term": "19.03.2022",
         "company": "Холоімов Олександр Олександрович",
-        "urls": [
-            "https://vmakeevke.com/"
-        ]
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "novorossia.vision": {
-        "term": "19.03.2022",
-        "company": "Міненкова Анастасія Олександрівна та Черняк Андрій Іванович",
-        "urls": [
-            "https://novorossia.vision/"
-        ]
+        "company": "Міненкова Анастасія Олександрівна",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "achtungpartisanen.ru": {
         "term": "19.03.2022",
@@ -1922,8 +1853,9 @@
         "company": "Товариство з обмеженою відповідальністю «Дата Інтернет»"
     },
     "rkn.gov.ru": {
-        "term": "19.03.2022",
-        "company": "Федеральна служба з нагляду у сфері зв’язку, інформаційних технологій і масових комунікацій Російської Федерації"
+        "company": "Федеральна служба з нагляду у сфері зв'язку, інформаційних технологій і масових комунікацій",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "www.n1casino.com": {
         "company": "N1Casino",
@@ -2150,19 +2082,19 @@
         "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=1876"
     },
     "newinform.com": {
-        "term": "14.05.2023",
-        "company": "ТОВ \"Новінфо\"",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "company": "Товариство з обмеженою відповідальністю \"Новінфо\"",
+        "term": "12.05.2033",
+        "reason": "https://www.president.gov.ua/documents/2802023-46761"
     },
     "inforeactor.ru": {
-        "term": "14.05.2023",
-        "company": "ТОВ \"Новінфо\"",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "company": "Товариство з обмеженою відповідальністю \"Новінфо\"",
+        "term": "12.05.2033",
+        "reason": "https://www.president.gov.ua/documents/2802023-46761"
     },
     "politros.com": {
-        "term": "14.05.2023",
-        "company": "ТОВ \"Новінфо\"",
-        "reason": "https://www.president.gov.ua/documents/1842020-33629"
+        "company": "Товариство з обмеженою відповідальністю \"Новінфо\"",
+        "term": "12.05.2033",
+        "reason": "https://www.president.gov.ua/documents/2802023-46761"
     },
     "riafan.ru": {
         "term": "14.05.2023",
@@ -2170,9 +2102,9 @@
         "reason": "https://www.president.gov.ua/documents/1842020-33629"
     },
     "jpgazeta.ru": {
-        "company": "Товариство з обмеженою відповідальністю \"Федеральне агентство новин\"",
-        "term": "23.03.2024",
-        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+        "company": "Товариство з обмеженою відповідальністю \"ФАН\"",
+        "term": "26.02.2033",
+        "reason": "https://www.president.gov.ua/documents/1162023-45965"
     },
     "finbet.bet": {
         "term": null,
@@ -2772,14 +2704,14 @@
         "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "vesti-k.ru": {
-        "company": "Федеральне державне унітарне підприємство «Всеросійська державна телевізійна і радіомовна компанія»",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Федеральне державне унітарне підприємство \"Всеросійська державна телевізійна і радіомовна компанія\"",
+        "term": "19.10.2032",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "smotrim.ru": {
-        "company": "Федеральне державне унітарне підприємство «Всеросійська державна телевізійна і радіомовна компанія»",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Федеральне державне унітарне підприємство \"Всеросійська державна телевізійна і радіомовна компанія\"",
+        "term": "19.10.2032",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "moscowmedia.net": {
         "company": "Акціонерне товариство \"МОСКВА МЕДІА\"",
@@ -2807,14 +2739,14 @@
         "reason": "https://www.president.gov.ua/documents/2662021-39265"
     },
     "tvc.ru": {
-        "company": "Акціонерне товариство \"ТВ Центр\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Акціонерне товариство \"ТВ центр\"",
+        "term": "19.10.2032",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "telesputnik.ru": {
-        "company": "Акціонерне товариство \"ТВ Центр\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Акціонерне товариство \"ТВ центр\"",
+        "term": "19.10.2032",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "rbc.ru": {
         "company": "Акціонерне товариство \"Росбізнесконсалтинг\"",
@@ -3102,39 +3034,46 @@
         "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "www.yoomoney.ru": {
-        "company": "Товариство з обмеженою відповідальністю Небанківська кредитна організація \"ЮМані\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Цифрові технології\"",
+        "term": "19.10.2032",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481",
+        "alias": "yandex"
     },
     "promo.yoomoney.ru": {
-        "company": "Товариство з обмеженою відповідальністю Небанківська кредитна організація \"ЮМані\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Цифрові технології\"",
+        "term": "19.10.2032",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481",
+        "alias": "yandex"
     },
     "yoomoney.website": {
-        "company": "Товариство з обмеженою відповідальністю Небанківська кредитна організація \"ЮМані\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Цифрові технології\"",
+        "term": "19.10.2032",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481",
+        "alias": "yandex"
     },
     "new.yoomoney.ru": {
-        "company": "Товариство з обмеженою відповідальністю Небанківська кредитна організація \"ЮМані\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Цифрові технології\"",
+        "term": "19.10.2032",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481",
+        "alias": "yandex"
     },
     "jobs.yoomoney.ru": {
-        "company": "Товариство з обмеженою відповідальністю Небанківська кредитна організація \"ЮМані\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Цифрові технології\"",
+        "term": "19.10.2032",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481",
+        "alias": "yandex"
     },
     "yookassa.ru": {
-        "company": "Товариство з обмеженою відповідальністю Небанківська кредитна організація \"ЮМані\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Цифрові технології\"",
+        "term": "19.10.2032",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481",
+        "alias": "yandex"
     },
     "yumoney.ru": {
-        "company": "Товариство з обмеженою відповідальністю Небанківська кредитна організація \"ЮМані\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Цифрові технології\"",
+        "term": "19.10.2032",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481",
+        "alias": "yandex"
     },
     "russia.tv": {
         "company": "Телеканали \"РТР-Планета\", інформаційний канал \"Росія-24\", які входять до структури Федерального державного унітарного підприємства \"Всеросійська державна телевізійна і радіомовна компанія\"",
@@ -3243,8 +3182,8 @@
     },
     "nm-g.ru": {
         "company": "Акціонерне товариство \"Національна медіа група\"",
-        "term": "24.06.2024",
-        "reason": "https://www.president.gov.ua/documents/2662021-39265"
+        "term": "19.10.2032",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "wbc.com.ru": {
         "company": "Товариство з обмеженою відповідальністю \"Медіа Контент\"",
@@ -3434,8 +3373,8 @@
     },
     "politexpert.net": {
         "company": "Товариство з обмеженою відповідальністю \"Новінфо\"",
-        "term": "21.08.2024",
-        "reason": "https://www.president.gov.ua/documents/3792021-39757"
+        "term": "12.05.2033",
+        "reason": "https://www.president.gov.ua/documents/2802023-46761"
     },
     "mk.ru": {
         "company": "Закрите акціонерне товариство \"Редакція газети \"Московський комсомолець\"",
@@ -3444,8 +3383,8 @@
     },
     "wink.rt.ru": {
         "company": "Публічне акціонерне товариство \"Ростелеком\"",
-        "term": "21.08.2024",
-        "reason": "https://www.president.gov.ua/documents/3792021-39757"
+        "term": "19.10.2032",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "svpressa.ru": {
         "company": "Автономна некомерційна організація  \"Інтернет-Преса\"",
@@ -3469,8 +3408,8 @@
     },
     "ukraina.ru": {
         "company": "Федеральне державне унітарне підприємство \"Міжнародне інформаційне агентство \"Росія сьогодні\"",
-        "term": "23.03.2024",
-        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+        "term": "19.10.2032",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "lenta.ru": {
         "company": "Товариство з обмеженою відповідальністю \"Лента.Ру\"",
@@ -3483,39 +3422,39 @@
         "reason": "https://www.president.gov.ua/documents/1092021-37481"
     },
     "rt.com": {
-        "company": "Автономна некомерційна організація \"ТВ-Новини\"",
-        "term": "23.03.2024",
-        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+        "company": "Автономна некомерційна організація \"ТВ-новини\"",
+        "term": "19.10.2032",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "asd.news": {
-        "company": "Товариство з обмеженою відповідальністю \"Федеральне агентство новин\"",
-        "term": "23.03.2024",
-        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+        "company": "Товариство з обмеженою відповідальністю \"ФАН\"",
+        "term": "26.02.2033",
+        "reason": "https://www.president.gov.ua/documents/1162023-45965"
     },
     "pikinform.ru": {
-        "company": "Товариство з обмеженою відповідальністю \"Федеральне агентство новин\"",
-        "term": "23.03.2024",
-        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+        "company": "Товариство з обмеженою відповідальністю \"ФАН\"",
+        "term": "26.02.2033",
+        "reason": "https://www.president.gov.ua/documents/1162023-45965"
     },
     "dnronlane.su": {
-        "company": "Товариство з обмеженою відповідальністю \"Федеральне агентство новин\"",
-        "term": "23.03.2024",
-        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+        "company": "Товариство з обмеженою відповідальністю \"ФАН\"",
+        "term": "26.02.2033",
+        "reason": "https://www.president.gov.ua/documents/1162023-45965"
     },
     "i-don.ru": {
-        "company": "Товариство з обмеженою відповідальністю \"Федеральне агентство новин\"",
-        "term": "23.03.2024",
-        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+        "company": "Товариство з обмеженою відповідальністю \"ФАН\"",
+        "term": "26.02.2033",
+        "reason": "https://www.president.gov.ua/documents/1162023-45965"
     },
     "rumedia24.com": {
-        "company": "Товариство з обмеженою відповідальністю \"Федеральне агентство новин\"",
-        "term": "23.03.2024",
-        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+        "company": "Товариство з обмеженою відповідальністю \"ФАН\"",
+        "term": "26.02.2033",
+        "reason": "https://www.president.gov.ua/documents/1162023-45965"
     },
     "rmnews.ru": {
-        "company": "Товариство з обмеженою відповідальністю \"Федеральне агентство новин\"",
-        "term": "23.03.2024",
-        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+        "company": "Товариство з обмеженою відповідальністю \"ФАН\"",
+        "term": "26.02.2033",
+        "reason": "https://www.president.gov.ua/documents/1162023-45965"
     },
     "howto-news.info": {
         "company": "Товариство з обмеженою відповідальністю \"Федеральне агентство новин\"",
@@ -3523,9 +3462,9 @@
         "reason": "https://www.president.gov.ua/documents/1092021-37481"
     },
     "novosti.icu": {
-        "company": "Товариство з обмеженою відповідальністю \"Федеральне агентство новин\"",
-        "term": "23.03.2024",
-        "reason": "https://www.president.gov.ua/documents/1092021-37481"
+        "company": "Товариство з обмеженою відповідальністю \"ФАН\"",
+        "term": "26.02.2033",
+        "reason": "https://www.president.gov.ua/documents/1162023-45965"
     },
     "www.group-ib.ru": {
         "company": "Товариство з обмеженою відповідальністю \"Група АйБі Сервіс\"",
@@ -3731,5 +3670,571 @@
         "company": "TOPIPTV.INFO",
         "term": null,
         "reason": "https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=2249"
+    },
+    "rs.gov.ru": {
+        "company": "Росспівробітництво",
+        "term": "19.10.2032",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
+    },
+    "ukr.rs.gov.ru": {
+        "company": "Росспівробітництво",
+        "term": "19.10.2032",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
+    },
+    "www.ints.net": {
+        "company": "Товариство з обмеженою відповідальністю \"Дата Інтернет\"",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
+    },
+    "bookmate.com": {
+        "company": "\"Букмейт Лімітед\"",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
+    },
+    "www.pl.com.ua": {
+        "company": "Товариство з обмеженою відповідальністю \"Форзац\"",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
+    },
+    "contactpay.com": {
+        "company": "Контактпей Солюшн Лтд",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
+    },
+    "paystree.com": {
+        "company": "Пейстрі Лтд",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
+    },
+    "au-donetsk.ru": {
+        "company": "Черняк Андрій Іванович",
+        "term": "19.10.2027",
+        "reason": "https://www.president.gov.ua/documents/7262022-44481"
+    },
+    "www.geopolitika.ru": {
+        "company": "Дугін Олександр Гелійович",
+        "term": "07.01.2033",
+        "reason": "https://www.president.gov.ua/documents/42023-45517"
+    },
+    "howtonews.info": {
+        "company": "Товариство з обмеженою відповідальністю \"ФАН\"",
+        "term": "26.02.2033",
+        "reason": "https://www.president.gov.ua/documents/1162023-45965"
+    },
+    "mostbet.ru": {
+        "company": "Акціонерне товариство \"СпортБет\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "poolbet.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"П'ятигорський іподром\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "fonbet.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Ф.О.Н.\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "betcity.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"БетСіті\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "ligastavok.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Перша міжнародна букмекерська компанія\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "winline.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Керуюча компанія Національного союзу конярства\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "888.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Букмекерська контора \"Парі\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "paribet.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Букмекерська контора \"Парі\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "bettery.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Атлантік-М\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "betring.org": {
+        "company": "Товариство з обмеженою відповідальністю \"БетРінг\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "tennisi.bet": {
+        "company": "Товариство з обмеженою відповідальністю \"Рус-Телетот\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "marathonbet.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Букмекерська контора \"Марафон\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "betboom.ru": {
+        "company": "Товариство з обмеженою відповідальністю Фірма \"СТОМ\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "baltbet.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Санторін\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "1xstavka.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Ставка РУ\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "zenit.win": {
+        "company": "Товариство з обмеженою відповідальністю \"Інвест Гарант\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "abet.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Панорама\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "leon.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Лєон\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "ggbet.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Бет.Ру\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "melbet.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Мелофон\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "voltbet.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Мелофон\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "olimp.bet": {
+        "company": "Товариство з обмеженою відповідальністю \"БК \"Олімп\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "fon.bet": {
+        "company": "Товариство з обмеженою відповідальністю \"Фонкор\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "bet365.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Голден Бет\" ",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "astrabet.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Спортрадар\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "star-bet.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Стар Бет\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "cmh.ru": {
+        "company": "Акціонерне товариство \"Російські іподроми\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "sportloto.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Спортивні лотереї\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "vgl-sport.ru": {
+        "company": "Акціонерне товариство \"ДСЛ\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "altaipalace.net": {
+        "company": "Товариство з обмеженою відповідальністю \"Алтай Пелас\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "nevelend.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Невеленд\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "sobranie-casino.com": {
+        "company": "Товариство з обмеженою",
+        "term": "https://www.president.gov.ua/documents/1452023-46085",
+        "reason": "відповідальністю \"Юні Геймінг Компані\"",
+        "alias": "10.03.2073"
+    },
+    "do-mein.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Домейн\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "gle.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Джі1 Інтертейнмент\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "1cupis.ru": {
+        "company": "Товариство з обмеженою відповідальністю небанківська кредитна організація \"Мобільна карта\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "bwin.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Діджитал Беттінг\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "forma-box.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Формабокс\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "avtopribor.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"НВК \"Автоприбор\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "stnmoscow.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"СТН\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "britannia-kaliningrad.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Британія в Калінінграді\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "cambridgecentre.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Кембріджський ресурсний центр\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "s8.capital": {
+        "company": "Акціонерне товариство \"С8 Капітал\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "parimatch.foundation": {
+        "company": "Паріматч Фаундейшн",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "parimatch.ua": {
+        "company": "Паріматч Фаундейшн",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085",
+        "urls": [
+            "http://parimatch.ua/csr/parimatchfoundation"
+        ]
+    },
+    "changamireltd.com": {
+        "company": "Чангамайр Холдингс Лімітед",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "findexiq.com": {
+        "company": "Фіндексік Лтд",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "melbet.com": {
+        "company": "Фіндексік Лтд",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "betwinner.com": {
+        "company": "Брукалка Лтд",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "linebet.com": {
+        "company": "Харбесіна Лтд",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "1xslots-online.com": {
+        "company": "Брукалка Лтд",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "22bet.com": {
+        "company": "Брукалка Лтд",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "1x-bet.com": {
+        "company": "Аком Летін Америка Н.В.",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "global.parimatch.com": {
+        "company": "Ауспіція Лімітед",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "nomadcasino.com": {
+        "company": "Ауспіція Лімітед",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "parimatch.com": {
+        "company": "Санкаст Фуруре Ен.Ві.",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "parimatch.net": {
+        "company": "Санкаст Фуруре Ен.Ві.",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "pokermatch.com": {
+        "company": "Інплейс Н.В.",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "1xbet.com": {
+        "company": "Уан-ЕксКорп Н.В.",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "pokermatch.ua": {
+        "company": "Товариство з обмеженою відповідальністю \"Покерматч.ЮА\" ",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "pm.ua": {
+        "company": "Товариство з обмеженою відповідальністю \"Паріматч\"",
+        "term": "10.03.2073",
+        "reason": "https://www.president.gov.ua/documents/1452023-46085"
+    },
+    "loftschool.com": {
+        "company": "Ковальчук Дмитро Миколайович",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "eduson.academy": {
+        "company": "Масолова Олена Володимирівна",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "sf.education": {
+        "company": "Вальцев Олександр Андрійович",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "algoritmika.org": {
+        "company": "Лобанов Андрій Сергійович",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "zerocoder.ru": {
+        "company": "Пшиннік Кирило Вадимович",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "gb.ru": {
+        "company": "Пшиннік Кирило Вадимович",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "karpov.courses": {
+        "company": "Карпов Анатолій Дмитрович",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "academyit.ru": {
+        "company": "Морозов Ігор Олегович",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "skyeng.in.ua": {
+        "company": "Морозов Ігор Олегович",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "skyeng.ru": {
+        "company": "Морозов Ігор Олегович",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "skyeng.com.ua": {
+        "company": "Морозов Ігор Олегович",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "skysmart.ru": {
+        "company": "Морозов Ігор Олегович",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "coddyschool.com": {
+        "company": "Селендєєва Оксана Миколаївна",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "kiev.coddyschool.com": {
+        "company": "Селендєєва Оксана Миколаївна",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "interra.bz": {
+        "company": "Селендєєва Оксана Миколаївна",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "stepik.org": {
+        "company": "Вяххі Микола Іванович",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "htmlacademy.ru": {
+        "company": "Першин Олександр Олександрович",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "productstar.ru": {
+        "company": "Карпов Михайло Олександрович",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "hexlet.io": {
+        "company": "Карпов Михайло Олександрович",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "otus.ru": {
+        "company": "Гузєєв Денис Геннадійович",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "clubpixel.ru": {
+        "company": "Чибриков Віталій Валерійович",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "skillbox.ru": {
+        "company": "Крутов Дмитро Валерійович",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "brunoyam.com": {
+        "company": "Пузіков Сергій Олександрович",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "skillfactory.ru": {
+        "company": "Єрошкін Олександр Анатолійович",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "msk.top-academy.ru": {
+        "company": "Єрошкін Олександр Анатолійович",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "media-xyz.com": {
+        "company": "Спеціан Павло Леонідович",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "school-xyz.com": {
+        "company": "Спеціан Павло Леонідович",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "network-xyz.com": {
+        "company": "Спеціан Павло Леонідович",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "sky.pro": {
+        "company": "Товариство з обмеженою відповідальністю \"Скаєнг\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "ya-taxi.bitrix24.site": {
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
+    },
+    "30.523541": {
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
+    },
+    "50.450418": {
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
+    },
+    "93.1": {
+        "company": "Товариство з обмеженою відповідальністю \"Яндекс\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525",
+        "alias": "yandex"
+    },
+    "livejournal.com": {
+        "company": "Товариство з обмеженою відповідальністю \"Рамблер Груп\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "rambler.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Рамблер Груп\"",
+        "term": "15.04.2033",
+        "reason": "https://www.president.gov.ua/documents/2272023-46525"
+    },
+    "slovodel.com": {
+        "company": "Товариство з обмеженою відповідальністю \"Новінфо\"",
+        "term": "12.05.2033",
+        "reason": "https://www.president.gov.ua/documents/2802023-46761"
+    },
+    "www.mail.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"В Контакте\"",
+        "term": "12.05.2033",
+        "reason": "https://www.president.gov.ua/documents/2802023-46761",
+        "alias": "vk"
+    },
+    "www.vk.com": {
+        "company": "Товариство з обмеженою відповідальністю \"В Контакте\"",
+        "term": "12.05.2033",
+        "reason": "https://www.president.gov.ua/documents/2802023-46761",
+        "alias": "vk"
+    },
+    "www.ok.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"В Контакте\"",
+        "term": "12.05.2033",
+        "reason": "https://www.president.gov.ua/documents/2802023-46761",
+        "alias": "vk"
+    },
+    "2gis.ua": {
+        "company": "Товариство з обмеженою відповідальністю \"ДубльГІС\"",
+        "term": "27.05.2033",
+        "reason": "https://www.president.gov.ua/documents/3072023-46917"
+    },
+    "2gis.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"ДубльГІС\"",
+        "term": "27.05.2033",
+        "reason": "https://www.president.gov.ua/documents/3072023-46917"
     }
 }
