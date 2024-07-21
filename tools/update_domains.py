@@ -21,13 +21,13 @@ def pdf_to_text(filename):
     # Call pdftotext and capture the output
     result = subprocess.run(['pdftotext', '-colspacing', '0.3', '-layout', filename, '-'], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     if result.returncode != 0:
-        print("Error converting PDF to text:", result.stderr.decode('utf-8'))
+        print("[ERROR] error converting PDF to text:", result.stderr.decode('utf-8'))
         return None
     return result.stdout.decode('utf-8')
 
 def remove_unwanted_sections(text):
     # Define the pattern to remove text from form feed until "юридичної особи)"
-    form_feed_pattern = re.compile(r'\f.*?юридичної особи\)', re.DOTALL)
+    form_feed_pattern = re.compile(r'\f.*?(юридичної особи\)|професійна діяльність)', re.DOTALL)
     
     # Substitute the unwanted sections with an empty string
     cleaned_text = re.sub(form_feed_pattern, '', text)
@@ -36,10 +36,10 @@ def remove_unwanted_sections(text):
 
 def split_text_into_chunks(text):
     # Define the regex pattern to split the text
-    pattern = re.compile(r'(?<=\n)(\d+\..*?)(?=\n\d+\.)', re.DOTALL)
+    pattern = re.compile(r'\n\d+\.', re.DOTALL)
     
     # Find all chunks
-    chunks = pattern.findall(text)
+    chunks = pattern.split(text)
     
     return chunks
 
@@ -50,11 +50,12 @@ def extract_company_name(chunk):
     # Join all the lines in the second column, stripping extra whitespace
     second_column_text = []
     for line in lines:
-        columns = re.split(r'\s{2,}', line)
+        columns = re.split(r'\s{2,}|^\s+', line)
         if len(columns) > 1:
             second_column_text.append(columns[1].strip())
     
     joined_text = ' '.join(second_column_text).replace('- ', '-')
+    
     
     # Extract text until the first "(" symbol
     company_name = joined_text.split('(')[0].strip()
