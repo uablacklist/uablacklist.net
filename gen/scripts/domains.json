@@ -554,31 +554,22 @@
         "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "otr-online.ru": {
-        "term": "21.05.2024",
-        "company": "Автономна некомерційна організація «Суспільне телебачення Росії»",
-        "alias": "otr",
-        "urls": [
-            "http://otr-online.ru/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Автономна некомерційна організація \"Суспільне телебачення Росії\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
+        "alias": "otr"
     },
     "ren.tv": {
-        "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю «Акцепт», телевізійний канал «Рен ТВ»",
-        "alias": "ren",
-        "urls": [
-            "http://ren.tv/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Акцепт\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
+        "alias": "ren"
     },
     "5-tv.ru": {
-        "term": "21.05.2024",
-        "company": "Відкрите акціонерне товариство «Телерадіокомпанія Петербург»",
-        "alias": "5_tv",
-        "urls": [
-            "http://5-tv.ru/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Акціонерне товариство \"Телерадіокомпанія \"Петербург\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
+        "alias": "5_tv"
     },
     "россиясегодня.рф": {
         "company": "Федеральне державне унітарне підприємство \"Міжнародне інформаційне агентство \"Росія сьогодні\"",
@@ -601,22 +592,16 @@
         "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "radiovera.ru": {
-        "term": "21.05.2024",
-        "company": "Автономна некомерційна організація Інформаційний центр радіомовлення, мистецтва і культури «ВІРА, НАДІЯ, ЛЮБОВ»",
-        "alias": "radiovera",
-        "urls": [
-            "http://radiovera.ru/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Автономна некомерційна організація Інформаційний центр радіомовлення, мистецтва і культури \"Віра, надія, любов\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
+        "alias": "radiovera"
     },
     "tnt-online.ru": {
-        "term": "21.05.2024",
-        "company": "Акціонерне товариство «МОСКВА МЕДІА»",
-        "alias": "tnt",
-        "urls": [
-            "http://tnt-online.ru/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Акціонерне товариство \"ТНТ-Телемережа\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
+        "alias": "tnt"
     },
     "tvzvezda.ru": {
         "term": "21.05.2024",
@@ -628,19 +613,16 @@
         "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "ntvplus.ru": {
-        "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю \"НТВ-ПЛЮС\"",
-        "alias": "ntvplus",
-        "urls": [
-            "http://ntvplus.ru/"
-        ],
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"НТВ ПЛЮС\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
+        "alias": "ntvplus"
     },
     "ntvplus.tv": {
-        "term": "21.05.2024",
-        "company": "Товариство з обмеженою відповідальністю \"НТВ-ПЛЮС\"",
-        "alias": "ntvplus",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"НТВ ПЛЮС\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
+        "alias": "ntvplus"
     },
     "rtr-planeta.com": {
         "company": "Федеральне державне унітарне підприємство \"Всеросійська державна телевізійна і радіомовна компанія\"",
@@ -658,14 +640,14 @@
         "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "1tv.com": {
-        "term": "21.05.2024",
-        "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Акціонерне товариство \"Перший канал. Всесвітня мережа\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "domkino.tv": {
-        "company": "Відкрите акціонерне товариство \"Перший канал. Всесвітня мережа\"",
-        "term": "24.06.2024",
-        "reason": "https://www.president.gov.ua/documents/2652021-39261"
+        "company": "Акціонерне товариство \"Перший канал. Всесвітня мережа\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "domkino-premium.tv": {
         "company": "Відкрите акціонерне товариство \"Перший канал. Всесвітня мережа\"",
@@ -673,24 +655,24 @@
         "reason": "https://www.president.gov.ua/documents/2652021-39261"
     },
     "muz1.tv": {
-        "company": "Відкрите акціонерне товариство \"Перший канал. Всесвітня мережа\"",
-        "term": "24.06.2024",
-        "reason": "https://www.president.gov.ua/documents/2652021-39261"
+        "company": "Акціонерне товариство \"Перший канал. Всесвітня мережа\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "vremya.tv": {
-        "company": "Відкрите акціонерне товариство \"Перший канал. Всесвітня мережа\"",
-        "term": "24.06.2024",
-        "reason": "https://www.president.gov.ua/documents/2652021-39261"
+        "company": "Акціонерне товариство \"Перший канал. Всесвітня мережа\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "pobeda.tv": {
-        "term": "21.05.2024",
-        "company": "Відкрите акціонерне товариство «Перший канал. Всесвітня мережа»",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Акціонерне товариство \"Перший канал. Всесвітня мережа\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "telecafe.ru": {
-        "company": "Відкрите акціонерне товариство \"Перший канал. Всесвітня мережа\"",
-        "term": "24.06.2024",
-        "reason": "https://www.president.gov.ua/documents/2652021-39261"
+        "company": "Акціонерне товариство \"Перший канал. Всесвітня мережа\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "bober-tv.ru": {
         "company": "Відкрите акціонерне товариство \"Перший канал. Всесвітня мережа\"",
@@ -698,19 +680,19 @@
         "reason": "https://www.president.gov.ua/documents/2652021-39261"
     },
     "kanal-o.ru": {
-        "company": "Відкрите акціонерне товариство \"Перший канал. Всесвітня мережа\"",
-        "term": "24.06.2024",
-        "reason": "https://www.president.gov.ua/documents/2652021-39261"
+        "company": "Акціонерне товариство \"Перший канал. Всесвітня мережа\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "poehali.tv": {
-        "company": "Відкрите акціонерне товариство \"Перший канал. Всесвітня мережа\"",
-        "term": "24.06.2024",
-        "reason": "https://www.president.gov.ua/documents/2652021-39261"
+        "company": "Акціонерне товариство \"Перший канал. Всесвітня мережа\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "katyusha.tv": {
-        "company": "Відкрите акціонерне товариство \"Перший канал. Всесвітня мережа\"",
-        "term": "24.06.2024",
-        "reason": "https://www.president.gov.ua/documents/2652021-39261"
+        "company": "Акціонерне товариство \"Перший канал. Всесвітня мережа\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "karusel-tv.ru": {
         "company": "Відкрите акціонерне товариство \"Перший канал. Всесвітня мережа\"",
@@ -724,93 +706,93 @@
         "alias": "ntv"
     },
     "www.capitaller.ru": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "mini.webmoney.ru": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "mini.wmtransfer.com": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "light.webmoney.ru": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "light.wmtransfer.com": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "wiki.webmoney.ru": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "webmoney.ru": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "wmtransfer.com": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "passport.webmoney.ru": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "security.webmoney.ru": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "security.wmtransfer.com": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "exchanger.ru": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "login.wmtransfer.com": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "credit.webmoney.ru": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "debt.wmtransfer.com": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "banking.guarantee.ru": {
@@ -844,21 +826,21 @@
         "alias": "webmoney"
     },
     "arbitrage.webmoney.ru": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "keeper.webmoney.ru": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "keeper.wmtransfer.com": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "wmsc1.webmoney.ru": {
@@ -889,39 +871,39 @@
         "alias": "webmoney"
     },
     "merchant.webmoney.ru": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "merchant.wmtransfer.com": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "telepay.webmoney.ru": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "telepay.wmtransfer.com": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "wm.exchanger.money": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "events.wmtransfer.com": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "arbitrage.webmoney.ua": {
@@ -931,21 +913,21 @@
         "alias": "webmoney"
     },
     "files.wmtransfer.com": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "mail.wmid.com": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "advisor.wmtransfer.com": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "paymaster.ua": {
@@ -1212,8 +1194,8 @@
     },
     "1tvcrimea.ru": {
         "company": "Автономна некомерційна організація \"Телерадіокомпанія \"Крим\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "ikstv.ru": {
         "company": "Державна автономна установа міста Севастополя \"Севастопольская телерадиокомпания\"",
@@ -1221,19 +1203,19 @@
         "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "yalta-tv.ru": {
-        "company": "Товариство з обмеженою відповідальністю \"Студія \"Ялта ТВ\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Телерадіокомпанія \"Ялта\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "yaltatv.ru": {
         "company": "Товариство з обмеженою відповідальністю \"Телерадіокомпанія \"Ялта\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "kianews24.ru": {
-        "company": "Аксьонов Сергій Валерійович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Державна бюджетна установа Республіки Крим \"Редакція газети \"Кримська газета\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "c-eho.info": {
         "company": "Аксьонов Сергій Валерійович",
@@ -1246,9 +1228,9 @@
         "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "gazetacrimea.ru": {
-        "company": "Товариство з обмеженою відповідальністю \"Телерадіокомпанія ІТВ\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Державна бюджетна установа Республіки Крим \"Редакція газети \"Кримська газета\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "lug-info.com": {
         "company": "Пасічник Леонід Іванович",
@@ -2284,9 +2266,9 @@
         "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "journalcrimea.ru": {
-        "company": "Аксьонов Сергій Валерійович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Державна бюджетна установа Республіки Крим \"Редакція газети \"Кримська газета\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "ok-crimea.ru": {
         "company": "Аксьонов Сергій Валерійович",
@@ -2714,29 +2696,29 @@
         "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "moscowmedia.net": {
-        "company": "Акціонерне товариство \"МОСКВА МЕДІА\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Акціонерне товариство \"Москва Медіа\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "m24.ru": {
-        "company": "Акціонерне товариство \"МОСКВА МЕДІА\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Акціонерне товариство \"Москва Медіа\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "mskagency.ru": {
-        "company": "Акціонерне товариство \"МОСКВА МЕДІА\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Акціонерне товариство \"Москва Медіа\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "iz.ru": {
         "company": "Товариство з обмеженою відповідальністю \"Мультимедійний інформаційний центр \"Ізвєстія\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "nashe.ru": {
-        "company": "Товариство з обмеженою відповідальністю \"Наше Радіо\"",
-        "term": "24.06.2024",
-        "reason": "https://www.president.gov.ua/documents/2662021-39265"
+        "company": "Закрите акціонерне товариство \"Мультимедіа Холдинг\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "tvc.ru": {
         "company": "Акціонерне товариство \"ТВ центр\"",
@@ -2759,9 +2741,9 @@
         "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "crimea.mk.ru": {
-        "company": "Закрите акціонерне товариство \"Редакція газети \"Московський комсомолець\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Акціонерне товариство \"Редакція газети \"Московський комсомолець\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "crimea24.tv": {
         "company": "Автономна некомерційна організація \"Телерадіокомпанія \"Крим\"",
@@ -2770,18 +2752,18 @@
     },
     "crimea-radio.ru": {
         "company": "Автономна некомерційна організація \"Телерадіокомпанія \"Крим\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "crimeapress.info": {
         "company": "Товариство з обмеженою відповідальністю \"Інформаційна платформа Кримпрес\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "stv92.ru": {
-        "company": "Державна автономна установа міста Севастополя \"Севастопольская телерадиокомпания\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Державна автономна установа міста Севастополя \"Севастопольська телерадіокомпанія\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "wmscl.webmoney.ru": {
         "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
@@ -2790,15 +2772,15 @@
         "alias": "webmoney"
     },
     "info.paymaster.ru": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "web-moneta.com": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "webmoney-keeper.ru": {
@@ -2820,9 +2802,9 @@
         "alias": "webmoney"
     },
     "wiki.wmtransfer.com": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "exchanger.money.ru": {
@@ -2832,9 +2814,9 @@
         "alias": "webmoney"
     },
     "wmchanger.com": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "webmoney.com.ua": {
@@ -2844,9 +2826,9 @@
         "alias": "webmoney"
     },
     "webmoney.by": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "owebmoney.ru": {
@@ -2868,20 +2850,20 @@
         "alias": "webmoney"
     },
     "www.smartwm.ru": {
-        "company": "Товариство з обмеженою відповідальністю \"Вебмані.Ру\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949",
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "webmoney"
     },
     "www.nateks.ru": {
-        "company": "Акціонерне товариство \"Група компаній Натекс\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Газтєхсвязь\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "nateks-dv.ru": {
-        "company": "Акціонерне товариство \"Група компаній Натекс\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Газтєхсвязь\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "nateks-ural.ru": {
         "company": "Акціонерне товариство \"Група компаній Натекс\"",
@@ -2889,149 +2871,144 @@
         "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
     "nateks-don.ru": {
-        "company": "Акціонерне товариство \"Група компаній Натекс\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Газтєхсвязь\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "megatransov.net": {
-        "company": "Акціонерне товариство \"Група компаній Натекс\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Газтєхсвязь\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "nateks-volga.ru": {
-        "company": "Акціонерне товариство \"Група компаній Натекс\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Газтєхсвязь\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "nateks.telecomsite.ru": {
-        "company": "Акціонерне товариство \"Група компаній Натекс\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Газтєхсвязь\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "nateks.by": {
-        "company": "Акціонерне товариство \"Група компаній Натекс\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Газтєхсвязь\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "www.inlinegroup.ru": {
-        "company": "Акціонерне товариство \"Інлайн груп\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Смарт-Сіті\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "inlinegroup-c.ru": {
-        "company": "Акціонерне товариство \"Інлайн груп\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Смарт-Сіті\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "www.inlinegroup.ua": {
-        "company": "Акціонерне товариство \"Інлайн груп\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Смарт-Сіті\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "megasoft-ltd.ru": {
-        "company": "Товариство з обмеженою відповідальністю \"Мегасофт\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"Смарт-Сіті\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "www.qiwi.ua": {
-        "company": "Акціонерне товариство \"КІВІ\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "\"КІВІ Банк\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "www.qiwi.com": {
-        "company": "Акціонерне товариство \"КІВІ\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "\"КІВІ Банк\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "qiwi.gcs": {
         "company": "Акціонерне товариство \"КІВІ\"",
         "term": "21.05.2024",
         "reason": "https://www.president.gov.ua/documents/2032021-38949"
     },
-    "web.com": {
-        "company": "Акціонерне товариство \"КІВІ\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
-    },
     "p2p.qiwi.com": {
-        "company": "Акціонерне товариство \"КІВІ\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "\"КІВІ Банк\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "jobs.qiwi.com": {
-        "company": "Акціонерне товариство \"КІВІ\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "\"КІВІ Банк\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "corp.qiwi.com": {
-        "company": "Акціонерне товариство \"КІВІ\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "\"КІВІ Банк\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "qiwitrue.dev": {
-        "company": "Акціонерне товариство \"КІВІ\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "\"КІВІ Банк\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "universe.qiwi.com": {
-        "company": "Акціонерне товариство \"КІВІ\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "\"КІВІ Банк\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "static.qiwi.com": {
-        "company": "Акціонерне товариство \"КІВІ\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "\"КІВІ Банк\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "qiwiguide.ru": {
-        "company": "Акціонерне товариство \"КІВІ\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "\"КІВІ Банк\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "qiwi.me": {
-        "company": "Акціонерне товариство \"КІВІ\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "\"КІВІ Банк\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "bonus.qiwi.com": {
-        "company": "Акціонерне товариство \"КІВІ\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "\"КІВІ Банк\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "travel.qiwi.com": {
-        "company": "Акціонерне товариство \"КІВІ\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "\"КІВІ Банк\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "donate.qiwi.com": {
-        "company": "Акціонерне товариство \"КІВІ\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "\"КІВІ Банк\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "teamplay.qiwi.com": {
-        "company": "Акціонерне товариство \"КІВІ\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "\"КІВІ Банк\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "investor.qiwi.com": {
-        "company": "Акціонерне товариство \"КІВІ\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "\"КІВІ Банк\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "qiwi.kz": {
-        "company": "Акціонерне товариство \"КІВІ\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "\"КІВІ Банк\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "developer.qiwi.com": {
-        "company": "Акціонерне товариство \"КІВІ\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "\"КІВІ Банк\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "tochka.com": {
-        "company": "Акціонерне товариство \"КІВІ\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "\"КІВІ Банк\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "www.yoomoney.ru": {
         "company": "Товариство з обмеженою відповідальністю \"Цифрові технології\"",
@@ -3058,15 +3035,15 @@
         "alias": "yandex"
     },
     "jobs.yoomoney.ru": {
-        "company": "Товариство з обмеженою відповідальністю \"Цифрові технології\"",
-        "term": "19.10.2032",
-        "reason": "https://www.president.gov.ua/documents/7262022-44481",
+        "company": "Товариство з обмеженою відповідальністю \"ЮМані\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "yandex"
     },
     "yookassa.ru": {
-        "company": "Товариство з обмеженою відповідальністю \"Цифрові технології\"",
-        "term": "19.10.2032",
-        "reason": "https://www.president.gov.ua/documents/7262022-44481",
+        "company": "Товариство з обмеженою відповідальністю \"ЮМані\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
         "alias": "yandex"
     },
     "yumoney.ru": {
@@ -3377,9 +3354,9 @@
         "reason": "https://www.president.gov.ua/documents/2802023-46761"
     },
     "mk.ru": {
-        "company": "Закрите акціонерне товариство \"Редакція газети \"Московський комсомолець\"",
-        "term": "21.08.2024",
-        "reason": "https://www.president.gov.ua/documents/3792021-39757"
+        "company": "Акціонерне товариство \"Редакція газети \"Московський комсомолець\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
     },
     "wink.rt.ru": {
         "company": "Публічне акціонерне товариство \"Ростелеком\"",
@@ -4331,5 +4308,149 @@
         "company": "Акціонерне товариство \"Кримтехнології\"",
         "term": "23.12.2033",
         "reason": "https://www.president.gov.ua/documents/8512023-49337"
+    },
+    "domkinopremium.tv": {
+        "company": "Акціонерне товариство \"Перший канал. Всесвітня мережа\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
+    },
+    "bober.ru": {
+        "company": "Акціонерне товариство \"Перший канал. Всесвітня мережа\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
+    },
+    "lapki.live": {
+        "company": "Акціонерне товариство \"Перший канал. Всесвітня мережа\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
+    },
+    "www.tvzvezda.ru": {
+        "company": "Відкрите акціонерне товариство \"Телерадіокомпанія Збройних Сил Російської Федерації \"Звєзда\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
+    },
+    "radiozvezda.ru": {
+        "company": "Відкрите акціонерне товариство \"Телерадіокомпанія Збройних Сил Російської Федерації \"Звєзда\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
+    },
+    "capitalfm.moscow": {
+        "company": "Акціонерне товариство \"Москва Медіа",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
+    },
+    "radiomoskvy.ru": {
+        "company": "Акціонерне товариство \"Москва Медіа",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
+    },
+    "www.mosfm.com": {
+        "company": "Акціонерне товариство \"Москва Медіа",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
+    },
+    "www.doverie-tv.ru": {
+        "company": "Акціонерне товариство \"Москва Медіа",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
+    },
+    "veraifoma.ru": {
+        "company": "Автономна некомерційна організація Інформаційний центр радіомовлення, мистецтва і культури \"Віра, надія, любов\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
+        "alias": "radiovera"
+    },
+    "mk-zap.ru": {
+        "company": "Акціонерне товариство \"Редакція газети \"Московський комсомолець\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
+    },
+    "mk-herson.ru": {
+        "company": "Акціонерне товариство \"Редакція газети \"Московський комсомолець\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
+    },
+    "mk-donbass.ru": {
+        "company": "Акціонерне товариство \"Редакція газети \"Московський комсомолець\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
+    },
+    "crimea24tv.ru": {
+        "company": "Автономна некомерційна організація \"Телерадіокомпанія \"Крим\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
+    },
+    "slavasev.ru": {
+        "company": "Державна автономна установа міста Севастополя \"Севастопольська телерадіокомпанія\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
+    },
+    "premium.tv": {
+        "company": "Акціонерне товариство \"Перший канал. Всесвітня мережа\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
+    },
+    "rknpa.ru": {
+        "company": "Державна бюджетна установа Республіки Крим \"Редакція газети \"Кримська газета\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
+    },
+    "exchanger.money": {
+        "company": "Товариство з обмеженою відповідальністю \"Агентство Гарантій\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
+        "alias": "webmoney"
+    },
+    "ural.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Газтєхсвязь\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
+    },
+    "qiwi.gcs-web.com": {
+        "company": "\"КІВІ Банк\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897"
+    },
+    "yoomoney.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"ЮМані\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
+        "alias": "yandex"
+    },
+    "promo.yookassa.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"ЮМані\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
+        "alias": "yandex"
+    },
+    "youmoney.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"ЮМані\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
+        "alias": "yandex"
+    },
+    "yoomoney.uk": {
+        "company": "Товариство з обмеженою відповідальністю \"ЮМані\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
+        "alias": "yandex"
+    },
+    "yoobusiness.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"ЮМані\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
+        "alias": "yandex"
+    },
+    "kaspersky.ru": {
+        "company": "Акціонерне товариство \"Лабораторія Касперського\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
+        "alias": "kaspersky"
+    },
+    "drweb.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Доктор Веб\"",
+        "term": "22.03.2034",
+        "reason": "https://www.president.gov.ua/documents/3402024-50897",
+        "alias": "drweb"
     }
 }
