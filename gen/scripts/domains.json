@@ -984,11 +984,6 @@
         "term": "19.03.2022",
         "company": "Толстой Петро Олегович"
     },
-    "news-front.info": {
-        "company": "Пушилін Денис Володимирович",
-        "term": null,
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
-    },
     "nahnews.org": {
         "term": "19.03.2022",
         "company": "Толстой Петро Олегович"
@@ -2745,9 +2740,9 @@
         "reason": "https://www.president.gov.ua/documents/7262022-44481"
     },
     "rbc.ru": {
-        "company": "Акціонерне товариство \"Росбізнесконсалтинг\"",
-        "term": "21.05.2024",
-        "reason": "https://www.president.gov.ua/documents/2032021-38949"
+        "company": "Товариство з обмеженою відповідальністю \"БізнесПресс\"",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2302025-54457"
     },
     "tv.rbc.ru": {
         "company": "Акціонерне товариство \"Росбізнесконсалтинг\"",
@@ -4541,5 +4536,121 @@
         "company": "Акціонерне товариство \"Центр навігаційних технологій\"",
         "term": "02.09.2034",
         "reason": "https://www.president.gov.ua/documents/6012024-52009"
+    },
+    "theotherukraine.info": {
+        "company": "Коваленко Роман Олексійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2302025-54457"
+    },
+    "другаяукраина.рф": {
+        "company": "Коваленко Роман Олексійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2302025-54457"
+    },
+    "life.ru": {
+        "company": "Акціонерне товариство \"Ньюс Медіа\"",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2302025-54457"
+    },
+    "news-front.info": {
+        "company": "Товариство з обмеженою відповідальністю \"МедіаГрупп НьюсФронт\"",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2302025-54457"
+    },
+    "novoizdanie.com": {
+        "company": "Керечанин Неля Василівна",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2302025-54457"
+    },
+    "hersonka.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Херсонка.Ру\"",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2302025-54457"
+    },
+    "eadaily.com": {
+        "company": "Товариство з обмеженою відповідальністю \"Євразія Дейлі\"",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2302025-54457"
+    },
+    "readovka.news": {
+        "company": "Товариство з обмеженою відповідальністю \"Реадовка.Ру\"",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2302025-54457"
+    },
+    "readovka.world": {
+        "company": "Товариство з обмеженою відповідальністю \"Реадовка.Ру\"",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2302025-54457"
+    },
+    "inforos.ru": {
+        "company": "Товариство з обмеженою відповідальністю Інформаційне агентство \"Інфорос\"",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2302025-54457"
+    },
+    "belslavkom.by": {
+        "company": "Громадське об'єднання \"Білоруський слов'янський комітет",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2302025-54457"
+    },
+    "veche-info.ru": {
+        "company": "Міжрегіональна громадська організація сприяння збереженню вітчизняних традицій і культурної спадщини \"Вєчє\"",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2302025-54457"
+    },
+    "politring.com": {
+        "company": "Приватна просвітницька установа з питань історії, права і соціальних відносин \"Згода-Медіа\"",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2302025-54457"
+    },
+    "soglasie.by": {
+        "company": "Приватна просвітницька установа з питань історії, права і соціальних відносин \"Згода-Медіа\"",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2302025-54457"
+    },
+    "iarex.ru": {
+        "company": "Товариство з обмеженою відповідальністю Інформаційне агентство Рекс",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2302025-54457"
+    },
+    "tavria.tv": {
+        "company": "Автономна некомерційна організація Херсонської області \"Телерадіокомпанія \"Таврія\"",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2302025-54457"
+    },
+    "rutube.ru": {
+        "company": "Автономна некомерційна організація Херсонської області \"Телерадіокомпанія \"Таврія\"",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2302025-54457",
+        "urls": [
+            "http://rutube.ru/u/tavria"
+        ]
+    },
+    "dzen.ru": {
+        "company": "Автономна некомерційна організація Херсонської області \"Телерадіокомпанія \"Таврія\"",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2302025-54457",
+        "urls": [
+            "http://dzen.ru/tavria"
+        ]
+    },
+    "www.osnmedia.ru": {
+        "company": "Автономна некомерційна організація сприяння інформуванню і просвіті населення \"Медіахолдинг \"Громадська служба новин\"",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2302025-54457"
+    },
+    "www.sila-rf.ru": {
+        "company": "Автономна некомерційна організація сприяння інформуванню і просвіті населення \"Медіахолдинг \"Громадська служба новин\"",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2302025-54457"
+    },
+    "odessatypical.site": {
+        "company": "Синіцин Олександр Миколайович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2302025-54457"
+    },
+    "alternatio.org": {
+        "company": "Хорс Андрій Юрійович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/2302025-54457"
     }
 }
