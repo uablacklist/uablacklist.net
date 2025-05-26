@@ -11,7 +11,7 @@ parser = argparse.ArgumentParser(description='Parses a file with urls and adds/u
 parser.add_argument('--in', dest='in_file', type=str, default='in.txt', help='path to incoming data file')
 parser.add_argument('--aliases', type=str, default='../gen/scripts/aliases.json', help='path to aliases json file')
 parser.add_argument('--domains', type=str, default='../gen/scripts/domains.json', help='path to domains.json to update')
-parser.add_argument('--term', type=str, help='restriction term, format: "dd.mm.yyyy"')
+parser.add_argument('--term', type=str, default=None, help='restriction term, format: "dd.mm.yyyy"')
 parser.add_argument('--reason', type=str, help='restriction reason')
 
 DOMAIN_REGEX = '[0-9а-яa-z-]+(?:\.[0-9а-яa-z-]+)+'
