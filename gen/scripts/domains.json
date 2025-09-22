@@ -4717,5 +4717,25 @@
         "company": "Шапошніков Ростислав Сергійович",
         "term": null,
         "reason": "https://www.president.gov.ua/documents/3452025-55053"
+    },
+    "akademiya.znanierussia.ru": {
+        "company": "Загальноросійська громадсько-державна просвітницька організація \"Російське товариство \"Знання\"",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/3952025-55317"
+    },
+    "balashov.com.ua": {
+        "company": "Балашов Геннадій Вікторович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/5022025-55729"
+    },
+    "golos-naroda.tv": {
+        "company": "Філімоненко Всеволод Костянтинович",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/6942025-56541"
+    },
+    "sevkor.ru": {
+        "company": "Товариство з обмеженою відповідальністю \"Севастопольський Кореспондент\"",
+        "term": null,
+        "reason": "https://www.president.gov.ua/documents/6952025-56545"
     }
 }
